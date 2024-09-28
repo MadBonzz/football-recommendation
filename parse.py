@@ -94,7 +94,7 @@ def process_stats(stats_html):
         if i == 0:
             statistics = final_dfs[i].copy()
             continue
-        result = pd.concat([statistics, final_dfs[i]], axis=1, join='inner')
+        result = pd.concat([statistics, final_dfs[i]], axis=1)
         result = result.loc[:,~result.columns.duplicated()]
         statistics = result.copy()
     statistics.drop(columns=['for_join'], inplace=True)
