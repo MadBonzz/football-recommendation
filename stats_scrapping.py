@@ -1,4 +1,3 @@
-from undetected_chromedriver import Chrome
 import pandas as pd
 from DrissionPage import ChromiumOptions, ChromiumPage
 from time import sleep

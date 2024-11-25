@@ -1,0 +1,2382 @@
+,Name,age,footed,height,weight,current_club,League,Tier,FW,MF,DF
+0,Aaron Cresswell,34.0,Left,170.0,68.0,West Ham,Premier League,1,0,1,1
+1,Aaron Hickey,22.0,Both,175.0,64.0,Brentford,Premier League,1,0,1,1
+2,Aaron Ramsey,21.0,,178.0,76.0,Burnley,Premier League,1,0,1,0
+3,Aaron Seydel,,Left,199.0,89.0,Darmstadt 98,Bundesliga,1,1,0,0
+4,Aaron Wan-Bissaka,26.0,Right,182.0,72.0,West Ham,Premier League,1,0,0,1
+5,Aarón Martín,27.0,Left,180.0,72.0,Genoa,Serie A,1,0,1,1
+6,Abakar Sylla,21.0,,,,Strasbourg,Ligue 1,1,0,0,1
+7,Abdel Abqar,25.0,Right,188.0,79.0,Alavés,La Liga,1,0,0,1
+8,Abdelhamid Sabiri,27.0,Right,183.0,79.0,Al-Fayha,Pro League,1,0,1,0
+9,Abderrahman Rebbach,26.0,,,,Alavés,La Liga,1,1,0,0
+10,Abdessamad Ezzalzouli,22.0,Right,177.0,73.0,Betis,La Liga,1,1,1,0
+11,Abdou Harroui,26.0,Right,182.0,78.0,Hellas Verona,Serie A,1,0,1,0
+12,Abdoul Kader Bamba,,Right,176.0,67.0,Nantes,Ligue 1,1,1,1,0
+13,Abdoulaye Doucouré,31.0,Right,180.0,59.0,Everton,Premier League,1,1,1,0
+14,Abdoulaye Touré,30.0,Right,187.0,77.0,Le Havre,Ligue 1,1,1,1,0
+15,Abdul Mumin,26.0,Right,188.0,84.0,Rayo Vallecano,La Liga,1,0,0,1
+16,Abdón Prats,31.0,,177.0,76.0,Mallorca,La Liga,1,1,0,0
+17,Ablie Jallow,25.0,Left,166.0,55.0,Metz,Ligue 2,2,1,1,0
+18,Abner,24.0,Left,181.0,73.0,Lyon,Ligue 1,1,0,0,1
+19,Abraham Rando,23.0,,183.0,,Villarreal B,La Liga 2,2,0,0,1
+20,Achraf Dari,25.0,Right,190.0,82.0,Brest,Ligue 1,1,0,0,1
+21,Achraf Hakimi,25.0,Right,177.0,68.0,Paris S-G,Ligue 1,1,0,1,1
+22,Adam Aznou,18.0,,,,Bayern U19,U19 Bundesliga,6,0,0,1
+23,Adam Hložek,22.0,Right,180.0,87.0,Hoffenheim,Bundesliga,1,1,1,0
+24,Adam Lallana,36.0,Right,173.0,67.0,Southampton,Premier League,1,1,1,0
+25,Adam Marušić,31.0,Right,185.0,76.0,Lazio,Serie A,1,1,1,1
+26,Adam Masina,30.0,Left,189.0,78.0,Torino,Serie A,1,0,0,1
+27,Adam Obert,22.0,Left,186.0,,Cagliari,Serie A,1,0,0,1
+28,Adam Ounas,,Left,172.0,64.0,Lille,Ligue 1,1,1,1,0
+29,Adam Smith,33.0,Right,174.0,78.0,Bournemouth,Premier League,1,0,1,1
+30,Adam Webster,29.0,Right,192.0,79.0,Brighton,Premier League,1,0,0,1
+31,Adam Wharton,20.0,Left,182.0,,Crystal Palace,Premier League,1,0,1,0
+32,Adama Soumaoro,,Right,186.0,92.0,Bologna,Serie A,1,0,0,1
+33,Adama Traoré,28.0,Right,178.0,72.0,Fulham,Premier League,1,1,1,0
+34,Ademola Lookman,26.0,Right,174.0,69.0,Atalanta,Serie A,1,1,1,0
+35,Ademola Ola-Adebomi,20.0,,,,Waasland-Bev,Pro League B,2,1,0,0
+36,Adnan Januzaj,29.0,Left,182.0,74.0,Sevilla,La Liga,1,1,1,0
+37,Adri Embarba,32.0,Right,173.0,66.0,Rayo Vallecano,La Liga,1,1,1,0
+38,Adrian Beck,27.0,,183.0,,Heidenheim,Bundesliga,1,0,1,0
+39,Adrian Grbić,28.0,Right,185.0,82.0,Luzern,Super Lg,1,1,1,0
+40,Adrien Lebeau,25.0,Right,175.0,69.0,Hansa Rostock,3,3,0,1,0
+41,Adrien Rabiot,29.0,Left,188.0,71.0,Juventus,Serie A,1,0,1,0
+42,Adrien Tameze,30.0,Right,180.0,78.0,Torino,Serie A,1,0,1,1
+43,Adrien Thomasson,30.0,Right,182.0,74.0,Lens,Ligue 1,1,1,1,1
+44,Adrien Truffert,22.0,Left,173.0,60.0,Rennes,Ligue 1,1,0,0,1
+45,Adrià Altimira,23.0,Right,,,Leganés,La Liga,1,0,0,1
+46,Adrià Pedrosa,26.0,Left,172.0,68.0,Sevilla,La Liga,1,0,0,1
+47,Adryelson,26.0,Right,181.0,73.0,Lyon,Ligue 1,1,0,0,1
+48,Adson,23.0,Left,171.0,71.0,Vasco da Gama,Série A,1,1,1,0
+49,Agon Elezi,23.0,,178.0,,Varaždin,HNL,1,0,1,0
+50,Agustín Martegani,24.0,Left,,,Boca Juniors,Liga Argentina,1,0,1,0
+51,Agustín Álvarez Martínez,23.0,,180.0,71.0,Elche,La Liga 2,2,1,0,0
+52,Ahmed Touba,26.0,Right,184.0,78.0,Lecce,Serie A,1,0,0,1
+53,Aiham Ousou,24.0,,186.0,86.0,Charleroi,Pro League A,1,0,0,1
+54,Aihen Muñoz,27.0,Left,175.0,72.0,Real Sociedad,La Liga,1,0,0,1
+55,Aimar Oroz,22.0,Right,177.0,68.0,Osasuna,La Liga,1,0,1,0
+56,Ainsley Maitland-Niles,27.0,Right,180.0,67.0,Lyon,Ligue 1,1,1,1,1
+57,Aitor Paredes,24.0,Right,186.0,76.0,Athletic Club,La Liga,1,0,0,1
+58,Aitor Ruibal,28.0,Right,176.0,71.0,Betis,La Liga,1,1,1,1
+59,Akim Zedadka,29.0,Right,175.0,69.0,Zaragoza,La Liga 2,2,0,0,1
+60,Akor Adams,24.0,,184.0,,Montpellier,Ligue 1,1,1,0,0
+61,Alan Matturro,19.0,Left,189.0,,Genoa,Serie A,1,0,0,1
+62,Alan Virginius,21.0,Right,178.0,57.0,Young Boys,Super Lg,1,1,0,0
+63,Alassane Pléa,31.0,Right,180.0,72.0,Gladbach,Bundesliga,1,1,1,0
+64,Albert Guðmundsson,27.0,Right,177.0,66.0,Genoa,Serie A,1,1,1,0
+65,Albert Sambi Lokonga,24.0,Right,183.0,78.0,Sevilla,La Liga,1,0,1,0
+66,Alberto Cerri,28.0,Right,194.0,91.0,Como,Serie A,1,1,0,0
+67,Alberto Dossena,25.0,,,,Como,Serie A,1,0,0,1
+68,Alberto Grassi,29.0,Right,183.0,74.0,Empoli,Serie A,1,0,1,0
+69,Alberto Moleiro,20.0,,,,Las Palmas,La Liga,1,1,1,0
+70,Alberto Moreno,32.0,Left,172.0,63.0,Como,Serie A,1,0,1,1
+71,Alberto Perea,33.0,Right,177.0,83.0,Granada,La Liga,1,1,1,0
+72,Alberto Soro,25.0,Left,173.0,63.0,Dinamo,Liga I,1,1,1,0
+73,Aleix García,27.0,Right,173.0,60.0,Leverkusen,Bundesliga,1,0,1,0
+74,Alejandro Balde,20.0,Left,175.0,68.0,Barcelona,La Liga,1,0,0,1
+75,Alejandro Garnacho,20.0,,180.0,79.0,Manchester Utd,Premier League,1,1,1,0
+76,Alejandro Pozo Pozo,25.0,Right,174.0,68.0,Almería,La Liga 2,2,1,1,1
+77,Alejo Véliz,20.0,,,,Espanyol,La Liga,1,1,0,0
+78,Aleksandar Mitrović,29.0,Right,189.0,83.0,Al-Hilal,Saudi Professional League,1,1,0,0
+79,Aleksandar Pavlovic,20.0,,,,Bayern Munich,Bundesliga,1,0,1,0
+80,Aleksandar Radovanović,30.0,Right,188.0,79.0,Almería,La Liga,1,0,0,1
+81,Aleksandar Sedlar,32.0,Right,178.0,78.0,Alavés,La Liga,1,0,1,1
+82,Aleksandr Golovin,28.0,Right,180.0,69.0,Monaco,Ligue 1,1,1,1,0
+83,Aleksandr Kokorin,33.0,Right,183.0,78.0,Fiorentina,Serie A,1,1,1,0
+84,Aleksei Miranchuk,28.0,Left,182.0,73.0,Atlanta Utd,MLS,1,1,1,0
+85,Alessandro Bastoni,25.0,Left,190.0,83.0,Inter,Serie A,1,0,0,1
+86,Alessandro Buongiorno,25.0,Left,192.0,84.0,Napoli,Serie A,1,0,0,1
+87,Alessandro Cortinovis,23.0,Right,180.0,69.0,Cosenza,Serie B,2,0,1,0
+88,Alessandro Deiola,29.0,Right,189.0,84.0,Cagliari,Serie A,1,0,1,0
+89,Alessandro Di Pardo,25.0,Right,182.0,73.0,Modena,Serie B,2,0,1,1
+90,Alessandro Florenzi,33.0,Right,172.0,67.0,Milan,Serie A,1,1,1,1
+91,Alessandro Vogliacco,25.0,,,,Genoa,Serie A,1,0,0,1
+92,Alessandro Zanoli,23.0,Right,188.0,76.0,Genoa,Serie A,1,0,0,1
+93,Alessio Romagnoli,29.0,Left,188.0,78.0,Lazio,Serie A,1,0,0,1
+94,Alessio Zerbin,25.0,Right,182.0,79.0,Napoli,Serie A,1,1,0,0
+95,Alex Iwobi,28.0,Right,180.0,74.0,Fulham,Premier League,1,1,1,0
+96,Alex Král,26.0,Right,186.0,79.0,Espanyol,La Liga,1,0,1,0
+97,Alex Matos,19.0,,,,Huddersfield,Championship,2,0,1,0
+98,Alex Murphy,20.0,,,,Newcastle United,PL2,6,0,0,1
+99,Alex Sandro,33.0,Left,180.0,78.0,Juventus,Serie A,1,0,1,1
+100,Alex Scott,21.0,Right,,,Bournemouth,Premier League,1,0,1,0
+101,Alex Sola,25.0,Right,178.0,73.0,Getafe,La Liga,1,1,1,1
+102,Alexander Isak,24.0,Right,190.0,69.0,Newcastle Utd,Premier League,1,1,0,0
+103,Alexander Sørloth,28.0,Left,194.0,89.0,Atlético Madrid,La Liga,1,1,0,0
+104,Alexandre Lacazette,33.0,Right,175.0,73.0,Lyon,Ligue 1,1,1,0,0
+105,Alexis Beka Beka,23.0,Right,178.0,74.0,Nice,Ligue 1,1,0,1,0
+106,Alexis Blin,27.0,Right,184.0,78.0,Palermo,Serie B,2,0,1,0
+107,Alexis Claude-Maurice,26.0,Right,180.0,72.0,Nice,Ligue 1,1,1,1,0
+108,Alexis Mac Allister,25.0,Right,174.0,72.0,Liverpool,Premier League,1,0,1,0
+109,Alexis Saelemaekers,25.0,Right,180.0,72.0,Milan,Serie A,1,1,1,1
+110,Alexis Sánchez,35.0,Right,168.0,62.0,Inter,Serie A,1,1,1,0
+111,Alexsandro Ribeiro,25.0,Right,189.0,82.0,Lille,Ligue 1,1,0,0,1
+112,Alfie Dorrington,19.0,,,,Tottenham Hotspur,PL2,6,0,0,1
+113,Alfie Doughty,24.0,Left,195.0,79.0,Luton Town,Championship,2,0,1,1
+114,Alfie Gilchrist,20.0,,,,Sheffield Utd,Championship,2,0,0,1
+115,Alfonso Espino,32.0,Left,171.0,71.0,Rayo Vallecano,La Liga,1,0,0,1
+116,Alfonso Pedraza,28.0,Left,182.0,74.0,Villarreal,La Liga,1,1,1,1
+117,Alfred Duncan,31.0,Left,178.0,78.0,Venezia,Serie A,1,0,1,0
+118,Alidu Seidu,24.0,Right,173.0,68.0,Rennes,Ligue 1,1,0,0,1
+119,Aliou Badara Baldé,21.0,Right,163.0,58.0,Bochum,Bundesliga,1,1,0,0
+120,Aljoscha Kemlein,20.0,,185.0,79.0,Union Berlin,Bundesliga,1,0,1,0
+121,Allan Campbell,26.0,,175.0,73.0,Charlton Ath,League One,3,0,1,0
+122,Alois Confais,28.0,Right,174.0,60.0,Le Havre,Ligue 1,1,0,1,1
+123,Alphonso Davies,23.0,Left,178.0,68.0,Bayern Munich,Bundesliga,1,1,1,1
+124,Amad Diallo,22.0,Left,173.0,66.0,Manchester Utd,Premier League,1,1,1,0
+125,Amadou Diallo,,,,,Newcastle Utd,Premier League,1,1,0,0
+126,Amadou Haidara,26.0,Right,175.0,68.0,RB Leipzig,Bundesliga,1,0,1,0
+127,Amara Nallo,17.0,,,,Liverpool,PL2,6,0,0,1
+128,Amari'i Bell,30.0,Left,180.0,72.0,Luton Town,Championship,2,0,1,1
+129,Amath,28.0,Right,173.0,69.0,Valladolid,La Liga,1,1,1,0
+130,Ameen Al-Dakhil,22.0,Right,187.0,69.0,Burnley,Premier League,1,0,0,1
+131,Amin Sarr,23.0,Right,188.0,83.0,Wolfsburg,Bundesliga,1,1,0,0
+132,Amine Gouiri,24.0,Right,180.0,72.0,Rennes,Ligue 1,1,1,1,0
+133,Amine Harit,27.0,Right,179.0,66.0,Marseille,Ligue 1,1,1,1,0
+134,Amine Salama,24.0,Right,192.0,82.0,Reims,Ligue 1,1,1,0,0
+135,Amir Richardson,22.0,Left,195.0,,Fiorentina,Serie A,1,0,1,0
+136,Amir Rrahmani,30.0,Right,190.0,74.0,Napoli,Serie A,1,0,0,1
+137,Amos Pieper,26.0,Right,192.0,86.0,Werder Bremen,Bundesliga,1,0,0,1
+138,Anass Zaroury,23.0,Both,,,Lens,Ligue 1,1,1,1,0
+139,Anastasios Douvikas,25.0,,186.0,76.0,Celta Vigo,La Liga,1,1,0,0
+140,Ander Barrenetxea,22.0,Right,178.0,68.0,Real Sociedad,La Liga,1,1,1,0
+141,Ander Guevara,27.0,Right,180.0,74.0,Alavés,La Liga,1,0,1,0
+142,Ander Herrera,35.0,Right,181.0,73.0,Athletic Club,La Liga,1,0,1,0
+143,Anders Børset,18.0,,,,Wolfsburg U19,U19 Bundesliga,6,0,0,1
+144,Anderson Lima,24.0,Right,180.0,78.0,São Paulo,Série A,1,0,1,0
+145,Andoni Gorosabel,28.0,Right,174.0,72.0,Athletic Club,La Liga,1,0,0,1
+146,Andre Brooks,21.0,,180.0,,Sheffield Utd,Championship,2,0,1,0
+147,Andre-Frank Zambo Anguissa,28.0,Right,184.0,78.0,Napoli,Serie A,1,0,1,0
+148,Andrea Belotti,30.0,Right,181.0,72.0,Como,Serie A,1,1,0,0
+149,Andrea Cambiaso,24.0,Left,181.0,73.0,Juventus,Serie A,1,0,1,1
+150,Andrea Carboni,23.0,Left,185.0,79.0,Monza,Serie A,1,0,0,1
+151,Andrea Colpani,25.0,Left,186.0,74.0,Fiorentina,Serie A,1,0,1,0
+152,Andrea Petagna,29.0,Left,188.0,84.0,Monza,Serie A,1,1,0,0
+153,Andrea Pinamonti,25.0,Right,185.0,79.0,Genoa,Serie A,1,1,0,0
+154,Andreas Christensen,28.0,Right,188.0,73.0,Barcelona,La Liga,1,0,1,1
+155,Andreas Hanche-Olsen,27.0,Right,185.0,82.0,Mainz 05,Bundesliga,1,0,0,1
+156,Andreas Müller,24.0,,173.0,,Darmstadt 98,2,2,0,1,0
+157,Andreas Pereira,28.0,Right,177.0,66.0,Fulham,Premier League,1,0,1,0
+158,Andrei Ratiu,26.0,Right,183.0,76.0,Rayo Vallecano,La Liga,1,0,0,1
+159,Andrej Ilic,24.0,Right,184.0,,Lille,Ligue 1,1,1,0,0
+160,Andrej Kramarić,33.0,Right,180.0,74.0,Hoffenheim,Bundesliga,1,1,1,0
+161,Andrew Omobamidele,22.0,Right,188.0,76.0,Nott'ham Forest,Premier League,1,0,0,1
+162,Andrew Robertson,30.0,Left,178.0,63.0,Liverpool,Premier League,1,0,1,1
+163,Andrey Santos,20.0,Right,176.0,72.0,Strasbourg,Ligue 1,1,0,1,0
+164,Andros Townsend,33.0,Left,183.0,77.0,Luton Town,Championship,2,1,1,0
+165,András Schäfer,25.0,Right,180.0,73.0,Union Berlin,Bundesliga,1,0,1,0
+166,André Ayew,34.0,Left,176.0,72.0,Le Havre,Ligue 1,1,1,1,0
+167,André Gomes,,Right,188.0,83.0,Everton,PL2,6,0,1,0
+168,André Silva,28.0,Right,185.0,74.0,Real Sociedad,La Liga,1,1,0,0
+169,Andrés Guardado,37.0,Left,172.0,68.0,León,Liga MX,1,1,1,1
+170,Andy Diouf,21.0,Left,175.0,62.0,Lens,Ligue 1,1,0,1,0
+171,Andy Pelmard,24.0,Right,179.0,71.0,Clermont Foot,Ligue 1,1,0,0,1
+172,Anel Ahmedhodžić,25.0,Right,178.0,69.0,Sheffield Utd,Championship,2,0,1,1
+173,Angeliño,27.0,Left,175.0,68.0,Roma,Serie A,1,0,1,1
+174,Angelo Fulgini,28.0,Right,188.0,71.0,Lens,Ligue 1,1,1,1,0
+175,Angelo Ogbonna,36.0,Left,191.0,86.0,West Ham,Premier League,1,0,0,1
+176,Angelo Stiller,23.0,Left,183.0,77.0,Stuttgart,Bundesliga,1,0,1,0
+177,Anis Ben Slimane,23.0,,186.0,82.0,Norwich City,Championship,2,0,1,0
+178,Ansgar Knauff,22.0,Right,180.0,69.0,Eint Frankfurt,Bundesliga,1,0,1,1
+179,Ansu Fati,21.0,Right,178.0,68.0,Brighton,Premier League,1,1,0,0
+180,Ante Budimir,33.0,Left,190.0,74.0,Osasuna,La Liga,1,1,0,0
+181,Anthony Caci,27.0,Right,184.0,69.0,Mainz 05,Bundesliga,1,0,1,1
+182,Anthony Elanga,22.0,Right,178.0,64.0,Nott'ham Forest,Premier League,1,1,1,0
+183,Anthony Gordon,23.0,Right,173.0,62.0,Newcastle Utd,Premier League,1,1,1,0
+184,Anthony Jung,32.0,Left,186.0,83.0,Werder Bremen,Bundesliga,1,0,1,1
+185,Anthony Losilla,38.0,Right,185.0,74.0,Bochum,Bundesliga,1,0,1,0
+186,Anthony Lozano,31.0,Right,183.0,73.0,Santos,Liga MX,1,1,0,0
+187,Anthony Martial,,Right,184.0,76.0,Manchester Utd,Premier League,1,1,1,0
+188,Anthony Oyono,23.0,,176.0,71.0,Frosinone,Serie B,2,0,0,1
+189,Anthony Rouault,23.0,Right,186.0,76.0,Stuttgart,Bundesliga,1,0,0,1
+190,Antoine Griezmann,33.0,Left,175.0,67.0,Atlético Madrid,La Liga,1,1,1,0
+191,Antoine Joujou,21.0,,,,Le Havre,Ligue 1,1,0,1,0
+192,Antoine Makoumbou,26.0,Right,185.0,74.0,Cagliari,Serie A,1,0,1,0
+193,Antoine Mendy,20.0,Right,177.0,62.0,Nice,Ligue 1,1,0,0,1
+194,Antoine Semenyo,24.0,Both,180.0,69.0,Bournemouth,Premier League,1,1,1,0
+195,Anton Stach,25.0,Right,193.0,86.0,Hoffenheim,Bundesliga,1,0,1,0
+196,Antonee Robinson,27.0,Left,179.0,72.0,Fulham,Premier League,1,0,0,1
+197,Antonino Gallo,24.0,Left,183.0,68.0,Lecce,Serie A,1,0,0,1
+198,Antonio Blanco,24.0,Right,176.0,66.0,Alavés,La Liga,1,0,1,0
+199,Antonio Candreva,37.0,Right,180.0,69.0,Salernitana,Serie A,1,1,1,1
+200,Antonio Raillo,32.0,Right,186.0,74.0,Mallorca,La Liga,1,0,0,1
+201,Antonio Rüdiger,31.0,Right,191.0,84.0,Real Madrid,La Liga,1,0,0,1
+202,Antonio Sanabria,28.0,Right,180.0,76.0,Torino,Serie A,1,1,0,0
+203,Antonio Sánchez,27.0,Right,179.0,78.0,Mallorca,La Liga,1,1,1,0
+204,Antonios Papadopoulos,24.0,Right,186.0,83.0,Lugano,Super Lg,1,0,1,1
+205,Antony,24.0,Left,172.0,64.0,Manchester Utd,Premier League,1,1,1,0
+206,Antonín Barák,29.0,Left,190.0,86.0,Fiorentina,Serie A,1,0,1,0
+207,Anwar El Ghazi,29.0,Right,188.0,86.0,Cardiff City,Championship,2,1,1,0
+208,Arda Güler,19.0,,176.0,60.0,Real Madrid,La Liga,1,0,1,0
+209,Ardian Ismajli,27.0,Right,185.0,83.0,Empoli,Serie A,1,0,0,1
+210,Aridane Hernández,35.0,Right,186.0,77.0,Rayo Vallecano,La Liga,1,0,0,1
+211,Arijon Ibrahimović,18.0,,179.0,68.0,Frosinone,Serie A,1,1,0,0
+212,Aritz Elustondo,30.0,Right,178.0,72.0,Real Sociedad,La Liga,1,0,0,1
+213,Arkadiusz Milik,30.0,Left,186.0,78.0,Juventus,Serie A,1,1,0,0
+214,Armand Lauriente,25.0,Right,171.0,58.0,Sassuolo,Serie B,2,1,1,0
+215,Armando Broja,22.0,Right,191.0,83.0,Fulham,Premier League,1,1,0,0
+216,Armando Izzo,32.0,Right,183.0,76.0,Monza,Serie A,1,0,0,1
+217,Arnau Martinez,21.0,Right,181.0,74.0,Girona,La Liga,1,0,0,1
+218,Arnau Puigmal,23.0,Right,173.0,64.0,Almería,La Liga 2,2,0,1,0
+219,Arnaud Kalimuendo,22.0,Right,178.0,73.0,Rennes,Ligue 1,1,1,0,0
+220,Arnaut Danjuma,27.0,Right,187.0,73.0,Girona,La Liga,1,1,1,0
+221,Arne Engels,21.0,Right,184.0,71.0,Celtic,Premiership,1,0,1,0
+222,Arne Maier,25.0,Right,183.0,78.0,Augsburg,Bundesliga,1,0,1,0
+223,Aron Dønnum,26.0,Left,179.0,73.0,Toulouse,Ligue 1,1,1,1,1
+224,Arouna Sangante,22.0,,179.0,76.0,Le Havre,Ligue 1,1,0,0,1
+225,Arsen Zakharyan,21.0,Right,180.0,67.0,Real Sociedad,La Liga,1,1,1,0
+226,Artem Dovbyk,27.0,Right,184.0,76.0,Roma,Serie A,1,1,0,0
+227,Arthur Melo,28.0,Right,172.0,68.0,Fiorentina,Serie A,1,0,1,0
+228,Arthur Theate,24.0,Left,191.0,81.0,Eint Frankfurt,Bundesliga,1,0,0,1
+229,Arthur Vermeeren,19.0,,176.0,,RB Leipzig,Bundesliga,1,0,1,0
+230,Arvin Appiah,23.0,,,,Nacional,Primeira Liga,1,1,1,0
+231,Asaf Arania,18.0,,,,Darmstadt 98,Bundesliga,1,1,0,0
+232,Ashley Phillips,19.0,,,,Stoke City,Championship,2,0,0,1
+233,Ashley Young,39.0,Right,175.0,63.0,Everton,Premier League,1,1,1,1
+234,Asier Villalibre,26.0,Both,183.0,82.0,Alavés,La Liga,1,1,0,0
+235,Assane Diao,19.0,,,,Betis,La Liga,1,0,1,0
+236,Aster Vranckx,21.0,Right,183.0,78.0,Wolfsburg,Bundesliga,1,0,1,0
+237,Atakan Karazor,27.0,Right,190.0,78.0,Stuttgart,Bundesliga,1,0,1,0
+238,Attila Szalai,26.0,Left,192.0,84.0,Hoffenheim,Bundesliga,1,0,1,1
+239,Aurélien Tchouaméni,24.0,Right,185.0,74.0,Real Madrid,La Liga,1,0,1,0
+240,Aurélio Buta,27.0,Right,172.0,69.0,Reims,Ligue 1,1,0,1,1
+241,Auston Trusty,26.0,Left,191.0,83.0,Sheffield Utd,Championship,2,0,0,1
+242,Axel Disasi,26.0,Right,190.0,86.0,Chelsea,Premier League,1,0,0,1
+243,Axel Witsel,35.0,Right,186.0,81.0,Atlético Madrid,La Liga,1,0,1,1
+244,Aymen Barkok,26.0,Right,188.0,74.0,Mainz 05,Bundesliga,1,0,1,0
+245,Aymeric Laporte,30.0,Left,189.0,84.0,Al-Nassr,Saudi Professional League,1,0,0,1
+246,Ayoub Amraoui,20.0,,186.0,73.0,Martigues,Ligue 2,2,0,0,1
+247,Ayoze Pérez,31.0,Right,179.0,68.0,Villarreal,La Liga,1,1,1,0
+248,Azor Matusiwa,26.0,Right,173.0,73.0,Rennes,Ligue 1,1,0,1,0
+249,Azzedine Ounahi,24.0,Right,182.0,72.0,Marseille,Ligue 1,1,0,1,0
+250,Aïman Maurer,19.0,,188.0,89.0,Clermont Foot,Ligue 2,2,1,0,0
+251,Aïssa Laïdouni,27.0,Right,183.0,77.0,Union Berlin,Bundesliga,1,0,1,1
+252,Aïssa Mandi,32.0,Right,186.0,78.0,Lille,Ligue 1,1,0,0,1
+253,Badredine Bouanani,19.0,,172.0,,Nice,Ligue 1,1,0,1,0
+254,Bafodé Diakité,23.0,Right,182.0,73.0,Lille,Ligue 1,1,0,0,1
+255,Bamba Dieng,24.0,Right,178.0,78.0,Angers,Ligue 1,1,1,0,0
+256,Bambasé Conté,21.0,,178.0,76.0,Karlsruher,2,2,1,0,0
+257,Bamo Meïté,22.0,,183.0,74.0,Marseille,Ligue 1,1,0,0,1
+258,Baptiste Santamaria,29.0,Right,183.0,73.0,Rennes,Ligue 1,1,0,1,0
+259,Bartol Franjić,24.0,Left,186.0,77.0,Shakhtar,Premier League,1,0,1,0
+260,Bartosz Bereszyński,32.0,Right,182.0,78.0,Sampdoria,Serie B,2,1,0,1
+261,Bashir Humphreys,21.0,,,,Swansea City,Championship,2,0,0,1
+262,Bebé,34.0,Right,190.0,82.0,Racing Ferrol,La Liga 2,2,1,1,0
+263,Becir Omeragic,22.0,Right,187.0,77.0,Montpellier,Ligue 1,1,0,0,1
+264,Ben Brereton,25.0,Right,183.0,69.0,Southampton,Premier League,1,1,1,0
+265,Ben Chilwell,27.0,Left,178.0,71.0,Chelsea,Premier League,1,0,1,1
+266,Ben Davies,31.0,Left,181.0,76.0,Tottenham Hotspur,Premier League,1,0,1,1
+267,Ben Doak,18.0,,,,Liverpool,Premier League,1,1,0,0
+268,Ben Godfrey,26.0,Right,183.0,78.0,Atalanta,Serie A,1,0,1,1
+269,Ben Jackson,21.0,,190.0,,Brighton,PL2,6,0,0,1
+270,Ben Johnson,24.0,Right,170.0,68.0,Ipswich Town,Premier League,1,0,0,1
+271,Ben Mee,34.0,Left,180.0,72.0,Brentford,Premier League,1,0,0,1
+272,Ben Osborn,30.0,Left,176.0,74.0,Derby County,Championship,2,1,1,1
+273,Ben Parkinson,19.0,,,,Newcastle United,PL2,6,1,0,0
+274,Ben White,26.0,Right,182.0,73.0,Arsenal,Premier League,1,0,0,1
+275,Benedict Hollerbach,23.0,,,,Union Berlin,Bundesliga,1,1,1,0
+276,Benedikt Gimber,27.0,Left,185.0,83.0,Heidenheim,Bundesliga,1,0,1,1
+277,Benicio Boaitey,20.0,,,,Port Vale,League Two,4,1,0,0
+278,Benito Ramírez,29.0,Left,,,Las Palmas,La Liga,1,1,1,1
+279,Benjamin André,34.0,Right,177.0,68.0,Lille,Ligue 1,1,0,1,1
+280,Benjamin Bourigeaud,30.0,Right,177.0,66.0,Rennes,Ligue 1,1,1,1,0
+281,Benjamin Henrichs,27.0,Right,182.0,78.0,RB Leipzig,Bundesliga,1,0,1,1
+282,Benjamin Mendy,30.0,Left,186.0,74.0,Lorient,Ligue 1,1,0,0,1
+283,Benjamin Pavard,28.0,Right,182.0,64.0,Inter,Serie A,1,0,0,1
+284,Benjamin Stambouli,,Right,180.0,74.0,Reims,Ligue 1,1,0,1,1
+285,Benjamin Tetteh,27.0,Both,193.0,64.0,Metz,Ligue 1,1,1,0,0
+286,Benjamin Šeško,21.0,Right,194.0,77.0,RB Leipzig,Bundesliga,1,1,0,0
+287,Bennit Bröger,18.0,,,,Wolfsburg,Bundesliga,1,0,1,0
+288,Benno Schmitz,29.0,Right,182.0,74.0,Grasshopper,Super Lg,1,0,0,1
+289,Benoît Badiashile,23.0,Left,194.0,67.0,Chelsea,Premier League,1,0,0,1
+290,Benson Manuel,27.0,Left,166.0,63.0,Burnley,Championship,2,1,1,0
+291,Berat Djimsiti,31.0,Right,190.0,83.0,Atalanta,Serie A,1,0,1,1
+292,Berkan Kutlu,26.0,Left,183.0,78.0,Galatasaray,Süper Lig,1,0,1,0
+293,Bernardo,29.0,Left,186.0,76.0,Bochum,Bundesliga,1,0,0,1
+294,Bernardo Espinosa,35.0,Right,192.0,86.0,Nacional,Primera A,1,0,0,1
+295,Bernardo Silva,30.0,Left,173.0,64.0,Manchester City,Premier League,1,1,1,0
+296,Bertrand Traoré,29.0,Left,177.0,72.0,Ajax,Eredivisie,1,1,1,0
+297,Bertuğ Yıldırım,22.0,,,,Getafe,La Liga,1,1,0,0
+298,Beto,26.0,Right,194.0,86.0,Everton,Premier League,1,1,0,0
+299,Beñat Prados,23.0,Right,179.0,67.0,Athletic Club,La Liga,1,0,1,0
+300,Beñat Turrientes,22.0,Right,172.0,68.0,Real Sociedad,La Liga,1,0,1,0
+301,Bigo Atom,19.0,,,,Brighton,PL2,6,0,0,1
+302,Bilal Boutobba,26.0,Left,175.0,54.0,Clermont Foot,Ligue 1,1,1,1,0
+303,Bilal Brahimi,24.0,Left,183.0,74.0,Nice,Ligue 1,1,0,1,0
+304,Billy Gilmour,23.0,Right,170.0,59.0,Brighton,Premier League,1,0,1,0
+305,Birger Meling,29.0,Left,173.0,63.0,FC Copenhagen,Danish Superliga,1,0,0,1
+306,Bobby Clark,19.0,,178.0,,Liverpool,Premier League,1,0,1,0
+307,Bobby Reid,31.0,Right,170.0,66.0,Leicester City,Premier League,1,1,1,0
+308,Bonke Innocent,28.0,Right,180.0,73.0,Lorient,Ligue 1,1,0,1,0
+309,Borja García,,Right,175.0,73.0,Girona,La Liga,1,1,1,0
+310,Borja Iglesias,31.0,Right,187.0,78.0,Celta Vigo,La Liga,1,1,0,0
+311,Borja Mayoral,27.0,Right,181.0,68.0,Getafe,La Liga,1,1,0,0
+312,Boubacar Kamara,24.0,Right,178.0,68.0,Aston Villa,Premier League,1,0,1,1
+313,Boubacar Traoré,23.0,Right,175.0,67.0,Wolves,Premier League,1,0,1,0
+314,Boubakary Soumaré,25.0,Right,188.0,82.0,Leicester City,Premier League,1,0,1,0
+315,Boulaye Dia,27.0,Right,180.0,74.0,Lazio,Serie A,1,1,0,0
+316,Bouna Sarr,,Right,177.0,64.0,Bayern Munich,Bundesliga,1,0,1,1
+317,Bradley Barcola,22.0,,188.0,63.0,Paris S-G,Ligue 1,1,1,1,0
+318,Bradley Ibrahim,19.0,,,,Arsenal,PL2,6,0,1,0
+319,Bradley Locko,22.0,Left,180.0,64.0,Brest,Ligue 1,1,0,0,1
+320,Brahim Díaz,25.0,Right,170.0,69.0,Real Madrid,La Liga,1,1,1,0
+321,Brais Méndez,27.0,Left,184.0,76.0,Real Sociedad,La Liga,1,1,1,0
+322,Brajan Gruda,20.0,,,,Mainz 05,Bundesliga,1,0,1,0
+323,Brandon Aguilera,21.0,,182.0,,Rio Ave,Primeira Liga,1,0,1,0
+324,Brandon Soppy,22.0,Right,181.0,79.0,Schalke 04,2,2,0,1,1
+325,Braydon Manu,27.0,Both,170.0,69.0,Zwolle,Eredivisie,1,1,1,0
+326,Breel Embolo,27.0,Right,185.0,71.0,Monaco,Ligue 1,1,1,1,0
+327,Brendan Chardonnet,29.0,Right,181.0,73.0,Brest,Ligue 1,1,0,0,1
+328,Brenden Aaronson,23.0,Right,178.0,68.0,Leeds United,Championship,2,1,1,0
+329,Brennan Johnson,23.0,Right,178.0,73.0,Tottenham Hotspur,Premier League,1,1,1,0
+330,Brenner,24.0,Right,190.0,69.0,Udinese,Serie A,1,1,0,0
+331,Brian Bayeye,24.0,,182.0,69.0,Ascoli,Serie B,2,0,0,1
+332,Brian Ocampo,25.0,Right,172.0,68.0,Cádiz,La Liga 2,2,0,1,0
+333,Bruno Amione,22.0,Left,184.0,83.0,Santos,Liga MX,1,0,0,1
+334,Bruno Fernandes,30.0,Right,173.0,64.0,Manchester Utd,Premier League,1,1,1,0
+335,Bruno Guimarães,26.0,Right,182.0,77.0,Newcastle Utd,Premier League,1,0,1,0
+336,Bruno Langa,26.0,Left,169.0,60.0,Almería,La Liga 2,2,0,0,1
+337,Bruno Méndez,25.0,Right,180.0,78.0,Toluca,Liga MX,1,0,0,1
+338,Bryan Cristante,29.0,Right,186.0,78.0,Roma,Serie A,1,0,1,1
+339,Bryan Fiabema,21.0,,,,Lech Poznań,Ekstraklasa,1,1,0,0
+340,Bryan Gil,23.0,Left,175.0,67.0,Girona,La Liga,1,1,1,0
+341,Bryan Mbeumo,25.0,Left,171.0,64.0,Brentford,Premier League,1,1,1,0
+342,Bryan Zaragoza,23.0,Right,,,Osasuna,La Liga,1,0,1,0
+343,Bukayo Saka,23.0,Left,178.0,64.0,Arsenal,Premier League,1,1,1,1
+344,Bénie Adama Traore,21.0,,175.0,64.0,Basel,Super Lg,1,1,0,0
+345,CJ Egan-Riley,21.0,Right,183.0,74.0,Burnley,Championship,2,0,0,1
+346,Caio Henrique Oliveira Silva,27.0,Left,178.0,69.0,Monaco,Ligue 1,1,0,1,1
+347,Caleb Ekuban,30.0,Right,182.0,79.0,Genoa,Serie A,1,1,1,0
+348,Caleb Okoli,23.0,,191.0,91.0,Leicester City,Premier League,1,0,0,1
+349,Callum Hudson-Odoi,23.0,Right,182.0,76.0,Nott'ham Forest,Premier League,1,1,1,0
+350,Callum Marshall,19.0,,,,Huddersfield,League One,3,1,0,0
+351,Callum Wilson,32.0,Right,180.0,66.0,Newcastle Utd,Premier League,1,1,0,0
+352,Calum Chambers,29.0,Right,183.0,77.0,Cardiff City,Championship,2,0,1,1
+353,Calum Scanlon,19.0,,,,Liverpool,PL2,6,0,1,0
+354,Calvin Bassey,24.0,Left,185.0,76.0,Fulham,Premier League,1,0,0,1
+355,Cameron Archer,23.0,,175.0,72.0,Southampton,Premier League,1,1,0,0
+356,Cameron Peupion,21.0,,175.0,69.0,Cheltenham,League One,3,0,1,0
+357,Carl Starfelt,29.0,Right,185.0,83.0,Celta Vigo,La Liga,1,0,0,1
+358,Carles Aleñá,26.0,Left,180.0,73.0,Getafe,La Liga,1,1,1,0
+359,Carles Pérez,26.0,Left,172.0,66.0,Getafe,La Liga,1,1,1,0
+360,Carlos Alcaraz,21.0,,176.0,68.0,Southampton,Premier League,1,0,1,0
+361,Carlos Augusto,25.0,Left,184.0,77.0,Inter,Serie A,1,0,1,1
+362,Carlos Baleba,20.0,Left,,,Brighton,Premier League,1,0,1,0
+363,Carlos Benavídez,26.0,Right,185.0,76.0,Alavés,La Liga,1,0,1,0
+364,Carlos Dominguez,23.0,Left,187.0,73.0,Celta Vigo,La Liga,1,0,0,1
+365,Carlos Fernández,28.0,Left,188.0,77.0,Real Sociedad,La Liga,1,1,0,0
+366,Carlos Neva,28.0,Left,174.0,68.0,Granada,La Liga 2,2,0,0,1
+367,Carlos Romero,22.0,Left,,,Espanyol,La Liga,1,0,0,1
+368,Carlos Soler,27.0,Right,183.0,72.0,Paris S-G,Ligue 1,1,0,1,0
+369,Carlos Vicente,25.0,Right,,,Alavés,La Liga,1,1,1,0
+370,Carlos Vinícius,29.0,Left,190.0,83.0,Galatasaray,Süper Lig,1,1,0,0
+371,Carlton Morris,28.0,Left,188.0,86.0,Luton Town,Championship,2,1,1,0
+372,Carmona,22.0,Right,183.0,79.0,Sevilla,La Liga,1,0,0,1
+373,Carney Chukwuemeka,20.0,,182.0,69.0,Chelsea,Premier League,1,0,1,0
+374,Casemiro,32.0,Right,184.0,79.0,Manchester Utd,Premier League,1,0,1,0
+375,Castello Lukeba,21.0,Left,184.0,73.0,RB Leipzig,Bundesliga,1,0,0,1
+376,Catena,29.0,Right,194.0,79.0,Osasuna,La Liga,1,0,0,1
+377,Cauley Woodrow,29.0,Right,184.0,72.0,Luton Town,Championship,2,1,1,0
+378,Cedric Zesiger,26.0,Left,191.0,79.0,Wolfsburg,Bundesliga,1,0,0,1
+379,Cenk Özkacar,23.0,Left,190.0,82.0,Valladolid,La Liga,1,0,0,1
+380,Cesare Casadei,21.0,,176.0,62.0,Chelsea,Premier League,1,0,1,0
+381,Chadi Riad,21.0,,186.0,78.0,Crystal Palace,Premier League,1,0,0,1
+382,Chancel Mbemba,30.0,Right,182.0,79.0,Marseille,Ligue 1,1,0,0,1
+383,Charalambos Lykogiannis,30.0,Left,186.0,78.0,Bologna,Serie A,1,0,1,1
+384,Charles De Ketelaere,23.0,Left,192.0,78.0,Atalanta,Serie A,1,1,1,0
+385,Charles Sagoe Jr,20.0,,,,Shrewsbury,League One,3,1,0,0
+386,Charlie Goode,29.0,Right,196.0,74.0,Stevenage,League One,3,0,0,1
+387,Charlie Taylor,30.0,Left,175.0,69.0,Southampton,Premier League,1,0,0,1
+388,Check Keita,21.0,,,,Charleroi,Pro League A,1,0,0,1
+389,Cheick Doucouré,24.0,Right,180.0,73.0,Crystal Palace,Premier League,1,0,1,0
+390,Cheick Konaté,20.0,,173.0,63.0,Clermont Foot,Ligue 2,2,0,0,1
+391,Cheikh Tidiane Sabaly,25.0,Right,168.0,55.0,Metz,Ligue 2,2,1,1,0
+392,Cheikhou Kouyaté,34.0,Right,193.0,79.0,Nott'ham Forest,Premier League,1,0,1,1
+393,Chiedozie Ogbene,27.0,Right,177.0,71.0,Ipswich Town,Premier League,1,1,1,0
+394,Chris Basham,,Right,185.0,84.0,Sheffield Utd,Premier League,1,0,1,1
+395,Chris Bedia,28.0,Right,190.0,73.0,Hull City,Championship,2,1,0,0
+396,Chris Führich,26.0,Right,178.0,69.0,Stuttgart,Bundesliga,1,1,1,0
+397,Chris Mepham,26.0,Right,191.0,77.0,Bournemouth,Premier League,1,0,0,1
+398,Chris Ramos,27.0,,,,Cádiz,La Liga 2,2,1,1,0
+399,Chris Smalling,34.0,Right,194.0,89.0,Roma,Serie A,1,0,0,1
+400,Chris Wood,32.0,Right,191.0,82.0,Nott'ham Forest,Premier League,1,1,0,0
+401,Chrislain Matsima,22.0,Right,190.0,83.0,Clermont Foot,Ligue 1,1,0,0,1
+402,Christian Dalle Mura,22.0,Right,185.0,74.0,Cosenza,Serie B,2,0,0,1
+403,Christian Eriksen,32.0,Right,177.0,67.0,Manchester Utd,Premier League,1,1,1,0
+404,Christian Groß,,Right,183.0,74.0,Werder Bremen,Bundesliga,1,0,1,1
+405,Christian Kabasele,33.0,Right,187.0,82.0,Udinese,Serie A,1,0,0,1
+406,Christian Kouamé,26.0,Right,185.0,78.0,Fiorentina,Serie A,1,1,1,0
+407,Christian Kühlwetter,28.0,Both,180.0,74.0,Jahn R'burg,2,2,1,1,0
+408,Christian Mawissa,19.0,,,,Monaco,Ligue 1,1,0,0,1
+409,Christian Nørgaard,30.0,Right,185.0,69.0,Brentford,Premier League,1,0,1,0
+410,Christian Pulisic,25.0,Right,172.0,68.0,Milan,Serie A,1,1,1,0
+411,Christoph Baumgartner,25.0,Right,180.0,69.0,RB Leipzig,Bundesliga,1,1,1,0
+412,Christoph Klarer,24.0,Right,191.0,82.0,Birmingham City,League One,3,0,0,1
+413,Christoph Kramer,,Right,189.0,82.0,Gladbach,Bundesliga,1,0,1,0
+414,Christoph Zimmermann,31.0,Right,194.0,79.0,Darmstadt 98,Bundesliga,1,0,0,1
+415,Christophe Hérelle,32.0,Right,179.0,73.0,BB Bodrumspor,Süper Lig,1,0,0,1
+416,Christopher Antwi-Adjei,30.0,Right,171.0,69.0,Schalke 04,2,2,1,1,0
+417,Christopher Jullien,31.0,Right,195.0,82.0,Montpellier,Ligue 1,1,0,0,1
+418,Christopher Lenz,,Left,181.0,81.0,RB Leipzig,Bundesliga,1,0,1,1
+419,Christopher Nkunku,26.0,Right,175.0,68.0,Chelsea,Premier League,1,1,1,0
+420,Christopher Operi,27.0,Left,182.0,73.0,Le Havre,Ligue 1,1,0,1,1
+421,Christopher Trimmel,37.0,Right,189.0,79.0,Union Berlin,Bundesliga,1,1,1,1
+422,Christopher Wooh,22.0,Right,190.0,78.0,Rennes,Ligue 1,1,0,0,1
+423,Christos Kourfalidis,21.0,Right,178.0,,Cosenza,Serie B,2,0,1,0
+424,Chukwubuikem Ikwuemesi,23.0,,,,OH Leuven,Pro League A,1,1,0,0
+425,Cimo Röcker,30.0,Left,186.0,83.0,Hertha BSC,Bundesliga,1,0,0,1
+426,Ciro Immobile,34.0,Right,185.0,78.0,Beşiktaş,Süper Lig,1,1,0,0
+427,Clemens Riedel,21.0,Right,183.0,71.0,Darmstadt 98,2,2,0,0,1
+428,Clinton Mata,31.0,Right,185.0,72.0,Lyon,Ligue 1,1,0,1,1
+429,Clément Lenglet,29.0,Left,186.0,81.0,Aston Villa,Premier League,1,0,0,1
+430,Cody Gakpo,25.0,Right,187.0,78.0,Liverpool,Premier League,1,1,1,0
+431,Cole Palmer,22.0,Left,189.0,73.0,Chelsea,Premier League,1,1,1,0
+432,Connor Roberts,28.0,Right,175.0,69.0,Burnley,Championship,2,0,1,1
+433,Conor Bradley,21.0,Right,181.0,68.0,Liverpool,Premier League,1,0,1,1
+434,Conor Coventry,24.0,Right,177.0,68.0,Charlton Ath,League One,3,0,1,0
+435,Conor Gallagher,24.0,Right,182.0,73.0,Atlético Madrid,La Liga,1,0,1,0
+436,Copete,24.0,Left,192.0,78.0,Mallorca,La Liga,1,0,0,1
+437,Corentin Tolisso,30.0,Right,181.0,78.0,Lyon,Ligue 1,1,0,1,1
+438,Craig Dawson,34.0,Right,188.0,82.0,Wolves,Premier League,1,0,0,1
+439,Crespo,28.0,Right,186.0,73.0,Başakşehir,Süper Lig,1,0,1,0
+440,Cristhian Mosquera,20.0,,188.0,78.0,Valencia,La Liga,1,0,0,1
+441,Cristhian Stuani,37.0,Right,186.0,74.0,Girona,La Liga,1,1,1,0
+442,Cristian Cásseres Jr.,24.0,Right,174.0,73.0,Toulouse,Ligue 1,1,0,1,0
+443,Cristian Gamboa,34.0,Right,175.0,67.0,Bochum,Bundesliga,1,0,1,1
+444,Cristian Herrera,33.0,Left,186.0,78.0,La Coruña,La Liga 2,2,1,1,0
+445,Cristian Romero,26.0,Right,185.0,82.0,Tottenham Hotspur,Premier League,1,0,0,1
+446,Cristiano Biraghi,32.0,Left,184.0,79.0,Fiorentina,Serie A,1,0,1,1
+447,Curtis Jones,23.0,Right,185.0,72.0,Liverpool,Premier League,1,0,1,0
+448,Cyle Larin,29.0,Left,188.0,86.0,Mallorca,La Liga,1,1,1,0
+449,Cyril Ngonge,24.0,Left,179.0,73.0,Napoli,Serie A,1,1,1,0
+450,Cédric Bakambu,33.0,Right,182.0,73.0,Betis,La Liga,1,1,0,0
+451,Cédric Soares,,Right,169.0,64.0,Arsenal,Premier League,1,0,1,1
+452,César Azpilicueta,35.0,Right,178.0,76.0,Atlético Madrid,La Liga,1,0,1,1
+453,César Montes,27.0,Right,191.0,69.0,Almería,La Liga 2,2,0,0,1
+454,César Tárrega,22.0,,193.0,77.0,Valencia,La Liga,1,0,0,1
+455,Daichi Kamada,28.0,Right,180.0,72.0,Crystal Palace,Premier League,1,1,1,0
+456,Daiki Hashioka,25.0,Right,182.0,73.0,Luton Town,Premier League,1,0,1,1
+457,Daler Kuzyaev,31.0,Right,182.0,73.0,Le Havre,Ligue 1,1,0,1,0
+458,Daley Blind,34.0,Left,180.0,72.0,Girona,La Liga,1,0,1,1
+459,Daley Sinkgraven,29.0,Left,179.0,66.0,Las Palmas,La Liga,1,0,1,1
+460,Damion Downs,20.0,,,,Köln,2,2,1,0,0
+461,Damián Suárez,36.0,Right,172.0,64.0,Botafogo (RJ),Série A,1,0,1,1
+462,Dan Burn,32.0,Left,198.0,87.0,Newcastle Utd,Premier League,1,0,0,1
+463,Dan Ndoye,23.0,Right,184.0,76.0,Bologna,Serie A,1,1,1,0
+464,Dan Potts,30.0,Left,173.0,69.0,Luton Town,Championship,2,0,0,1
+465,Dan-Axel Zagadou,25.0,Left,196.0,89.0,Stuttgart,Bundesliga,1,0,0,1
+466,Dane Scarlett,20.0,Right,180.0,76.0,Oxford United,Championship,2,1,0,0
+467,Dango Ouattara,22.0,Left,172.0,71.0,Bournemouth,Premier League,1,1,1,0
+468,Dani Carvajal,32.0,Right,173.0,69.0,Real Madrid,La Liga,1,0,0,1
+469,Dani Ceballos,28.0,Right,176.0,64.0,Real Madrid,La Liga,1,0,1,0
+470,Dani García,34.0,Right,180.0,72.0,Olympiacos,Super League,1,0,1,0
+471,Dani Olmo,26.0,Right,176.0,68.0,Barcelona,La Liga,1,1,1,0
+472,Dani Rodríguez,36.0,Right,178.0,71.0,Mallorca,La Liga,1,1,1,0
+473,Daniel Bandeira,24.0,,,,Hellas Verona,Serie A,1,0,1,0
+474,Daniel Boloca,25.0,,,,Sassuolo,Serie B,2,0,1,0
+475,Daniel Gore,19.0,,,,Port Vale,League One,3,0,1,0
+476,Daniel Hausmann,21.0,,,,Unterhaching U19,U19 Bundesliga,6,0,1,0
+477,Daniel Jebbison,21.0,,190.0,68.0,Bournemouth,Premier League,1,1,0,0
+478,Daniel Luna,21.0,,,,CD Mirandés,La Liga 2,2,0,1,0
+479,Daniel Maldini,22.0,Right,186.0,77.0,Monza,Serie A,1,0,1,0
+480,Daniel Muñoz,28.0,Right,183.0,79.0,Crystal Palace,Premier League,1,0,1,1
+481,Daniel Samek,20.0,,184.0,79.0,Hradec Králové,Czech First League,1,0,0,1
+482,Daniel Vivian,25.0,Right,183.0,83.0,Athletic Club,La Liga,1,0,0,1
+483,Daniele Rugani,30.0,Right,190.0,82.0,Juventus,Serie A,1,0,0,1
+484,Danilho Doekhi,26.0,Right,190.0,84.0,Union Berlin,Bundesliga,1,0,0,1
+485,Danilo,33.0,Right,184.0,77.0,Juventus,Serie A,1,0,1,1
+486,Danilo Cataldi,30.0,Right,180.0,69.0,Fiorentina,Serie A,1,0,1,0
+487,Danilo D'Ambrosio,36.0,Right,180.0,74.0,Monza,Serie A,1,0,0,1
+488,Danilo Pereira,32.0,Right,188.0,66.0,Paris S-G,Ligue 1,1,1,1,1
+489,Danilo Soares,32.0,Left,170.0,72.0,Nürnberg,2,2,0,0,1
+490,Danley Jean-Jacques,24.0,Right,,,Philadelphia,MLS,1,0,1,0
+491,Danny Ings,32.0,Right,178.0,73.0,West Ham,Premier League,1,1,0,0
+492,Danny Welbeck,33.0,Right,185.0,72.0,Brighton,Premier League,1,1,1,0
+493,Danny da Costa,31.0,Right,185.0,84.0,Mainz 05,Bundesliga,1,1,1,1
+494,Dante,40.0,Left,188.0,87.0,Nice,Ligue 1,1,0,0,1
+495,Dany Mota,26.0,Right,180.0,73.0,Monza,Serie A,1,1,1,0
+496,Dara O'Shea,25.0,Right,183.0,74.0,Burnley,Championship,2,0,0,1
+497,Darko Brašanac,32.0,Right,178.0,74.0,Leganés,La Liga,1,0,1,0
+498,Darko Lazović,33.0,Right,181.0,66.0,Hellas Verona,Serie A,1,1,1,1
+499,Darlin Yongwa,23.0,Left,177.0,64.0,Lorient,Ligue 2,2,0,1,1
+500,Darwin Machís,31.0,Right,174.0,69.0,Valladolid,La Liga,1,1,1,0
+501,Darwin Núñez,25.0,Right,187.0,79.0,Liverpool,Premier League,1,1,0,0
+502,David Alaba,32.0,Left,180.0,72.0,Real Madrid,La Liga,1,0,1,1
+503,David Brooks,27.0,Left,177.0,69.0,Bournemouth,Premier League,1,1,1,0
+504,David Datro Fofana,21.0,Right,181.0,82.0,Burnley,Premier League,1,1,0,0
+505,David Deger,24.0,,,,Augsburg U19,U19 Bundesliga,6,0,1,0
+506,David García,30.0,Right,185.0,69.0,Osasuna,La Liga,1,0,1,1
+507,David Jurásek,24.0,Left,,,Benfica,Primeira Liga,1,0,1,0
+508,David López,34.0,Right,185.0,83.0,Girona,La Liga,1,0,1,1
+509,David Okereke,27.0,Right,182.0,78.0,Torino,Serie A,1,1,0,0
+510,David Ozoh,19.0,,,,Derby County,Championship,2,0,1,0
+511,David Pereira da Costa,23.0,Right,180.0,63.0,Lens,Ligue 1,1,1,1,0
+512,David Raum,26.0,Left,180.0,74.0,RB Leipzig,Bundesliga,1,0,1,1
+513,David Čolina,24.0,,,,Vejle BK,Danish Superliga,1,0,0,1
+514,Davide Bettella,24.0,,180.0,,Monza,Serie A,1,0,0,1
+515,Davide Biraschi,30.0,Right,182.0,73.0,Frosinone,Serie B,2,0,0,1
+516,Davide Calabria,27.0,Right,176.0,69.0,Milan,Serie A,1,0,1,1
+517,Davide Faraoni,32.0,Right,180.0,71.0,Hellas Verona,Serie A,1,0,1,1
+518,Davide Frattesi,24.0,Right,184.0,73.0,Inter,Serie A,1,0,1,0
+519,Davide Zappacosta,32.0,Right,182.0,69.0,Atalanta,Serie A,1,0,1,1
+520,Davie Selke,29.0,Right,192.0,82.0,Hamburger SV,2,2,1,0,0
+521,Davinson Sánchez,28.0,Right,188.0,77.0,Galatasaray,Süper Lig,1,0,0,1
+522,Davy Klaassen,31.0,Right,185.0,78.0,Inter,Serie A,1,0,1,0
+523,Dawid Kownacki,27.0,Right,185.0,74.0,Düsseldorf,2,2,1,1,0
+524,Dayot Upamecano,25.0,Right,188.0,78.0,Bayern Munich,Bundesliga,1,0,0,1
+525,Declan Rice,25.0,Right,185.0,77.0,Arsenal,Premier League,1,0,1,1
+526,Deiver Machado,31.0,Left,172.0,69.0,Lens,Ligue 1,1,0,1,1
+527,Deivid Washington,19.0,,184.0,,Chelsea,PL2,6,1,0,0
+528,Dejan Kulusevski,24.0,Left,186.0,74.0,Tottenham Hotspur,Premier League,1,1,1,0
+529,Dejan Ljubicic,26.0,Right,186.0,78.0,Köln,2,2,0,1,0
+530,Dejan Lovren,35.0,Right,188.0,83.0,Lyon,Ligue 1,1,0,0,1
+531,Demba Seck,23.0,,190.0,76.0,Catanzaro,Serie B,2,1,0,0
+532,Dembo Sylla,21.0,,,,Lorient,Ligue 1,1,0,1,0
+533,Denis Huseinbasic,23.0,,178.0,73.0,Köln,2,2,0,1,0
+534,Denis Suárez,30.0,Right,181.0,72.0,Villarreal,La Liga,1,0,1,0
+535,Denis Thomalla,32.0,Right,186.0,69.0,Heidenheim,Bundesliga,1,1,1,0
+536,Denis Zakaria,27.0,Right,191.0,76.0,Monaco,Ligue 1,1,0,1,0
+537,Deniz Undav,28.0,Both,178.0,86.0,Stuttgart,Bundesliga,1,1,0,0
+538,Dennis Geiger,26.0,Right,172.0,64.0,Hoffenheim,Bundesliga,1,0,1,0
+539,Denzel Dumfries,28.0,Right,188.0,79.0,Inter,Serie A,1,0,1,1
+540,Destiny Udogie,21.0,Left,187.0,73.0,Tottenham Hotspur,Premier League,1,0,1,1
+541,Detlef Osong,19.0,,,,Rotherham Utd,League One,3,1,0,0
+542,Devan Tanton,20.0,,,,Chesterfield,League Two,4,0,0,1
+543,Diadie Samassékou,28.0,Right,175.0,68.0,Hoffenheim,Bundesliga,1,0,1,0
+544,Diego Carlos,31.0,Right,185.0,78.0,Aston Villa,Premier League,1,0,0,1
+545,Diego Coppola,20.0,Right,192.0,82.0,Hellas Verona,Serie A,1,0,0,1
+546,Diego Llorente,31.0,Right,185.0,73.0,Betis,La Liga,1,0,0,1
+547,Diego López,22.0,,172.0,63.0,Valencia,La Liga,1,0,1,0
+548,Diego Rico,31.0,Left,181.0,74.0,Getafe,La Liga,1,0,0,1
+549,Dilane Bakwa,22.0,Left,177.0,63.0,Strasbourg,Ligue 1,1,1,1,0
+550,Dimitri Foulquier,31.0,Right,183.0,77.0,Valencia,La Liga,1,0,1,1
+551,Dimitrije Kamenović,24.0,,188.0,83.0,Yverdon-Sport,Super Lg,1,0,0,1
+552,Dimitris Limnios,26.0,Right,179.0,68.0,Panathinaikos,Super League,1,1,1,0
+553,Diogo Dalot,25.0,Right,184.0,76.0,Manchester Utd,Premier League,1,0,0,1
+554,Diogo Jota,27.0,Right,178.0,69.0,Liverpool,Premier League,1,1,1,0
+555,Diogo Leite,25.0,Left,184.0,82.0,Union Berlin,Bundesliga,1,0,0,1
+556,Dion Drena Beljo,22.0,,195.0,84.0,Rapid Wien,Bundesliga,1,1,0,0
+557,Dion Lopy,22.0,Right,186.0,78.0,Almería,La Liga 2,2,0,1,0
+558,Dion Moise Sahi,22.0,Left,175.0,69.0,Strasbourg,Ligue 1,1,1,0,0
+559,Divin Mubama,,Left,183.0,69.0,West Ham United,PL2,6,1,0,0
+560,Divock Origi,29.0,Right,186.0,74.0,Nott'ham Forest,Premier League,1,1,1,0
+561,Djed Spence,24.0,Right,183.0,77.0,Tottenham Hotspur,Premier League,1,0,1,1
+562,Djené,32.0,Right,178.0,71.0,Getafe,La Liga,1,0,0,1
+563,Djibril Sow,27.0,Right,184.0,77.0,Sevilla,La Liga,1,0,1,0
+564,Dodi Lukebakio,26.0,Left,184.0,77.0,Sevilla,La Liga,1,1,1,0
+565,Dodô,25.0,Right,166.0,68.0,Fiorentina,Serie A,1,0,0,1
+566,Domagoj Bradarić,24.0,Left,178.0,73.0,Hellas Verona,Serie A,1,0,1,1
+567,Domenico Berardi,30.0,Left,183.0,72.0,Sassuolo,Serie A,1,1,1,0
+568,Domingos Duarte,29.0,Right,191.0,78.0,Getafe,La Liga,1,0,0,1
+569,Domingos Quina,24.0,Right,173.0,64.0,Vizela,Primeira Liga,1,0,1,0
+570,Dominic Calvert-Lewin,27.0,Right,189.0,63.0,Everton,Premier League,1,1,1,0
+571,Dominic Solanke,26.0,Right,187.0,74.0,Tottenham Hotspur,Premier League,1,1,0,0
+572,Dominik Kohr,30.0,Right,193.0,74.0,Mainz 05,Bundesliga,1,0,1,1
+573,Dominik Szoboszlai,23.0,Right,186.0,73.0,Liverpool,Premier League,1,1,1,0
+574,Dominique Heintz,31.0,Left,189.0,87.0,Köln,2,2,0,0,1
+575,Donny van de Beek,27.0,Right,181.0,76.0,Girona,La Liga,1,0,1,0
+576,Donyell Malen,25.0,Right,179.0,78.0,Dortmund,Bundesliga,1,1,1,0
+577,Douglas,27.0,Left,173.0,68.0,Nantes,Ligue 1,1,0,1,0
+578,Douglas Luiz,26.0,Right,178.0,66.0,Juventus,Serie A,1,0,1,0
+579,Duje Ćaleta-Car,27.0,Right,188.0,78.0,Lyon,Ligue 1,1,0,0,1
+580,Duván Zapata,33.0,Right,186.0,79.0,Torino,Serie A,1,1,0,0
+581,Dušan Vlahović,24.0,Left,190.0,83.0,Juventus,Serie A,1,1,0,0
+582,Dwight McNeil,24.0,Left,177.0,72.0,Everton,Premier League,1,1,1,0
+583,Dylan Bronn,29.0,Right,185.0,76.0,Salernitana,Serie B,2,0,0,1
+584,Désiré Doué,19.0,Right,178.0,,Paris S-G,Ligue 1,1,0,1,0
+585,Dženan Pejčinović,19.0,,188.0,78.0,Düsseldorf,2,2,0,0,1
+586,Eberechi Eze,26.0,Right,173.0,69.0,Crystal Palace,Premier League,1,1,1,0
+587,Eddie Nketiah,25.0,Right,175.0,66.0,Arsenal,Premier League,1,1,0,0
+588,Edimilson Fernandes,28.0,Right,190.0,69.0,Mainz 05,Bundesliga,1,0,1,1
+589,Edmond Tapsoba,25.0,Right,190.0,79.0,Leverkusen,Bundesliga,1,0,0,1
+590,Edoardo Bove,22.0,Right,171.0,60.0,Fiorentina,Serie A,1,0,1,0
+591,Edoardo Goldaniga,30.0,Right,193.0,87.0,Como,Serie A,1,0,0,1
+592,Edon Zhegrova,25.0,Left,181.0,66.0,Lille,Ligue 1,1,1,1,0
+593,Edson Álvarez,26.0,Right,185.0,71.0,West Ham,Premier League,1,0,1,1
+594,Eduard Sobol,29.0,Left,186.0,73.0,Strasbourg,Ligue 1,1,0,1,1
+595,Eduardo Camavinga,21.0,Left,182.0,68.0,Real Madrid,La Liga,1,0,1,0
+596,El Bilal Touré,22.0,Right,185.0,78.0,Stuttgart,Bundesliga,1,1,0,0
+597,Elba Rashani,31.0,Left,181.0,68.0,Elche,La Liga 2,2,1,1,0
+598,Eldor Shomurodov,29.0,Right,182.0,71.0,Roma,Serie A,1,1,0,0
+599,Eli Junior Kroupi,18.0,,,,Lorient,Ligue 2,2,0,1,0
+600,Elias Bakatukanda,20.0,,,,Köln,2,2,0,1,0
+601,Elias Baum,18.0,,,,Elversberg,2,2,0,0,1
+602,Eliesse Ben Seghir,19.0,Right,,,Monaco,Ligue 1,1,1,0,0
+603,Elif Elmas,24.0,Right,182.0,68.0,RB Leipzig,Bundesliga,1,1,1,0
+604,Elijah Campbell,20.0,,182.0,,Ross County,Premiership,1,0,0,1
+605,Elio Capradossi,28.0,Both,181.0,73.0,Calcio Lecco 1912,Serie B,2,0,0,1
+606,Eliot Matazo,22.0,Right,174.0,72.0,Antwerp,Pro League A,1,0,1,0
+607,Elliot Anderson,21.0,Right,179.0,72.0,Nott'ham Forest,Premier League,1,0,1,0
+608,Ellyes Skhiri,29.0,Right,184.0,68.0,Eint Frankfurt,Bundesliga,1,0,1,0
+609,Elseid Hysaj,30.0,Right,182.0,74.0,Lazio,Serie A,1,0,0,1
+610,Elvis Rexhbeçaj,26.0,Left,182.0,73.0,Augsburg,Bundesliga,1,0,1,0
+611,Elye Wahi,21.0,Right,178.0,69.0,Marseille,Ligue 1,1,1,0,0
+612,Emanuel Emegha,21.0,Both,195.0,84.0,Strasbourg,Ligue 1,1,1,0,0
+613,Emanuel Vignato,24.0,Right,175.0,68.0,Pisa,Serie B,2,1,1,0
+614,Emanuele Valeri,25.0,Left,180.0,78.0,Parma,Serie A,1,0,1,1
+615,Emerson,25.0,Right,183.0,76.0,Milan,Serie A,1,0,1,1
+616,Emerson Palmieri,30.0,Left,176.0,63.0,West Ham,Premier League,1,0,1,1
+617,Emil Bohinen,25.0,Left,185.0,73.0,Genoa,Serie A,1,0,1,0
+618,Emil Ceide,23.0,Right,175.0,73.0,Rosenborg,Eliteserien,1,1,0,0
+619,Emil Forsberg,32.0,Right,178.0,73.0,NY Red Bulls,MLS,1,1,1,0
+620,Emil Krafth,30.0,Right,181.0,78.0,Newcastle Utd,Premier League,1,0,0,1
+621,Emile Smith Rowe,24.0,Right,182.0,72.0,Fulham,Premier League,1,1,1,0
+622,Emiliano Marcondes,,Right,183.0,74.0,Hibernian,Premiership,1,1,1,0
+623,Emir Karic,27.0,Left,186.0,86.0,Sturm Graz,Bundesliga,1,0,1,1
+624,Emirhan İlkhan,20.0,,175.0,68.0,Başakşehir,Süper Lig,1,0,1,0
+625,Emmanuel Agbadou,27.0,Right,192.0,84.0,Reims,Ligue 1,1,0,0,1
+626,Emmanuel Ekong,22.0,,183.0,73.0,Empoli,Serie A,1,1,0,0
+627,Emmanuel Gyasi,30.0,Right,181.0,73.0,Empoli,Serie A,1,1,1,1
+628,Emmanuel Sabbi,26.0,,179.0,69.0,Le Havre,Ligue 1,1,1,1,0
+629,Emre Can,30.0,Right,184.0,73.0,Dortmund,Bundesliga,1,0,1,1
+630,Enes Ünal,27.0,Right,185.0,74.0,Bournemouth,Premier League,1,1,0,0
+631,Enso Gonzalez,19.0,Left,,,Wolverhampton Wanderers,PL2,6,0,1,0
+632,Enzo Barrenechea,23.0,,186.0,81.0,Frosinone,Serie A,1,0,1,0
+633,Enzo Ebosse,25.0,Left,185.0,78.0,Udinese,Serie A,1,0,0,1
+634,Enzo Fernández,23.0,Right,178.0,78.0,Chelsea,Premier League,1,0,1,0
+635,Enzo Le Fée,24.0,Right,170.0,64.0,Roma,Serie A,1,0,1,0
+636,Enzo Loiodice,23.0,Left,176.0,59.0,Las Palmas,La Liga,1,0,1,0
+637,Enzo Millot,22.0,Left,175.0,72.0,Stuttgart,Bundesliga,1,0,1,0
+638,Enzo Tchato,21.0,Right,180.0,68.0,Montpellier,Ligue 1,1,0,0,1
+639,Eren Dinkçi,22.0,Right,188.0,79.0,Freiburg,Bundesliga,1,1,1,0
+640,Erhan Mašović,25.0,Right,187.0,73.0,Bochum,Bundesliga,1,0,0,1
+641,Eric Bailly,30.0,Right,187.0,77.0,Villarreal,La Liga,1,0,0,1
+642,Eric Dier,30.0,Right,188.0,87.0,Bayern Munich,Bundesliga,1,0,1,1
+643,Eric García,23.0,Right,183.0,73.0,Barcelona,La Liga,1,0,0,1
+644,Eric Martel,22.0,Right,187.0,81.0,Köln,2,2,0,1,0
+645,Eric Monjonell,,,,,Lommel SK,Pro League B,2,0,0,1
+646,Erik Botheim,24.0,Right,180.0,69.0,Malmö,Allsvenskan,1,1,0,0
+647,Erling Haaland,24.0,Left,191.0,87.0,Manchester City,Premier League,1,1,1,0
+648,Ermedin Demirović,26.0,Right,185.0,82.0,Stuttgart,Bundesliga,1,1,1,0
+649,Ernest Nuamah,20.0,,,,Lyon,Ligue 1,1,1,0,0
+650,Ethan Brierley,,,,,Rochdale,League Two,4,0,1,0
+651,Ethan Nwaneri,17.0,,180.0,82.0,Arsenal,Premier League,1,0,1,0
+652,Ethan Pinnock,31.0,Left,188.0,78.0,Brentford,Premier League,1,0,0,1
+653,Etienne Camara,21.0,,,,Charleroi,Pro League A,1,0,1,0
+654,Etienne Youte Kinkoue,22.0,Right,196.0,84.0,Le Havre,Ligue 1,1,0,0,1
+655,Evan Ferguson,19.0,,183.0,,Brighton,Premier League,1,1,0,0
+656,Evann Guessand,23.0,,185.0,78.0,Nice,Ligue 1,1,1,0,0
+657,Exequiel Palacios,25.0,Right,177.0,69.0,Leverkusen,Bundesliga,1,0,1,1
+658,Ezequiel Ávila,30.0,Right,179.0,74.0,Betis,La Liga,1,1,1,0
+659,Ezri Konsa,26.0,Right,183.0,77.0,Aston Villa,Premier League,1,1,0,1
+660,Fabian Nürnberger,25.0,Left,178.0,72.0,Darmstadt 98,2,2,0,1,1
+661,Fabian Rieder,22.0,,181.0,73.0,Stuttgart,Bundesliga,1,1,1,0
+662,Fabian Rüdlin,27.0,,,,Freiburg,Bundesliga,1,0,1,0
+663,Fabian Schnellhardt,,Left,180.0,74.0,Darmstadt 98,Bundesliga,1,0,1,0
+664,Fabian Schär,32.0,Right,186.0,84.0,Newcastle Utd,Premier League,1,0,0,1
+665,Fabiano Parisi,23.0,Left,178.0,72.0,Fiorentina,Serie A,1,0,0,1
+666,Fabien Centonze,28.0,Right,190.0,82.0,Hellas Verona,Serie A,1,0,1,1
+667,Fabio Carvalho,22.0,Right,180.0,74.0,Brentford,Premier League,1,1,1,0
+668,Fabio Chiarodia,19.0,,186.0,79.0,Gladbach,Bundesliga,1,0,0,1
+669,Fabio González,27.0,,,,Las Palmas,La Liga,1,0,1,0
+670,Fabio Miretti,21.0,Right,180.0,72.0,Juventus,Serie A,1,0,1,0
+671,Fabio Torsiello,19.0,,,,Darmstadt 98,Bundesliga,1,1,0,0
+672,Fabio Vieira,24.0,Left,170.0,66.0,Arsenal,Premier League,1,0,1,0
+673,Fabián Ruiz Peña,28.0,Left,189.0,69.0,Paris S-G,Ligue 1,1,0,1,0
+674,Fabrizio Angileri,30.0,Left,179.0,73.0,Getafe,La Liga,1,0,1,1
+675,Facundo Buonanotte,19.0,,,,Leicester City,Premier League,1,1,1,0
+676,Facundo Medina,25.0,Left,184.0,82.0,Lens,Ligue 1,1,0,0,1
+677,Facundo Pellistri,22.0,Right,174.0,68.0,Panathinaikos,Super League,1,1,1,0
+678,Faitout Maouassa,26.0,Left,170.0,73.0,Lens,Ligue 1,1,0,1,1
+679,Falaye Sacko,29.0,Right,178.0,69.0,Montpellier,Ligue 1,1,0,0,1
+680,Fali,31.0,Right,186.0,77.0,Cádiz,La Liga 2,2,0,1,1
+681,Fali Candé,26.0,Left,184.0,77.0,Metz,Ligue 2,2,0,0,1
+682,Famara Diedhiou,31.0,Right,192.0,79.0,Cardiff City,Championship,2,1,0,0
+683,Fares Chaïbi,21.0,Right,183.0,69.0,Eint Frankfurt,Bundesliga,1,1,1,0
+684,Faris Pemi Moumbagna,24.0,Right,183.0,77.0,Marseille,Ligue 1,1,1,0,0
+685,Faroukou Cissé,20.0,,,,Royal Standard de Liège U23,Pro League B,2,0,0,1
+686,Fede San Emeterio,27.0,Right,174.0,68.0,Cádiz,La Liga 2,2,0,1,0
+687,Federico Baschirotto,27.0,Right,184.0,77.0,Lecce,Serie A,1,0,0,1
+688,Federico Bonazzoli,27.0,Left,182.0,78.0,Cremonese,Serie B,2,1,0,0
+689,Federico Chiesa,26.0,Right,175.0,69.0,Juventus,Serie A,1,1,1,1
+690,Federico Di Francesco,30.0,Right,178.0,71.0,Palermo,Serie B,2,1,1,0
+691,Federico Dimarco,26.0,Left,175.0,74.0,Inter,Serie A,1,0,1,1
+692,Federico Fazio,,Right,195.0,87.0,Salernitana,Serie A,1,0,0,1
+693,Federico Gatti,26.0,,190.0,74.0,Juventus,Serie A,1,0,0,1
+694,Federico Gattoni,25.0,,183.0,78.0,River Plate,Liga Argentina,1,0,0,1
+695,Federico Valverde,26.0,Right,183.0,72.0,Real Madrid,La Liga,1,1,1,0
+696,Felipe,,Right,184.0,77.0,Nott'ham Forest,Premier League,1,0,0,1
+697,Felipe Anderson,31.0,Right,175.0,69.0,Palmeiras,Série A,1,1,1,0
+698,Felix Agu,24.0,Right,180.0,73.0,Werder Bremen,Bundesliga,1,0,1,1
+699,Felix Nmecha,23.0,Right,185.0,74.0,Dortmund,Bundesliga,1,0,1,0
+700,Felix Passlack,26.0,Right,170.0,73.0,Bochum,Bundesliga,1,0,1,1
+701,Femi Seriki,22.0,,,,Sheffield Utd,Championship,2,0,0,1
+702,Ferland Mendy,29.0,Left,178.0,73.0,Real Madrid,La Liga,1,0,0,1
+703,Fermin López,21.0,,,,Barcelona,La Liga,1,1,0,0
+704,Fernando,37.0,Right,183.0,74.0,Internacional,Série A,1,0,1,1
+705,Ferrán Torres,24.0,Right,184.0,77.0,Barcelona,La Liga,1,1,1,0
+706,Festy Ebosele,22.0,,176.0,79.0,Udinese,Serie A,1,0,1,1
+707,Fikayo Tomori,26.0,Right,185.0,74.0,Milan,Serie A,1,0,0,1
+708,Filip Jagiełło,27.0,Right,182.0,69.0,Lech Poznań,Ekstraklasa,1,0,1,0
+709,Filip Kostić,31.0,Left,176.0,73.0,Juventus,Serie A,1,1,1,1
+710,Filip Stojilković,24.0,,,,Darmstadt 98,2,2,1,0,0
+711,Filippo Ranocchia,23.0,Right,186.0,76.0,Palermo,Serie B,2,0,1,0
+712,Filippo Terracciano,21.0,Right,181.0,68.0,Milan,Serie A,1,0,0,1
+713,Finley Munroe,19.0,,,,Aston Villa,Premier League,1,0,0,1
+714,Finn Ole Becker,24.0,Left,177.0,73.0,Hoffenheim,Bundesliga,1,0,1,0
+715,Flavien Tait,31.0,Right,175.0,69.0,Samsunspor,Süper Lig,1,1,1,0
+716,Flavius Daniliuc,23.0,Right,183.0,82.0,Hellas Verona,Serie A,1,0,0,1
+717,Florent Mollet,32.0,Right,174.0,68.0,Nantes,Ligue 1,1,1,1,0
+718,Florent Muslija,26.0,Right,172.0,64.0,Freiburg,Bundesliga,1,1,1,0
+719,Florent Ogier,,Right,182.0,74.0,Clermont Foot,Ligue 1,1,0,0,1
+720,Florian Dietz,26.0,,190.0,83.0,Köln,2,2,1,0,0
+721,Florian Grillitsch,29.0,Right,186.0,73.0,Hoffenheim,Bundesliga,1,0,1,1
+722,Florian Kainz,31.0,Right,174.0,67.0,Köln,Bundesliga,1,1,1,0
+723,Florian Lejeune,33.0,Right,188.0,81.0,Rayo Vallecano,La Liga,1,0,1,1
+724,Florian Neuhaus,27.0,Right,182.0,73.0,Gladbach,Bundesliga,1,0,1,0
+725,Florian Pick,29.0,Right,176.0,67.0,Nürnberg,2,2,1,1,0
+726,Florian Sotoca,33.0,Right,187.0,78.0,Lens,Ligue 1,1,1,1,0
+727,Florian Thauvin,31.0,Left,179.0,69.0,Udinese,Serie A,1,1,1,0
+728,Florian Wirtz,21.0,Right,175.0,68.0,Leverkusen,Bundesliga,1,1,1,0
+729,Fodé Ballo-Touré,27.0,Left,182.0,69.0,Fulham,Premier League,1,0,0,1
+730,Folarin Balogun,23.0,Right,179.0,73.0,Monaco,Ligue 1,1,1,0,0
+731,Formose Mendy,23.0,,191.0,76.0,Lorient,Ligue 2,2,0,0,1
+732,Fran Beltrán,25.0,Right,172.0,68.0,Celta Vigo,La Liga,1,0,1,0
+733,Fran Garcia,25.0,Left,167.0,60.0,Real Madrid,La Liga,1,0,0,1
+734,Francesco Acerbi,36.0,Left,192.0,87.0,Inter,Serie A,1,0,0,1
+735,Francesco Caputo,37.0,Right,181.0,73.0,Empoli,Serie A,1,1,0,0
+736,Francesco Gelli,27.0,,,,Frosinone,Serie B,2,0,1,0
+737,Francis Coquelin,,Right,178.0,73.0,Villarreal,La Liga,1,0,1,1
+738,Francis Onyeka,17.0,,,,Leverkusen U19,U19 Bundesliga,6,1,0,0
+739,Francisco Jesús Crespo García,28.0,Left,175.0,67.0,Las Palmas,La Liga,1,1,1,0
+740,Francisco Perez,22.0,,,,Valencia,La Liga,1,0,1,0
+741,Franck Honorat,28.0,Right,180.0,69.0,Gladbach,Bundesliga,1,1,1,0
+742,Franco Cervi,30.0,Left,167.0,59.0,Celta Vigo,La Liga,1,1,1,0
+743,Franco Umeh-Chibueze,19.0,,,,Crystal Palace,PL2,6,0,1,0
+744,Frank Magri,25.0,Right,178.0,74.0,Toulouse,Ligue 1,1,1,0,0
+745,Frank Onyeka,26.0,Right,183.0,74.0,Brentford,Premier League,1,0,1,0
+746,Frank Ronstadt,27.0,Right,179.0,76.0,Kaiserslautern,2,2,0,0,1
+747,Frans Krätzig,21.0,,,,Stuttgart,Bundesliga,1,0,1,0
+748,Fraser Hornby,25.0,Right,178.0,68.0,Darmstadt 98,2,2,1,0,0
+749,Fred Onyedinma,,Right,185.0,74.0,Rotherham Utd,Championship,2,1,1,1
+750,Frederic Guilbert,29.0,Right,178.0,69.0,Lecce,Serie A,1,0,1,1
+751,Frederik Winther,23.0,,186.0,78.0,Hammarby,Allsvenskan,1,0,0,1
+752,Fredrik Jensen,27.0,Right,183.0,79.0,Augsburg,Bundesliga,1,1,1,0
+753,Frenkie de Jong,27.0,Right,180.0,68.0,Barcelona,La Liga,1,0,1,1
+754,Fábio Silva,22.0,Right,185.0,73.0,Wolves,Premier League,1,1,0,0
+755,Félix Lemaréchal,21.0,Right,181.0,74.0,Strasbourg,Ligue 1,1,0,1,0
+756,Gabriel Gudmundsson,25.0,Left,181.0,76.0,Lille,Ligue 1,1,0,1,1
+757,Gabriel Jesus,27.0,Right,177.0,72.0,Arsenal,Premier League,1,1,1,0
+758,Gabriel Magalhães,26.0,Left,190.0,78.0,Arsenal,Premier League,1,0,0,1
+759,Gabriel Osho,26.0,Right,,,Auxerre,Ligue 1,1,0,0,1
+760,Gabriel Strefezza,27.0,Right,168.0,63.0,Como,Serie A,1,1,1,1
+761,Gabriel Suazo,27.0,Left,180.0,69.0,Toulouse,Ligue 1,1,0,1,1
+762,Gabriel Veiga,22.0,Right,178.0,67.0,Al-Ahli,Saudi Professional League,1,0,1,0
+763,Gaetano Castrovilli,27.0,Right,187.0,78.0,Lazio,Serie A,1,0,1,0
+764,Gaetano Oristanio,21.0,,,,Venezia,Serie A,1,1,1,0
+765,Gastón Pereiro,29.0,Left,188.0,79.0,Ternana,Serie B,2,1,1,0
+766,Gastón Álvarez,24.0,Left,184.0,72.0,Al-Qadsiah,Saudi Professional League,1,0,0,1
+767,Gautier Lloris,29.0,Left,191.0,83.0,Le Havre,Ligue 1,1,0,0,1
+768,Gavi,20.0,Right,173.0,69.0,Barcelona,La Liga,1,1,1,0
+769,Gavin Kilkenny,24.0,,,,Swindon Town,League Two,4,0,1,0
+770,Gaëtan Laborde,30.0,Left,181.0,78.0,Nice,Ligue 1,1,1,1,0
+771,Gedeon Kalulu,27.0,Right,176.0,73.0,Lorient,Ligue 1,1,0,0,1
+772,Gelabert,23.0,Right,182.0,77.0,Sporting Gijón,La Liga 2,2,0,1,0
+773,Genki Haraguchi,,Right,177.0,68.0,Stuttgart,Bundesliga,1,1,1,0
+774,Gennaro Borrelli,24.0,,,,Brescia,Serie B,2,1,0,0
+775,Geoffrey Kondogbia,31.0,Left,188.0,78.0,Marseille,Ligue 1,1,0,1,0
+776,George Baldock,31.0,Right,175.0,69.0,Sheffield Utd,Premier League,1,0,1,1
+777,George Earthy,20.0,,,,Bristol City,Championship,2,0,1,0
+778,George Pușcaș,28.0,Right,184.0,73.0,BB Bodrumspor,Süper Lig,1,1,0,0
+779,Georges Mikautadze,23.0,Right,176.0,71.0,Lyon,Ligue 1,1,1,0,0
+780,Gerard Gumbau,29.0,Left,187.0,78.0,Rayo Vallecano,La Liga,1,0,1,0
+781,Gerard Moreno,32.0,Left,177.0,74.0,Villarreal,La Liga,1,1,1,0
+782,Germán Pezzella,33.0,Right,187.0,82.0,River Plate,Liga Argentina,1,0,0,1
+783,Gerrit Holtmann,29.0,Left,183.0,73.0,Darmstadt 98,Bundesliga,1,1,1,0
+784,Gerzino Nyamsi,27.0,Right,192.0,84.0,Loko Moscow,Russian Premier League,1,0,0,1
+785,Giacomo Bonaventura,35.0,Right,180.0,74.0,Al-Shabab,Saudi Professional League,1,0,1,0
+786,Giacomo Raspadori,24.0,Right,172.0,66.0,Napoli,Serie A,1,1,1,0
+787,Gian Marco Ferrari,32.0,Left,189.0,82.0,Sassuolo,Serie A,1,0,0,1
+788,Giangiacomo Magnani,28.0,Right,191.0,84.0,Hellas Verona,Serie A,1,0,0,1
+789,Gianluca Caprari,31.0,Right,171.0,69.0,Monza,Serie A,1,1,1,0
+790,Gianluca Gaetano,24.0,Right,181.0,71.0,Napoli,Serie A,1,0,1,0
+791,Gianluca Lapadula,34.0,Left,179.0,68.0,Cagliari,Serie A,1,1,0,0
+792,Gianluca Mancini,28.0,Right,190.0,84.0,Roma,Serie A,1,0,0,1
+793,Gianluca Scamacca,25.0,Right,195.0,86.0,Atalanta,Serie A,1,1,0,0
+794,Gift Orban,22.0,,,,Lyon,Ligue 1,1,1,0,0
+795,Gino Infantino,21.0,,,,Fiorentina,Serie A,1,0,1,0
+796,Gio Reyna,21.0,Right,183.0,71.0,Dortmund,Bundesliga,1,1,1,0
+797,Giorgio Cittadini,22.0,,,,Genoa,Serie A,1,0,0,1
+798,Giorgio Scalvini,20.0,Right,194.0,76.0,Atalanta,Serie A,1,0,0,1
+799,Giorgos Kyriakopoulos,28.0,Left,178.0,74.0,Monza,Serie A,1,0,1,1
+800,Giovani Lo Celso,28.0,Left,175.0,68.0,Tottenham Hotspur,Premier League,1,1,1,0
+801,Giovanni Di Lorenzo,31.0,Right,184.0,79.0,Napoli,Serie A,1,0,1,1
+802,Giovanni Fabbian,21.0,Right,,,Bologna,Serie A,1,0,1,0
+803,Giovanni González,29.0,Right,175.0,69.0,Krasnodar,Russian Premier League,1,0,0,1
+804,Giovanni Simeone,29.0,Right,181.0,81.0,Napoli,Serie A,1,1,0,0
+805,Giuliano Simeone,21.0,,184.0,72.0,Atlético Madrid,La Liga,1,1,0,0
+806,Giulio Donati,,Right,179.0,78.0,Monza,Serie A,1,0,0,1
+807,Giulio Maggiore,26.0,Right,184.0,68.0,Salernitana,Serie B,2,0,1,0
+808,Giuseppe Caso,25.0,Right,172.0,64.0,Frosinone,Serie A,1,1,0,0
+809,Giuseppe Pezzella,26.0,Left,185.0,81.0,Empoli,Serie A,1,0,1,1
+810,Gleison Bremer,27.0,Right,188.0,83.0,Juventus,Serie A,1,0,0,1
+811,Gonzalo Escalante,31.0,Right,175.0,72.0,Cádiz,La Liga 2,2,0,1,0
+812,Gonzalo Melero,30.0,Right,183.0,77.0,Almería,La Liga 2,2,0,1,0
+813,Gonzalo Montiel,27.0,Right,180.0,73.0,Nott'ham Forest,Premier League,1,0,0,1
+814,Gonzalo Villar,26.0,Right,181.0,74.0,Granada,La Liga 2,2,0,1,0
+815,Gonçalo Guedes,27.0,Right,178.0,68.0,Wolves,Premier League,1,1,1,0
+816,Gonçalo Paciência,30.0,Right,184.0,78.0,Bochum,Bundesliga,1,1,0,0
+817,Gonçalo Ramos,23.0,Right,184.0,78.0,Paris S-G,Ligue 1,1,1,0,0
+818,Granit Xhaka,31.0,Left,185.0,82.0,Leverkusen,Bundesliga,1,0,1,0
+819,Grant Ranos,21.0,,,,Gladbach,Bundesliga,1,1,0,0
+820,Grejohn Kyei,29.0,Right,187.0,83.0,Standard Liège,Pro League A,1,1,0,0
+821,Grigoris Kastanos,26.0,Left,176.0,71.0,Hellas Verona,Serie A,1,0,1,0
+822,Grischa Prömel,29.0,Right,180.0,74.0,Hoffenheim,Bundesliga,1,0,1,0
+823,Grégoire Defrel,33.0,Left,179.0,77.0,Modena,Serie B,2,1,1,0
+824,Guela Doué,21.0,,183.0,,Strasbourg,Ligue 1,1,0,0,1
+825,Guido Rodríguez,30.0,Right,185.0,78.0,West Ham,Premier League,1,0,1,0
+826,Guille Bueno,21.0,,178.0,,Darmstadt 98,2,2,0,0,1
+827,Guillermo Maripán,30.0,Right,193.0,83.0,Monaco,Ligue 1,1,0,0,1
+828,Gustav Isaksen,23.0,,178.0,68.0,Lazio,Serie A,1,1,1,0
+829,Gustavo Hamer,27.0,Right,169.0,60.0,Sheffield Utd,Championship,2,0,1,0
+830,Habib Diarra,20.0,Right,179.0,73.0,Strasbourg,Ligue 1,1,0,1,0
+831,Habib Keita,22.0,Left,182.0,72.0,Clermont Foot,Ligue 2,2,0,1,0
+832,Habib Maïga,28.0,Right,181.0,76.0,Ferencváros,NB I,1,0,1,0
+833,Hakan Çalhanoğlu,30.0,Right,176.0,73.0,Inter,Serie A,1,1,1,0
+834,Hamari Traoré,32.0,Right,175.0,63.0,Real Sociedad,La Liga,1,0,0,1
+835,Hamed Junior Traorè,24.0,Right,177.0,68.0,Auxerre,Ligue 1,1,1,1,0
+836,Hamza Rafia,25.0,Right,178.0,73.0,Lecce,Serie A,1,0,1,0
+837,Han-Noah Massengo,23.0,,175.0,63.0,Burnley,Championship,2,0,1,0
+838,Hannes Delcroix,25.0,Left,183.0,73.0,Burnley,Premier League,1,0,0,1
+839,Hannibal Mejbri,21.0,Right,154.0,69.0,Burnley,Championship,2,0,1,0
+840,Hans Hateboer,30.0,Right,185.0,72.0,Rennes,Ligue 1,1,0,1,1
+841,Hans Nicolussi Caviglia,24.0,Right,180.0,68.0,Venezia,Serie A,1,0,1,0
+842,Harrison Reed,29.0,Right,176.0,74.0,Fulham,Premier League,1,0,1,0
+843,Harry Kane,31.0,Right,188.0,73.0,Bayern Munich,Bundesliga,1,1,0,0
+844,Harry Maguire,31.0,Right,188.0,78.0,Manchester Utd,Premier League,1,0,0,1
+845,Harry Toffolo,29.0,Left,183.0,71.0,Nott'ham Forest,Premier League,1,0,1,1
+846,Harry Wilson,27.0,Left,173.0,69.0,Fulham,Premier League,1,1,1,0
+847,Harvey Barnes,26.0,Right,174.0,68.0,Newcastle Utd,Premier League,1,1,1,0
+848,Harvey Elliott,21.0,Left,170.0,67.0,Liverpool,Premier League,1,1,1,0
+849,Harvey Griffiths,20.0,,,,Wolverhampton Wanderers,PL2,6,0,1,0
+850,Hassane Kamara,30.0,Left,166.0,62.0,Udinese,Serie A,1,0,1,1
+851,Hendry Blank,20.0,,,,RB Salzburg,Bundesliga,1,0,0,1
+852,Henrikh Mkhitaryan,35.0,Right,178.0,72.0,Inter,Serie A,1,1,1,0
+853,Henrique,,Left,173.0,71.0,Lyon,Ligue 1,1,0,0,1
+854,Hianga Mananga Mbock,24.0,Right,186.0,79.0,Brest,Ligue 1,1,0,1,0
+855,Hicham Boudaoui,24.0,Right,175.0,60.0,Nice,Ligue 1,1,0,1,0
+856,Hiroki Ito,25.0,Left,186.0,78.0,Stuttgart,Bundesliga,1,0,0,1
+857,Hirving Lozano,29.0,Right,177.0,69.0,PSV Eindhoven,Eredivisie,1,1,1,0
+858,Hjalmar Ekdal,25.0,Right,187.0,76.0,Burnley,Premier League,1,0,0,1
+859,Houboulang Mendes,26.0,Right,183.0,73.0,Troyes,Ligue 2,2,0,0,1
+860,Houssem Aouar,26.0,Right,175.0,69.0,Al-Ittihad,Saudi Professional League,1,1,1,0
+861,Hrvoje Smolčić,24.0,Left,183.0,79.0,LASK,Bundesliga,1,0,0,1
+862,Hugo Bueno,21.0,Left,180.0,72.0,Feyenoord,Eredivisie,1,0,1,1
+863,Hugo Duro,24.0,Left,178.0,72.0,Valencia,La Liga,1,1,0,0
+864,Hugo Ekitike,22.0,Right,189.0,76.0,Eint Frankfurt,Bundesliga,1,1,0,0
+865,Hugo Guillamón,24.0,Right,182.0,82.0,Valencia,La Liga,1,0,1,1
+866,Hugo Larsson,20.0,,,,Eint Frankfurt,Bundesliga,1,0,1,0
+867,Hugo Magnetti,26.0,Right,180.0,74.0,Brest,Ligue 1,1,0,1,0
+868,Hugo Novoa,21.0,Right,182.0,72.0,Alavés,La Liga,1,1,0,0
+869,Hugo Álvarez,21.0,,183.0,72.0,Celta Vigo,La Liga,1,0,0,1
+870,Hwang Hee-chan,28.0,Right,177.0,69.0,Wolves,Premier League,1,1,1,0
+871,Hwang Ui-jo,32.0,Right,184.0,73.0,Norwich City,Championship,2,1,1,0
+872,Hákon Arnar Haraldsson,21.0,Right,180.0,,Lille,Ligue 1,1,1,1,0
+873,Héctor Bellerín,29.0,Right,177.0,73.0,Betis,La Liga,1,0,1,1
+874,Iago,27.0,Left,182.0,68.0,Bahia,Série A,1,0,1,1
+875,Iago Aspas,37.0,Left,176.0,67.0,Celta Vigo,La Liga,1,1,1,0
+876,Ian Maatsen,22.0,Left,167.0,57.0,Aston Villa,Premier League,1,0,1,1
+877,Ianis Hagi,25.0,Both,172.0,68.0,Alavés,La Liga,1,1,1,0
+878,Ibrahim Cissoko,21.0,,,,Plymouth Argyle,Championship,2,1,0,0
+879,Ibrahim Diakité,20.0,Right,178.0,74.0,FC Stade Lausanne-Ouchy,Super Lg,1,0,0,1
+880,Ibrahim Salah,23.0,Right,,,Rennes,Ligue 1,1,1,0,0
+881,Ibrahim Sangaré,26.0,Right,191.0,77.0,Nott'ham Forest,Premier League,1,0,1,0
+882,Ibrahim Sulemana,21.0,,179.0,74.0,Atalanta,Serie A,1,0,1,0
+883,Ibrahima Kebe,24.0,,180.0,78.0,Lommel SK,Pro League B,2,0,1,0
+884,Ibrahima Konaté,25.0,Right,193.0,83.0,Liverpool,Premier League,1,0,0,1
+885,Ibrahima Koné,25.0,Left,190.0,83.0,Almería,La Liga,1,1,0,0
+886,Ibrahima Sissoko,26.0,Right,193.0,87.0,Bochum,Bundesliga,1,0,1,0
+887,Iddrisu Baba,28.0,Right,185.0,73.0,Almería,La Liga 2,2,0,1,0
+888,Idrissa Gana Gueye,34.0,Right,174.0,63.0,Everton,Premier League,1,0,1,0
+889,Iglesias,26.0,Right,185.0,77.0,Getafe,La Liga,1,0,0,1
+890,Ignacio Miramon,21.0,,,,Boca Juniors,Liga Argentina,1,0,1,0
+891,Ignasi Miquel,31.0,Left,193.0,84.0,Granada,La Liga 2,2,0,0,1
+892,Ignatius Ganago,25.0,Right,176.0,78.0,Nantes,Ligue 1,1,1,0,0
+893,Igor,26.0,Left,185.0,79.0,Brighton,Premier League,1,0,0,1
+894,Igor Carioca,28.0,Right,173.0,66.0,Lorient,Ligue 2,2,0,0,1
+895,Igor Zubeldia,27.0,Right,185.0,78.0,Real Sociedad,La Liga,1,0,1,1
+896,Ihlas Bebou,30.0,Right,183.0,72.0,Hoffenheim,Bundesliga,1,1,1,0
+897,Iker Muniain,,Right,169.0,63.0,Athletic Club,La Liga,1,1,1,0
+898,Iker Muñoz,21.0,,,,Osasuna,La Liga,1,0,1,0
+899,Ilaix Moriba,21.0,Right,185.0,73.0,Celta Vigo,La Liga,1,0,1,0
+900,Ilario Monterisi,22.0,,,,Frosinone,Serie B,2,0,0,1
+901,Ilia Gruev,24.0,Left,185.0,72.0,Leeds United,Championship,2,0,1,0
+902,Ilias Akhomach,20.0,,175.0,69.0,Villarreal,La Liga,1,0,1,0
+903,Illia Zabarnyi,22.0,Right,189.0,81.0,Bournemouth,Premier League,1,0,0,1
+904,Imanol,24.0,Left,177.0,62.0,Sparta Prague,Czech First League,1,0,0,1
+905,Imari Samuels,21.0,,,,Brighton,PL2,6,0,0,1
+906,Imran Louza,25.0,Left,178.0,64.0,Watford,Championship,2,0,1,0
+907,Iron Gomis,24.0,Right,182.0,78.0,Kasımpaşa,Süper Lig,1,0,1,0
+908,Irvin Cardona,27.0,Right,185.0,76.0,Espanyol,La Liga,1,1,1,0
+909,Isaac Bernal,24.0,,180.0,,Sevilla,La Liga,1,1,0,0
+910,Isaac Carcelen,31.0,Right,182.0,77.0,Cádiz,La Liga 2,2,0,1,1
+911,Isaac Palazón Camacho,29.0,Left,169.0,71.0,Rayo Vallecano,La Liga,1,1,1,0
+912,Isaac Success,,Right,182.0,86.0,Udinese,Serie A,1,1,1,0
+913,Isak Hansen-Aarøen,20.0,,174.0,59.0,Werder Bremen,Bundesliga,1,0,1,0
+914,Isak Hien,25.0,,191.0,87.0,Atalanta,Serie A,1,0,0,1
+915,Isco,32.0,Right,177.0,73.0,Betis,La Liga,1,1,1,0
+916,Ishé Samuels-Smith,18.0,,,,Chelsea,PL2,6,0,0,1
+917,Ismail Jakobs,25.0,Left,183.0,74.0,Monaco,Ligue 1,1,1,1,1
+918,Ismaila Cheick Coulibaly,23.0,Right,183.0,79.0,AIK Stockholm,Allsvenskan,1,0,1,0
+919,Ismaila Sarr,26.0,Right,180.0,69.0,Crystal Palace,Premier League,1,1,1,0
+920,Ismaily,34.0,Left,177.0,69.0,Lille,Ligue 1,1,0,0,1
+921,Ismaël Bennacer,26.0,Left,175.0,69.0,Milan,Serie A,1,0,1,0
+922,Ismaël Doukouré,21.0,,182.0,69.0,Strasbourg,Ligue 1,1,0,1,1
+923,Ismaël Gharbi,20.0,Right,173.0,60.0,FC Stade Lausanne-Ouchy,Super Lg,1,0,1,0
+924,Ismaël Traoré,38.0,Right,185.0,74.0,Metz,Ligue 2,2,0,0,1
+925,Issa Diop,27.0,Right,194.0,89.0,Fulham,Premier League,1,0,0,1
+926,Issa Kaboré,23.0,Right,180.0,,Luton Town,Premier League,1,0,1,1
+927,Issa Soumaré,23.0,Right,182.0,74.0,Le Havre,Ligue 1,1,1,1,0
+928,Issiaga Sylla,30.0,Left,180.0,69.0,Montpellier,Ligue 1,1,0,1,1
+929,Ivan Cavaleiro,,Right,175.0,72.0,Lille,Ligue 1,1,1,1,0
+930,Ivan Ilić,23.0,Left,182.0,77.0,Torino,Serie A,1,0,1,0
+931,Ivan Ordets,32.0,Right,187.0,87.0,Bochum,Bundesliga,1,0,0,1
+932,Ivan Perišić,35.0,Both,187.0,78.0,Hajduk Split,HNL,1,1,1,1
+933,Ivan Rakitić,36.0,Right,184.0,78.0,Hajduk Split,HNL,1,0,1,0
+934,Ivan Toney,28.0,Right,179.0,64.0,Brentford,Premier League,1,1,0,0
+935,Iván Alejo,29.0,Right,186.0,74.0,Cádiz,La Liga 2,2,1,1,0
+936,Iván Balliu,32.0,Right,175.0,63.0,Rayo Vallecano,La Liga,1,0,0,1
+937,Iván Martín,25.0,,178.0,69.0,Girona,La Liga,1,1,1,0
+938,Iñaki Williams,30.0,Right,186.0,77.0,Athletic Club,La Liga,1,1,1,0
+939,Iñigo Lekue,31.0,Right,180.0,72.0,Athletic Club,La Liga,1,0,1,1
+940,Iñigo Martínez,33.0,Left,181.0,77.0,Barcelona,La Liga,1,0,0,1
+941,Iñigo Ruiz de Galarreta,31.0,Right,174.0,66.0,Athletic Club,La Liga,1,0,1,0
+942,Jack Cork,,Right,185.0,68.0,Burnley,Premier League,1,0,1,1
+943,Jack Grealish,28.0,Right,175.0,68.0,Manchester City,Premier League,1,1,1,0
+944,Jack Harrison,27.0,Left,175.0,69.0,Everton,Premier League,1,1,1,0
+945,Jack Hinshelwood,19.0,,,,Brighton,Premier League,1,0,1,0
+946,Jack Robinson,31.0,Left,180.0,68.0,Sheffield Utd,Championship,2,0,0,1
+947,Jackson Tchatchoua,22.0,Right,178.0,,Hellas Verona,Serie A,1,0,1,1
+948,Jacob Brown,26.0,Right,178.0,68.0,Luton Town,Premier League,1,1,1,0
+949,Jacob Bruun Larsen,25.0,Right,183.0,74.0,Hoffenheim,Bundesliga,1,1,1,0
+950,Jacob Christensen,23.0,,,,Köln,Bundesliga,1,0,1,0
+951,Jacob Murphy,29.0,Right,176.0,69.0,Newcastle Utd,Premier League,1,1,1,1
+952,Jacob Ramsey,23.0,Right,180.0,73.0,Aston Villa,Premier League,1,1,1,0
+953,Jacob Wright,18.0,,,,Manchester City,PL2,6,0,1,0
+954,Jacopo Fazzini,,,178.0,69.0,Empoli,Serie A,1,0,1,0
+955,Jaden Philogene Bidace,22.0,Both,174.0,63.0,Aston Villa,Premier League,1,1,1,0
+956,Jadon Sancho,24.0,Right,180.0,73.0,Manchester Utd,Premier League,1,1,1,0
+957,Jaidon Anthony,24.0,Right,183.0,72.0,Burnley,Championship,2,1,1,0
+958,Jailson Siqueira,29.0,Right,178.0,73.0,Celta Vigo,La Liga,1,0,1,1
+959,Jaime Báez,29.0,Right,180.0,73.0,Peñarol,Uruguayan Primera División,1,1,1,0
+960,Jaime Mata,35.0,Right,185.0,83.0,Las Palmas,La Liga,1,1,1,0
+961,Jaka Bijol,25.0,Right,190.0,84.0,Udinese,Serie A,1,0,1,1
+962,Jake O'Brien,23.0,,,,Lyon,Ligue 1,1,0,0,1
+963,Jakob Löpping,,,,,Bremen U19,U19 Bundesliga,6,0,1,0
+964,Jakub Jankto,28.0,Left,184.0,72.0,Cagliari,Serie A,1,0,1,0
+965,Jakub Kamiński,22.0,,179.0,71.0,Wolfsburg,Bundesliga,1,1,1,0
+966,Jakub Kiwior,24.0,Left,182.0,78.0,Arsenal,Premier League,1,0,1,1
+967,Jakub Moder,25.0,Right,188.0,78.0,Brighton,Premier League,1,0,1,0
+968,Jamaal Lascelles,30.0,Right,189.0,83.0,Newcastle Utd,Premier League,1,0,0,1
+969,Jamal Musiala,21.0,Right,184.0,72.0,Bayern Munich,Bundesliga,1,1,1,0
+970,James Garner,23.0,Right,182.0,77.0,Everton,Premier League,1,0,1,0
+971,James Hill,22.0,,184.0,73.0,Bournemouth,Premier League,1,0,0,1
+972,James Maddison,27.0,Right,175.0,72.0,Tottenham Hotspur,Premier League,1,1,1,0
+973,James McConnell,19.0,,,,Liverpool,Premier League,1,0,1,0
+974,James Milner,38.0,Right,176.0,69.0,Brighton,Premier League,1,0,1,1
+975,James Sweet,,Right,,,Arsenal,PL2,6,0,0,1
+976,James Tarkowski,31.0,Right,185.0,81.0,Everton,Premier League,1,0,0,1
+977,James Tomkins,,Right,190.0,81.0,Crystal Palace,Premier League,1,0,1,1
+978,James Ward-Prowse,29.0,Right,173.0,66.0,West Ham,Premier League,1,0,1,0
+979,Jamie Bynoe-Gittens,20.0,Right,175.0,69.0,Dortmund,Bundesliga,1,1,0,0
+980,Jamie Donley,19.0,,,,Leyton Orient,League One,3,0,1,0
+981,Jamie Leweling,23.0,Right,184.0,86.0,Stuttgart,Bundesliga,1,1,1,0
+982,Jamie McDonnell,20.0,,,,Nottingham Forest,PL2,6,0,1,0
+983,Jan Paul van Hecke,24.0,Right,189.0,78.0,Brighton,Premier League,1,0,0,1
+984,Jan Schöppner,25.0,Right,185.0,78.0,Heidenheim,Bundesliga,1,0,1,0
+985,Jan Thielmann,22.0,Right,178.0,66.0,Köln,2,2,1,1,0
+986,Jan-Carlo Simic,19.0,,,,Anderlecht,Pro League A,1,0,0,1
+987,Jan-Niklas Beste,25.0,Left,177.0,69.0,Benfica,Primeira Liga,1,1,1,1
+988,Janik Haberer,30.0,Right,186.0,78.0,Union Berlin,Bundesliga,1,1,1,0
+989,Jaouen Hadjam,21.0,,,,Young Boys,Super Lg,1,0,0,1
+990,Japhet Tanganga,25.0,Right,184.0,83.0,Millwall,Championship,2,0,0,1
+991,Jarell Quansah,21.0,,197.0,79.0,Liverpool,Premier League,1,0,0,1
+992,Jarrad Branthwaite,22.0,Left,195.0,82.0,Everton,Premier League,1,0,0,1
+993,Jarrod Bowen,27.0,Left,178.0,69.0,West Ham,Premier League,1,1,1,0
+994,Jaume Costa,36.0,Left,169.0,64.0,Albacete,La Liga 2,2,0,0,1
+995,Javi Galán,29.0,Left,172.0,63.0,Atlético Madrid,La Liga,1,0,1,1
+996,Javi López,22.0,Left,183.0,73.0,Real Sociedad,La Liga,1,0,0,1
+997,Javi Martínez,24.0,Right,180.0,76.0,Osasuna,La Liga,1,0,1,0
+998,Javi Martón,25.0,,,,Athletic Club,La Liga,1,1,0,0
+999,Javier Guerra,21.0,,187.0,69.0,Valencia,La Liga,1,0,1,0
+1000,Javier Manquillo,30.0,Right,175.0,69.0,Celta Vigo,La Liga,1,0,0,1
+1001,Javier Muñoz,29.0,Right,175.0,68.0,Las Palmas,La Liga,1,0,1,0
+1002,Jay Rodriguez,35.0,Right,185.0,69.0,Burnley,Championship,2,1,1,0
+1003,Jay Stansfield,21.0,Right,180.0,69.0,Fulham,Premier League,1,1,1,0
+1004,Jayden Bogle,24.0,Right,178.0,68.0,Leeds United,Championship,2,0,1,1
+1005,Jayden Luker,,,,,Woking,National League,5,0,1,0
+1006,Jaïro Riedewald,28.0,Left,186.0,78.0,Antwerp,Pro League A,1,0,1,1
+1007,Jean Frederic N'Guessan,21.0,,,,Metz,Ligue 1,1,0,1,0
+1008,Jean Mattéo Bahoya,19.0,,180.0,74.0,Eint Frankfurt,Bundesliga,1,0,1,0
+1009,Jean Onana,24.0,Right,189.0,82.0,Beşiktaş,Süper Lig,1,0,1,0
+1010,Jean-Charles Castelletto,29.0,Right,185.0,72.0,Nantes,Ligue 1,1,0,0,1
+1011,Jean-Clair Todibo,24.0,Right,190.0,81.0,West Ham,Premier League,1,0,0,1
+1012,Jean-Daniel Akpa-Akpro,31.0,Right,180.0,68.0,Monza,Serie A,1,0,1,1
+1013,Jean-Eudes Aholou,30.0,Left,187.0,71.0,Angers,Ligue 1,1,0,1,0
+1014,Jean-Kevin Duverne,27.0,Right,184.0,71.0,Nantes,Ligue 1,1,0,0,1
+1015,Jean-Philippe Mateta,27.0,Right,192.0,82.0,Crystal Palace,Premier League,1,1,0,0
+1016,Jean-Ricner Bellegarde,26.0,Right,170.0,68.0,Wolves,Premier League,1,0,1,0
+1017,Jean-Victor Makengo,26.0,Left,177.0,73.0,Lorient,Ligue 1,1,0,1,0
+1018,Jeanuël Belocian,19.0,,186.0,78.0,Rennes,Ligue 1,1,0,0,1
+1019,Jeff Reine-Adélaïde,,Right,183.0,76.0,RWD Molenbeek,Pro League A,1,1,1,0
+1020,Jefferson Lerma,29.0,Right,179.0,69.0,Crystal Palace,Premier League,1,0,1,0
+1021,Jeffinho,24.0,,,,Botafogo (RJ),Série A,1,1,1,0
+1022,Jeffrey Gouweleeuw,33.0,Right,187.0,78.0,Augsburg,Bundesliga,1,0,0,1
+1023,Jeffrey Schlupp,31.0,Left,178.0,72.0,Crystal Palace,Premier League,1,1,1,1
+1024,Jens Cajuste,25.0,Right,188.0,77.0,Ipswich Town,Premier League,1,0,1,0
+1025,Jens Odgaard,25.0,Left,188.0,82.0,Bologna,Serie A,1,1,1,0
+1026,Jens Petter Hauge,24.0,Right,183.0,76.0,Bodø/Glimt,Eliteserien,1,1,1,1
+1027,Jens Stage,27.0,Right,187.0,81.0,Werder Bremen,Bundesliga,1,0,1,0
+1028,Jenson Metcalfe,20.0,,,,Chesterfield,League Two,4,0,1,0
+1029,Jeong Woo-yeong,24.0,Right,180.0,72.0,Union Berlin,Bundesliga,1,1,1,0
+1030,Jeremie Boga,27.0,Right,172.0,74.0,Nice,Ligue 1,1,1,1,0
+1031,Jeremie Frimpong,23.0,Right,172.0,67.0,Leverkusen,Bundesliga,1,0,1,1
+1032,Jeremy Doku,22.0,Right,171.0,59.0,Manchester City,Premier League,1,1,1,0
+1033,Jeremy Toljan,30.0,Right,182.0,71.0,Sassuolo,Serie B,2,0,1,1
+1034,Jesper Karlsson,26.0,Right,171.0,69.0,Bologna,Serie A,1,1,1,0
+1035,Jesper Lindstrøm,24.0,Right,180.0,63.0,Everton,Premier League,1,1,1,0
+1036,Jessic Ngankam,24.0,Right,184.0,83.0,Hannover 96,2,2,1,0,0
+1037,Jessy Deminguet,26.0,Left,178.0,73.0,Metz,Ligue 2,2,0,1,0
+1038,Jesurun Rak Sakyi,21.0,Left,178.0,64.0,Sheffield Utd,Championship,2,1,1,0
+1039,Jesus Vazquez,21.0,Left,182.0,77.0,Valencia,La Liga,1,0,0,1
+1040,Jesús Areso,25.0,Right,182.0,,Osasuna,La Liga,1,0,0,1
+1041,Jesús Corona,31.0,Right,173.0,62.0,Monterrey,Liga MX,1,1,1,1
+1042,Jesús Navas,38.0,Right,172.0,59.0,Sevilla,La Liga,1,1,1,1
+1043,Jesús Vallejo,27.0,Right,183.0,73.0,Granada,La Liga,1,0,0,1
+1044,Jhoanner Chávez,22.0,,175.0,,Lens,Ligue 1,1,0,1,1
+1045,Jhon Durán,20.0,Left,186.0,73.0,Aston Villa,Premier League,1,1,0,0
+1046,Jhon Lucumí,26.0,Left,185.0,83.0,Bologna,Serie A,1,0,0,1
+1047,Jhon Solis,19.0,,,,Girona,La Liga,1,0,1,0
+1048,Jim Allevinah,29.0,Right,172.0,67.0,Clermont Foot,Ligue 1,1,1,1,1
+1049,Jimmy Cabot,30.0,Right,164.0,59.0,Lens,Ligue 1,1,1,1,1
+1050,Joachim Andersen,28.0,Right,190.0,74.0,Crystal Palace,Premier League,1,0,0,1
+1051,Joakim Mæhle,27.0,Right,185.0,76.0,Wolfsburg,Bundesliga,1,0,1,1
+1052,Joan Gonzàlez,22.0,Right,190.0,79.0,Lecce,Serie A,1,0,1,0
+1053,Joan Jordán,30.0,Right,184.0,73.0,Sevilla,La Liga,1,0,1,0
+1054,Joaquin Sosa,22.0,,189.0,82.0,CF Montréal,MLS,1,0,0,1
+1055,Joaquín Correa,30.0,Right,188.0,77.0,Marseille,Ligue 1,1,1,1,0
+1056,Joe Gardner,19.0,,,,Nottingham Forest,PL2,6,0,0,1
+1057,Joe Gomez,27.0,Right,188.0,77.0,Liverpool,Premier League,1,0,0,1
+1058,Joe Hugill,20.0,,,,Wigan Athletic,League One,3,1,0,0
+1059,Joe Rothwell,29.0,Right,185.0,69.0,Leeds United,Championship,2,1,1,0
+1060,Joe Scally,21.0,Right,179.0,74.0,Gladbach,Bundesliga,1,0,0,1
+1061,Joe White,21.0,Left,186.0,73.0,Crewe Alexandra,League Two,4,0,1,0
+1062,Joe Willock,25.0,Right,178.0,73.0,Newcastle Utd,Premier League,1,0,1,0
+1063,Joe Worrall,27.0,Right,191.0,78.0,Burnley,Championship,2,0,0,1
+1064,Joel Imasuen,19.0,,,,Werder Bremen,Bundesliga,1,1,0,0
+1065,Joel Mvuka,21.0,Right,173.0,63.0,Lorient,Ligue 2,2,1,0,0
+1066,Joel Ward,34.0,Right,188.0,82.0,Crystal Palace,Premier League,1,0,1,1
+1067,Joelinton,28.0,Right,190.0,76.0,Newcastle Utd,Premier League,1,1,1,0
+1068,Johan Gastien,36.0,Right,181.0,66.0,Clermont Foot,Ligue 2,2,0,1,0
+1069,Johan Mojica,32.0,Left,182.0,66.0,Mallorca,La Liga,1,0,1,1
+1070,Johan Vásquez,25.0,Left,182.0,72.0,Genoa,Serie A,1,0,0,1
+1071,Johann Lepenant,21.0,Right,183.0,68.0,Nantes,Ligue 1,1,0,1,0
+1072,John Brooks,,Left,193.0,78.0,Hoffenheim,Bundesliga,1,0,0,1
+1073,John Egan,31.0,Right,185.0,87.0,Sheffield Utd,Premier League,1,0,0,1
+1074,John Fleck,,Left,169.0,68.0,Blackburn,Championship,2,1,1,0
+1075,John McGinn,29.0,Left,178.0,69.0,Aston Villa,Premier League,1,0,1,0
+1076,John Mcatee,25.0,,,,Bolton,League One,3,1,1,0
+1077,John Stones,30.0,Right,188.0,69.0,Manchester City,Premier League,1,0,0,1
+1078,John-Kymani Gordon,21.0,,181.0,,Colchester Utd,League Two,4,1,1,0
+1079,Johnny Cardoso,22.0,Right,183.0,78.0,Betis,La Liga,1,0,1,0
+1080,Jon Aramburu,22.0,Right,175.0,73.0,Real Sociedad,La Liga,1,0,0,1
+1081,Jon Guridi,29.0,Left,179.0,78.0,Alavés,La Liga,1,0,1,0
+1082,Jon Karrikaburu,21.0,,183.0,82.0,Racing Sant,La Liga 2,2,1,0,0
+1083,Jon Magunacelaya,24.0,,175.0,69.0,Real Sociedad,La Liga,1,0,1,0
+1084,Jon Moncayola,26.0,Right,182.0,77.0,Osasuna,La Liga,1,0,1,0
+1085,Jon Pacheco,23.0,Left,184.0,78.0,Real Sociedad,La Liga,1,0,0,1
+1086,Jonas Föhrenbach,28.0,Left,185.0,78.0,Heidenheim,Bundesliga,1,0,0,1
+1087,Jonas Hofmann,32.0,Right,176.0,69.0,Leverkusen,Bundesliga,1,1,1,0
+1088,Jonas Martin,34.0,Right,182.0,69.0,Brest,Ligue 1,1,0,1,1
+1089,Jonas Wind,25.0,Right,190.0,82.0,Wolfsburg,Bundesliga,1,1,1,0
+1090,Jonathan Asp Jensen,18.0,,,,Bayern U19,U19 Bundesliga,6,0,1,0
+1091,Jonathan Bamba,28.0,Right,175.0,72.0,Celta Vigo,La Liga,1,1,1,0
+1092,Jonathan Burkardt,24.0,Right,181.0,76.0,Mainz 05,Bundesliga,1,1,1,0
+1093,Jonathan Clauss,31.0,Right,178.0,68.0,Nice,Ligue 1,1,1,1,1
+1094,Jonathan David,24.0,Right,180.0,73.0,Lille,Ligue 1,1,1,1,0
+1095,Jonathan Gradit,31.0,Right,180.0,77.0,Lens,Ligue 1,1,0,0,1
+1096,Jonathan Ikone,26.0,Left,175.0,68.0,Fiorentina,Serie A,1,1,1,0
+1097,Jonathan Norbye,17.0,,,,Leipzig U19,U19 Bundesliga,6,0,0,1
+1098,Jonathan Tah,28.0,Right,193.0,97.0,Leverkusen,Bundesliga,1,0,0,1
+1099,Jonathan Viera,34.0,Right,170.0,63.0,Almería,La Liga,1,1,1,0
+1100,Jonny Castro,30.0,Right,175.0,69.0,PAOK,Super League,1,0,1,1
+1101,Jonny Evans,36.0,Right,188.0,77.0,Manchester Utd,Premier League,1,0,0,1
+1102,Jordan Amavi,30.0,Left,176.0,69.0,Brest,Ligue 1,1,0,0,1
+1103,Jordan Ayew,32.0,Right,182.0,81.0,Leicester City,Premier League,1,1,1,0
+1104,Jordan Beyer,24.0,Right,187.0,79.0,Burnley,Premier League,1,0,0,1
+1105,Jordan Clark,30.0,Right,183.0,76.0,Luton Town,Championship,2,0,1,0
+1106,Jordan Ferri,32.0,Right,172.0,69.0,Montpellier,Ligue 1,1,0,1,0
+1107,Jordan Lotomba,25.0,Right,177.0,64.0,Nice,Ligue 1,1,0,1,1
+1108,Jordan Pefok,28.0,Right,190.0,89.0,Union Berlin,Bundesliga,1,1,0,0
+1109,Jordan Veretout,31.0,Right,176.0,66.0,Marseille,Ligue 1,1,0,1,0
+1110,Jordan Zemura,24.0,,173.0,68.0,Udinese,Serie A,1,0,0,1
+1111,Jordi Mboula,25.0,Right,183.0,73.0,Gil Vicente FC,Primeira Liga,1,1,1,1
+1112,Jordi Osei-Tutu,25.0,Right,176.0,69.0,Bolton,League One,3,0,1,1
+1113,Jordy Makengo,23.0,,183.0,,Freiburg,Bundesliga,1,0,0,1
+1114,Jorge Cuenca,24.0,Left,187.0,74.0,Villarreal,La Liga,1,0,0,1
+1115,Jorge Herrando,23.0,Left,192.0,74.0,Osasuna,La Liga,1,0,0,1
+1116,Jorge Meré,,Right,182.0,78.0,Cádiz,La Liga,1,0,0,1
+1117,Jorge de Frutos,27.0,Right,173.0,69.0,Rayo Vallecano,La Liga,1,1,1,0
+1118,Jorginho,32.0,Right,180.0,64.0,Arsenal,Premier League,1,0,1,0
+1119,Joris Chotard,22.0,Right,178.0,68.0,Montpellier,Ligue 1,1,0,1,0
+1120,Joseba Zaldúa,32.0,Right,176.0,73.0,Cádiz,La Liga 2,2,0,0,1
+1121,Joselu,34.0,Right,192.0,81.0,Real Madrid,La Liga,1,1,0,0
+1122,Joseph Aidoo,28.0,Right,184.0,79.0,Celta Vigo,La Liga,1,0,0,1
+1123,Joseph Hodge,21.0,,177.0,76.0,Huddersfield,League One,3,0,1,0
+1124,Joseph Nduquidi,19.0,Right,185.0,73.0,Metz,Ligue 2,2,0,1,0
+1125,Joseph Okumu,27.0,,193.0,74.0,Reims,Ligue 1,1,0,0,1
+1126,Josh Brownhill,28.0,Right,177.0,73.0,Burnley,Championship,2,0,1,0
+1127,Josh Cullen,28.0,Right,180.0,74.0,Burnley,Championship,2,0,1,1
+1128,Josh Dasilva,25.0,Left,175.0,68.0,Brentford,Premier League,1,0,1,0
+1129,Josh Doig,22.0,Left,188.0,71.0,Sassuolo,Serie B,2,0,1,1
+1130,Josh Duffus,19.0,,,,Brighton,PL2,6,0,1,0
+1131,Josh Wilson-Esbrand,21.0,Left,176.0,64.0,Reims,Ligue 1,1,0,0,1
+1132,Josha Vagnoman,23.0,Right,187.0,86.0,Stuttgart,Bundesliga,1,0,1,1
+1133,Joshua Brooking,,,,,Chelsea,PL2,6,0,0,1
+1134,Joshua Kimmich,29.0,Right,176.0,69.0,Bayern Munich,Bundesliga,1,0,1,1
+1135,Joshua Quarshie,20.0,,196.0,91.0,Düsseldorf,2,2,0,1,0
+1136,Joshua Zirkzee,23.0,Right,193.0,83.0,Manchester Utd,Premier League,1,1,0,0
+1137,Josip Brekalo,26.0,Right,180.0,72.0,Fiorentina,Serie A,1,1,1,0
+1138,Josip Juranović,29.0,Right,175.0,68.0,Union Berlin,Bundesliga,1,0,1,1
+1139,Josip Stanišić,24.0,Right,186.0,73.0,Leverkusen,Bundesliga,1,0,0,1
+1140,Josuha Guilavogui,,Right,188.0,83.0,Mainz 05,Bundesliga,1,0,1,1
+1141,Josué Casimir,22.0,Right,178.0,,Le Havre,Ligue 1,1,1,0,0
+1142,José Arnaiz,29.0,Right,172.0,69.0,Osasuna,La Liga,1,1,1,0
+1143,José Callejón,,Right,178.0,73.0,Granada,La Liga,1,1,1,0
+1144,José Campaña,31.0,Right,179.0,73.0,Las Palmas,La Liga,1,0,1,0
+1145,José Luis García Vayá,26.0,Right,186.0,79.0,Valencia,La Liga,1,0,1,0
+1146,José Luis Gayà,29.0,Left,172.0,63.0,Valencia,La Liga,1,0,1,1
+1147,José Luis Morales,37.0,Right,180.0,69.0,Levante,La Liga 2,2,1,1,0
+1148,José Luis Palomino,34.0,Left,188.0,87.0,Cagliari,Serie A,1,0,0,1
+1149,José Mari,36.0,Right,180.0,59.0,Cádiz,La Liga,1,0,1,0
+1150,José María Giménez,29.0,Right,185.0,76.0,Atlético Madrid,La Liga,1,0,0,1
+1151,José Pozo,,Right,170.0,62.0,Rayo Vallecano,La Liga,1,1,1,0
+1152,Jovan Milošević,19.0,,,,St. Gallen,Super Lg,1,0,1,0
+1153,Jovane Cabral,26.0,Right,176.0,71.0,Salernitana,Serie A,1,1,1,0
+1154,João Cancelo,30.0,Right,182.0,66.0,Barcelona,La Liga,1,0,1,1
+1155,João Ferreira,23.0,,185.0,,Udinese,Serie A,1,0,0,1
+1156,João Félix,24.0,Right,180.0,63.0,Chelsea,Premier League,1,1,1,0
+1157,João Gomes,23.0,Right,176.0,73.0,Wolves,Premier League,1,0,1,0
+1158,João Palhinha,29.0,Right,190.0,77.0,Bayern Munich,Bundesliga,1,0,1,0
+1159,João Pedro,22.0,Right,182.0,69.0,Brighton,Premier League,1,1,1,0
+1160,Joël Matip,,Right,195.0,89.0,Liverpool,Premier League,1,0,1,1
+1161,Joël Veltman,32.0,Right,182.0,74.0,Brighton,Premier League,1,0,0,1
+1162,Joško Gvardiol,22.0,Left,185.0,82.0,Manchester City,Premier League,1,0,0,1
+1163,Juan Brandáriz,25.0,,185.0,69.0,Almería,La Liga 2,2,0,0,1
+1164,Juan Cruz,24.0,,179.0,72.0,Leganés,La Liga,1,1,0,0
+1165,Juan Cruz Armada,32.0,Left,182.0,77.0,Osasuna,La Liga,1,0,0,1
+1166,Juan Cuadrado,36.0,Right,178.0,71.0,Inter,Serie A,1,1,1,1
+1167,Juan David Cabal,23.0,,186.0,78.0,Juventus,Serie A,1,0,0,1
+1168,Juan Foyth,26.0,Right,190.0,77.0,Villarreal,La Liga,1,0,0,1
+1169,Juan Jesus,33.0,Left,185.0,83.0,Napoli,Serie A,1,0,0,1
+1170,Juan Miranda,24.0,Left,185.0,78.0,Bologna,Serie A,1,0,0,1
+1171,Juanlu Sánchez,21.0,Right,186.0,68.0,Sevilla,La Liga,1,0,1,1
+1172,Juanmi,31.0,Right,169.0,63.0,Betis,La Liga,1,1,1,0
+1173,Juanmi Latasa,23.0,,191.0,79.0,Valladolid,La Liga,1,1,0,0
+1174,Juanpe,33.0,Right,191.0,79.0,Girona,La Liga,1,0,0,1
+1175,Jude Bellingham,21.0,Right,186.0,74.0,Real Madrid,La Liga,1,0,1,0
+1176,Jules Koundé,25.0,Right,178.0,69.0,Barcelona,La Liga,1,0,0,1
+1177,Julian Araujo,23.0,Right,177.0,72.0,Bournemouth,Premier League,1,0,0,1
+1178,Julian Brandt,28.0,Right,185.0,82.0,Dortmund,Bundesliga,1,1,1,0
+1179,Julian Chabot,26.0,Left,194.0,89.0,Stuttgart,Bundesliga,1,0,0,1
+1180,Julian Justvan,26.0,Left,177.0,73.0,Nürnberg,2,2,0,1,1
+1181,Julian Ryerson,26.0,Right,183.0,83.0,Dortmund,Bundesliga,1,0,1,1
+1182,Julian Weigl,29.0,Right,187.0,71.0,Gladbach,Bundesliga,1,0,1,1
+1183,Julien Laporte,30.0,Right,185.0,82.0,Lorient,Ligue 1,1,0,0,1
+1184,Julien Le Cardinal,27.0,Right,182.0,73.0,Brest,Ligue 1,1,0,0,1
+1185,Julien Ponceau,23.0,Right,170.0,59.0,Lorient,Ligue 2,2,0,1,0
+1186,Julio Enciso,20.0,,168.0,63.0,Brighton,Premier League,1,1,1,0
+1187,Julián Malatini,23.0,,,,Werder Bremen,Bundesliga,1,0,0,1
+1188,Julián Álvarez,24.0,Right,173.0,69.0,Atlético Madrid,La Liga,1,1,1,0
+1189,Junior Adamu,23.0,Right,182.0,74.0,Freiburg,Bundesliga,1,1,0,0
+1190,Junior Diaz,21.0,,,,Troyes,Ligue 2,2,0,0,1
+1191,Junior Dina Ebimbe,23.0,Right,182.0,76.0,Eint Frankfurt,Bundesliga,1,1,1,0
+1192,Junior Messias,33.0,Left,174.0,67.0,Genoa,Serie A,1,1,1,0
+1193,Junior Mwanga,21.0,Both,184.0,72.0,Strasbourg,Ligue 1,1,0,1,0
+1194,Junior Sambia,28.0,Right,181.0,68.0,Salernitana,Serie A,1,0,1,1
+1195,Junya Ito,31.0,Right,176.0,68.0,Reims,Ligue 1,1,1,1,0
+1196,Jurriën Timber,23.0,Right,179.0,78.0,Arsenal,Premier League,1,0,0,1
+1197,Justin Diehl,19.0,,,,Stuttgart,Bundesliga,1,0,1,0
+1198,Justin Hubner,20.0,Left,185.0,74.0,Wolverhampton Wanderers,PL2,6,0,0,1
+1199,Justin Kluivert,25.0,Right,171.0,68.0,Bournemouth,Premier League,1,1,1,0
+1200,Justin Njinmah,23.0,,182.0,74.0,Werder Bremen,Bundesliga,1,1,1,0
+1201,Jérémie Bela,31.0,Right,173.0,69.0,Clermont Foot,Ligue 1,1,1,1,1
+1202,Jérémy Le Douaron,26.0,Left,189.0,81.0,Brest,Ligue 1,1,1,1,0
+1203,Jérôme Boateng,36.0,Right,192.0,89.0,LASK,Bundesliga,1,0,0,1
+1204,Jérôme Roussillon,31.0,Left,175.0,79.0,Union Berlin,Bundesliga,1,0,1,1
+1205,Jóhann Berg Guðmundsson,33.0,Left,186.0,78.0,Al-Orobah,Saudi Professional League,2,1,1,0
+1206,Jørgen Strand Larsen,24.0,Right,193.0,87.0,Wolves,Premier League,1,1,0,0
+1207,Kacper Urbanski,20.0,Right,178.0,73.0,Bologna,Serie A,1,0,1,0
+1208,Kadan Young,18.0,,,,Aston Villa,PL2,6,0,1,0
+1209,Kaden Rodney,19.0,,,,Crystal Palace,PL2,6,0,0,1
+1210,Kaelan Casey,19.0,,185.0,,West Ham United,PL2,6,0,0,1
+1211,Kai Havertz,25.0,Left,186.0,77.0,Arsenal,Premier League,1,1,1,0
+1212,Kaide Gordon,19.0,Left,179.0,63.0,Liverpool,Premier League,1,1,0,0
+1213,Kaiky,20.0,Right,186.0,76.0,Almería,La Liga 2,2,0,0,1
+1214,Kaine Kesler-Hayden,21.0,Right,175.0,62.0,Preston,Championship,2,0,1,1
+1215,Kaio Jorge,22.0,,180.0,63.0,Cruzeiro,Série A,1,1,0,0
+1216,Kalvin Phillips,28.0,Right,177.0,68.0,Ipswich Town,Premier League,1,0,1,1
+1217,Kamil Jóźwiak,26.0,Right,176.0,69.0,Granada,La Liga 2,2,1,1,0
+1218,Kamil Piątkowski,24.0,Right,191.0,79.0,RB Salzburg,Bundesliga,1,0,0,1
+1219,Kamory Doumbia,21.0,Right,170.0,53.0,Brest,Ligue 1,1,0,1,0
+1220,Kaoru Mitoma,27.0,,178.0,71.0,Brighton,Premier League,1,1,1,0
+1221,Karamoko Dembele,21.0,,168.0,55.0,QPR,Championship,2,1,1,0
+1222,Karim Adeyemi,22.0,Left,180.0,68.0,Dortmund,Bundesliga,1,1,1,0
+1223,Karim Onisiwo,32.0,Right,188.0,76.0,Mainz 05,Bundesliga,1,1,1,0
+1224,Karim Zedadka,24.0,Right,180.0,67.0,Ascoli,Serie B,2,0,0,1
+1225,Karlo Lulić,28.0,Right,186.0,74.0,Bari,Serie B,2,0,1,0
+1226,Karol Fila,26.0,Right,180.0,72.0,Strasbourg,Ligue 1,1,0,0,1
+1227,Karol Linetty,29.0,Right,176.0,73.0,Torino,Serie A,1,0,1,0
+1228,Karol Świderski,27.0,Left,184.0,73.0,Charlotte,MLS,1,1,1,0
+1229,Kasim Nuhu,29.0,Right,190.0,83.0,Hoffenheim,Bundesliga,1,0,0,1
+1230,Kassoum Ouattara,19.0,,,,Monaco,Ligue 1,1,0,0,1
+1231,Kastriot Dermaku,,Right,195.0,89.0,Lecce,Serie A,1,0,0,1
+1232,Keane Lewis-Potter,23.0,Right,181.0,66.0,Brentford,Premier League,1,1,1,0
+1233,Keinan Davis,26.0,Both,179.0,68.0,Udinese,Serie A,1,1,0,0
+1234,Keito Nakamura,24.0,Right,180.0,68.0,Reims,Ligue 1,1,1,1,0
+1235,Ken Izekor,17.0,,,,Leverkusen U19,U19 Bundesliga,6,1,0,0
+1236,Kenan Yıldız,19.0,,,,Juventus,Serie A,1,0,1,0
+1237,Kenneth Schmidt,22.0,,186.0,78.0,Freiburg,Bundesliga,1,0,0,1
+1238,Kenny Lala,32.0,Right,178.0,78.0,Brest,Ligue 1,1,0,1,1
+1239,Kenny Tete,28.0,Right,180.0,69.0,Fulham,Premier League,1,0,0,1
+1240,Kevin Akpoguma,29.0,Right,192.0,83.0,Hoffenheim,Bundesliga,1,0,0,1
+1241,Kevin Behrens,33.0,Right,184.0,83.0,Wolfsburg,Bundesliga,1,1,0,0
+1242,Kevin Bonifazi,28.0,Right,187.0,79.0,Frosinone,Serie A,1,0,0,1
+1243,Kevin Danso,25.0,Right,190.0,79.0,Lens,Ligue 1,1,0,1,1
+1244,Kevin De Bruyne,33.0,Right,181.0,69.0,Manchester City,Premier League,1,1,1,0
+1245,Kevin Kampl,33.0,Right,180.0,67.0,RB Leipzig,Bundesliga,1,0,1,0
+1246,Kevin Mbabu,29.0,Right,184.0,79.0,Augsburg,Bundesliga,1,0,0,1
+1247,Kevin Paredes,21.0,Left,168.0,63.0,Wolfsburg,Bundesliga,1,0,1,0
+1248,Kevin Schade,22.0,Right,183.0,72.0,Brentford,Premier League,1,1,1,0
+1249,Kevin Sessa,24.0,Right,175.0,69.0,Heidenheim,Bundesliga,1,0,1,0
+1250,Kevin Strootman,,Left,186.0,78.0,Genoa,Serie A,1,0,1,0
+1251,Kevin Stöger,31.0,Left,175.0,69.0,Gladbach,Bundesliga,1,0,1,0
+1252,Kevin Vogt,32.0,Right,194.0,84.0,Union Berlin,Bundesliga,1,0,1,1
+1253,Kevin Volland,32.0,Left,179.0,82.0,Union Berlin,Bundesliga,1,1,1,0
+1254,Kevin Vázquez,31.0,Right,173.0,72.0,Sporting Gijón,La Liga 2,2,0,0,1
+1255,Khalil Fayad,20.0,,172.0,60.0,Montpellier,Ligue 1,1,0,1,0
+1256,Khéphren Thuram,23.0,Right,191.0,82.0,Juventus,Serie A,1,0,1,0
+1257,Kiano Dyer,17.0,,,,Chelsea,PL2,6,0,1,0
+1258,Kieffer Moore,32.0,Right,196.0,83.0,Sheffield Utd,Championship,2,1,0,1
+1259,Kieran Tierney,27.0,Left,178.0,69.0,Real Sociedad,La Liga,1,0,1,1
+1260,Kieran Trippier,33.0,Right,178.0,66.0,Newcastle United,PL2,6,0,1,1
+1261,Kike Barja,27.0,Right,178.0,68.0,Osasuna,La Liga,1,1,1,0
+1262,Kike Pérez,27.0,Left,184.0,78.0,Valladolid,La Liga,1,0,1,0
+1263,Kike Salas,22.0,Left,186.0,79.0,Sevilla,La Liga,1,0,0,1
+1264,Kiko Femenía,33.0,Right,174.0,60.0,Villarreal,La Liga,1,1,1,1
+1265,Kiké,34.0,Right,186.0,78.0,Alavés,La Liga,1,1,0,0
+1266,Kilian Fischer,23.0,Both,182.0,78.0,Wolfsburg,Bundesliga,1,0,1,1
+1267,Kiliann Sildillia,22.0,Right,186.0,71.0,Freiburg,Bundesliga,1,0,0,1
+1268,Kim Min-jae,27.0,Right,188.0,78.0,Bayern Munich,Bundesliga,1,0,0,1
+1269,Kingsley Coman,28.0,Right,178.0,71.0,Bayern Munich,Bundesliga,1,1,1,0
+1270,Kingsley Ehizibue,29.0,Right,189.0,82.0,Udinese,Serie A,1,0,1,1
+1271,Kirian Rodríguez,28.0,,,,Las Palmas,La Liga,1,0,1,0
+1272,Kjell-Arik Wätjen,18.0,,,,Dortmund II,3,3,0,1,0
+1273,Klaus Gjasula,34.0,Right,192.0,87.0,Darmstadt 98,2,2,0,1,1
+1274,Ko Itakura,27.0,Right,186.0,82.0,Gladbach,Bundesliga,1,0,0,1
+1275,Kobbie Mainoo,19.0,,175.0,,Manchester Utd,Premier League,1,0,1,0
+1276,Koffi Djidji,,Right,184.0,71.0,Torino,Serie A,1,0,0,1
+1277,Koffi Kouao,26.0,Right,,,Metz,Ligue 2,2,0,0,1
+1278,Kofi Amoako,19.0,,,,Osnabrück,3,3,0,1,0
+1279,Koke,32.0,Right,170.0,73.0,Atlético Madrid,La Liga,1,0,1,0
+1280,Komnen Andrić,29.0,Both,189.0,81.0,Rijeka,HNL,1,1,0,0
+1281,Koni De Winter,22.0,,188.0,73.0,Genoa,Serie A,1,0,0,1
+1282,Konrad Laimer,27.0,Right,179.0,68.0,Bayern Munich,Bundesliga,1,0,1,1
+1283,Konstantinos Mavropanos,26.0,Right,191.0,78.0,West Ham,Premier League,1,0,0,1
+1284,Kostas Manolas,,Right,186.0,83.0,Salernitana,Serie A,1,0,0,1
+1285,Kristian Pedersen,30.0,Left,191.0,83.0,Swansea City,Championship,2,0,1,1
+1286,Kristian Sekularac,20.0,Right,185.0,67.0,Fulham,PL2,6,0,1,0
+1287,Kristian Thorstvedt,25.0,Left,171.0,78.0,Sassuolo,Serie B,2,0,1,0
+1288,Kristijan Jakić,27.0,Right,181.0,74.0,Augsburg,Bundesliga,1,0,1,1
+1289,Kristjan Asllani,22.0,Right,179.0,68.0,Inter,Serie A,1,0,1,0
+1290,Kristoffer Ajer,26.0,Right,196.0,83.0,Brentford,Premier League,1,0,1,1
+1291,Krépin Diatta,25.0,Right,175.0,69.0,Monaco,Ligue 1,1,1,1,1
+1292,Kurt Zouma,29.0,Right,190.0,92.0,West Ham,Premier League,1,0,0,1
+1293,Kyle Walker,34.0,Right,178.0,73.0,Manchester City,Premier League,1,0,1,1
+1294,Kylian Mbappé,25.0,Right,178.0,73.0,Real Madrid,La Liga,1,1,1,0
+1295,Kévin Gameiro,,Right,172.0,68.0,Strasbourg,Ligue 1,1,1,0,0
+1296,Kévin N'Doram,28.0,Right,184.0,76.0,Al Kholood Saudi Club,Saudi Professional League,1,0,1,1
+1297,Kévin Van Den Kerkhof,28.0,Right,,,Metz,Ligue 1,1,0,1,1
+1298,Lameck Banda,23.0,Both,169.0,68.0,Lecce,Serie A,1,1,0,0
+1299,Lamine Camara,20.0,Right,173.0,64.0,Monaco,Ligue 1,1,0,1,0
+1300,Lamine Diack,23.0,,,,Hatayspor,Süper Lig,1,0,1,0
+1301,Lamine Yamal,17.0,Left,,,Barcelona,La Liga,1,1,0,0
+1302,Largie Ramazani,23.0,Right,164.0,54.0,Leeds United,Championship,2,1,1,0
+1303,Lassana Coulibaly,28.0,Right,183.0,77.0,Lecce,Serie A,1,1,1,0
+1304,Lasse Wilhelm,21.0,,,,Saarbrücken,3,3,0,0,1
+1305,Laurent Abergel,31.0,Right,170.0,64.0,Lorient,Ligue 2,2,0,1,1
+1306,Lautaro Gianetti,30.0,Right,184.0,78.0,Udinese,Serie A,1,0,0,1
+1307,Lautaro Martínez,27.0,Right,174.0,72.0,Inter,Serie A,1,1,0,0
+1308,Layvin Kurzawa,,Left,182.0,74.0,Paris S-G,Ligue 1,1,0,0,1
+1309,Lazar Samardzic,22.0,Left,184.0,78.0,Atalanta,Serie A,1,0,1,0
+1310,Leander Dendoncker,29.0,Right,178.0,83.0,Napoli,Serie A,1,0,1,1
+1311,Leandro Barreiro Martins,24.0,Right,174.0,64.0,Benfica,Primeira Liga,1,0,1,0
+1312,Leandro Paredes,30.0,Right,182.0,74.0,Roma,Serie A,1,0,1,0
+1313,Leandro Trossard,29.0,Right,172.0,60.0,Arsenal,Premier League,1,1,1,0
+1314,Leart Paqarada,29.0,Left,184.0,76.0,Köln,2,2,0,1,1
+1315,Lebo Mothiba,,Right,181.0,76.0,Strasbourg,Ligue 1,1,1,0,0
+1316,Lee Jae-sung,32.0,Left,180.0,69.0,Mainz 05,Bundesliga,1,1,1,0
+1317,Lee Kang-in,23.0,Left,173.0,63.0,Paris S-G,Ligue 1,1,1,1,0
+1318,Leigh Kavanagh,20.0,,,,Brighton,PL2,6,0,0,1
+1319,Lennard Maloney,24.0,Right,187.0,83.0,Heidenheim,Bundesliga,1,0,1,1
+1320,Leny Yoro,18.0,,185.0,79.0,Lille,Ligue 1,1,0,0,1
+1321,Leo Castledine,19.0,,,,Shrewsbury,League One,3,0,1,0
+1322,Leo Skiri Østigård,24.0,Right,174.0,81.0,Rennes,Ligue 1,1,1,0,1
+1323,Leon Bailey,27.0,Left,181.0,69.0,Aston Villa,Premier League,1,1,1,0
+1324,Leon Goretzka,29.0,Right,189.0,78.0,Bayern Munich,Bundesliga,1,0,1,0
+1325,Leon Opitz,19.0,,,,Werder Bremen,Bundesliga,1,0,1,0
+1326,Leonardo Balerdi,25.0,Right,193.0,96.0,Marseille,Ligue 1,1,0,0,1
+1327,Leonardo Bittencourt,30.0,Right,171.0,63.0,Werder Bremen,Bundesliga,1,1,1,0
+1328,Leonardo Bonucci,,Right,191.0,82.0,Fenerbahçe,Süper Lig,1,0,0,1
+1329,Leonardo Pavoletti,35.0,Right,186.0,78.0,Cagliari,Serie A,1,1,0,0
+1330,Leonardo Spinazzola,31.0,Right,186.0,74.0,Napoli,Serie A,1,0,1,1
+1331,Leonidas Stergiou,22.0,,180.0,69.0,Stuttgart,Bundesliga,1,0,0,1
+1332,Leroy Sané,28.0,Left,184.0,73.0,Bayern Munich,Bundesliga,1,1,1,0
+1333,Lesley Ugochukwu,20.0,Right,188.0,83.0,Chelsea,Premier League,1,0,1,0
+1334,Levi Colwill,21.0,,187.0,74.0,Chelsea,Premier League,1,0,0,1
+1335,Levi Laing,21.0,,,,Cheltenham,League Two,4,0,0,1
+1336,Lewis Cook,27.0,Right,175.0,69.0,Bournemouth,Premier League,1,0,1,0
+1337,Lewis Dobbin,21.0,Right,175.0,63.0,West Brom,Championship,2,0,1,0
+1338,Lewis Dunk,32.0,Right,192.0,87.0,Brighton,Premier League,1,0,0,1
+1339,Lewis Ferguson,25.0,,181.0,74.0,Bologna,Serie A,1,0,1,0
+1340,Lewis Hall,20.0,,179.0,72.0,Newcastle Utd,Premier League,1,0,1,1
+1341,Lewis Koumas,18.0,,,,Stoke City,Championship,2,0,1,0
+1342,Lewis Miley,18.0,,,,Newcastle Utd,Premier League,1,0,1,0
+1343,Lewis O'Brien,25.0,Left,173.0,62.0,LAFC,MLS,2,0,1,0
+1344,Lewis Warrington,21.0,,182.0,,Leyton Orient,League One,3,0,1,0
+1345,Liam Henderson,28.0,Right,183.0,78.0,Empoli,Serie A,1,0,1,0
+1346,Liberato Cacace,23.0,Left,184.0,77.0,Empoli,Serie A,1,0,1,1
+1347,Lilian Brassier,24.0,Left,184.0,78.0,Marseille,Ligue 1,1,0,0,1
+1348,Lilian Egloff,,Right,183.0,79.0,Stuttgart,Bundesliga,1,0,1,0
+1349,Linton Maina,25.0,Right,173.0,69.0,Köln,2,2,1,1,0
+1350,Lloyd Kelly,25.0,Left,181.0,68.0,Newcastle Utd,Premier League,1,0,0,1
+1351,Logan Costa,23.0,Right,189.0,87.0,Villarreal,La Liga,1,0,0,1
+1352,Lorenz Assignon,24.0,Right,179.0,67.0,Rennes,Ligue 1,1,0,0,1
+1353,Lorenzo Amatucci,20.0,Right,,,Salernitana,Serie B,2,0,1,0
+1354,Lorenzo Colombo,22.0,Left,183.0,74.0,Empoli,Serie A,1,1,0,0
+1355,Lorenzo De Silvestri,36.0,Right,186.0,83.0,Bologna,Serie A,1,0,1,1
+1356,Lorenzo Lucca,24.0,,201.0,79.0,Udinese,Serie A,1,1,0,0
+1357,Lorenzo Pellegrini,28.0,Right,186.0,77.0,Roma,Serie A,1,0,1,0
+1358,Lorenzo Pirola,22.0,,185.0,72.0,Olympiacos,Super League,1,0,0,1
+1359,Lorenzo Venuti,29.0,Right,176.0,66.0,Sampdoria,Serie B,2,0,1,1
+1360,Loris Mouyokolo,23.0,Right,193.0,81.0,Lorient,Ligue 1,1,0,0,1
+1361,Loum Tchaouna,21.0,Left,,,Lazio,Serie A,1,1,1,0
+1362,Lovro Majer,26.0,Left,176.0,74.0,Wolfsburg,Bundesliga,1,1,1,0
+1363,Lovro Zvonarek,19.0,,,,Sturm Graz,Bundesliga,1,1,0,0
+1364,Loïc Bade,24.0,Right,191.0,86.0,Sevilla,La Liga,1,0,0,1
+1365,Loïc Nego,33.0,Right,181.0,63.0,Le Havre,Ligue 1,1,0,1,1
+1366,Luc De Fougerolles,18.0,,,,Fulham,PL2,6,0,0,1
+1367,Luca Barrington,19.0,,,,Grimsby Town,League Two,4,0,1,0
+1368,Luca Caldirola,33.0,Left,189.0,74.0,Monza,Serie A,1,0,0,1
+1369,Luca Garritano,30.0,Right,172.0,67.0,Frosinone,Serie B,2,1,1,0
+1370,Luca Kilian,25.0,Right,192.0,89.0,Köln,Bundesliga,1,0,0,1
+1371,Luca Koleosho,19.0,,175.0,69.0,Burnley,Championship,2,0,1,0
+1372,Luca Mazzitelli,28.0,Right,184.0,76.0,Como,Serie A,1,0,1,1
+1373,Luca Netz,21.0,Left,180.0,72.0,Gladbach,Bundesliga,1,0,1,1
+1374,Luca Pellegrini,25.0,Left,184.0,72.0,Lazio,Serie A,1,0,0,1
+1375,Luca Pfeiffer,28.0,Right,196.0,94.0,Karlsruher,2,2,1,0,0
+1376,Luca Raimund,19.0,,,,Stuttgart,Bundesliga,1,0,1,0
+1377,Luca Ranieri,25.0,Left,187.0,73.0,Fiorentina,Serie A,1,0,0,1
+1378,Luca Waldschmidt,28.0,Left,177.0,60.0,Köln,2,2,1,1,0
+1379,Luca de la Torre,26.0,Both,175.0,72.0,Celta Vigo,La Liga,1,0,1,0
+1380,Lucas,23.0,Left,,,Burnley,Championship,2,0,0,1
+1381,Lucas Beltrán,23.0,,,,Fiorentina,Serie A,1,1,0,0
+1382,Lucas Beraldo,20.0,Right,182.0,77.0,Paris S-G,Ligue 1,1,0,0,1
+1383,Lucas Boyé,28.0,Right,179.0,81.0,Granada,La Liga 2,2,1,0,0
+1384,Lucas Digne,31.0,Left,178.0,73.0,Aston Villa,Premier League,1,0,1,1
+1385,Lucas Hernández,28.0,Left,183.0,76.0,Paris S-G,Ligue 1,1,0,0,1
+1386,Lucas Höler,30.0,Right,184.0,79.0,Freiburg,Bundesliga,1,1,1,0
+1387,Lucas Martínez Quarta,28.0,Right,181.0,74.0,Fiorentina,Serie A,1,0,1,1
+1388,Lucas Ocampos,30.0,Right,187.0,83.0,Sevilla,La Liga,1,1,1,0
+1389,Lucas Paquetá,27.0,Left,180.0,72.0,West Ham,Premier League,1,1,1,0
+1390,Lucas Perrin,25.0,Right,187.0,71.0,Strasbourg,Ligue 1,1,0,0,1
+1391,Lucas Robertone,27.0,Right,175.0,69.0,Almería,La Liga 2,2,0,1,0
+1392,Lucas Torró,30.0,Right,188.0,77.0,Osasuna,La Liga,1,0,1,0
+1393,Lucas Tousart,27.0,Right,185.0,83.0,Union Berlin,Bundesliga,1,0,1,0
+1394,Lucas Vázquez,33.0,Right,173.0,73.0,Real Madrid,La Liga,1,1,1,1
+1395,Lucien Agoume,22.0,Right,185.0,81.0,Sevilla,La Liga,1,0,1,0
+1396,Ludovic Ajorque,30.0,Left,197.0,82.0,Brest,Ligue 1,1,1,0,0
+1397,Ludovic Blas,26.0,Left,180.0,69.0,Rennes,Ligue 1,1,1,1,0
+1398,Luigi Canotto,30.0,Right,,,Frosinone,Serie A,1,1,1,0
+1399,Luis Alberto,31.0,Right,182.0,73.0,Lazio,Serie A,1,1,1,0
+1400,Luis Díaz,27.0,Right,180.0,72.0,Liverpool,Premier League,1,1,1,0
+1401,Luis Henrique,22.0,Right,181.0,69.0,Marseille,Ligue 1,1,1,1,0
+1402,Luis Javier Suárez,26.0,Right,185.0,83.0,Almería,La Liga 2,2,1,0,0
+1403,Luis Milla,29.0,Right,175.0,73.0,Getafe,La Liga,1,0,1,0
+1404,Luis Muriel,33.0,Right,178.0,78.0,Orlando City,MLS,1,1,0,0
+1405,Luis Rioja,30.0,Left,173.0,64.0,Valencia,La Liga,1,1,1,0
+1406,Luis Sinisterra,25.0,Right,172.0,64.0,Bournemouth,Premier League,1,1,1,0
+1407,Luiz Felipe,27.0,Right,187.0,81.0,Al-Ittihad,Saudi Professional League,1,0,0,1
+1408,Luiz Henrique,23.0,Left,182.0,77.0,Botafogo (RJ),Série A,1,1,1,0
+1409,Luka Janes,20.0,,,,Heidenheim U19,U19 Bundesliga,6,0,1,0
+1410,Luka Jović,26.0,Right,181.0,74.0,Milan,Serie A,1,1,0,0
+1411,Luka Modrić,38.0,Right,174.0,64.0,Real Madrid,La Liga,1,0,1,0
+1412,Lukas Daschner,25.0,Both,177.0,76.0,Bochum,Bundesliga,1,1,1,0
+1413,Lukas Klostermann,28.0,Right,189.0,83.0,RB Leipzig,Bundesliga,1,0,1,1
+1414,Lukas Kübler,32.0,Right,183.0,72.0,Freiburg,Bundesliga,1,0,1,1
+1415,Lukas Nmecha,25.0,Right,185.0,68.0,Wolfsburg,Bundesliga,1,1,0,0
+1416,Lukas Ullrich,20.0,,,,Gladbach,Bundesliga,1,0,0,1
+1417,Luke Berry,32.0,Right,175.0,72.0,Charlton Ath,League One,3,0,1,0
+1418,Luke Chambers,20.0,,,,Wigan Athletic,League One,3,0,0,1
+1419,Luke Harris,19.0,,177.0,63.0,Birmingham City,League One,3,0,1,0
+1420,Luke Plange,21.0,,178.0,,Carlisle United,League One,3,1,0,0
+1421,Luke Shaw,29.0,Left,185.0,74.0,Manchester Utd,Premier League,1,0,1,1
+1422,Luke Thomas,23.0,Left,181.0,73.0,Middlesbrough,Championship,2,0,1,1
+1423,Lyle Foster,24.0,Right,185.0,78.0,Burnley,Championship,2,1,0,0
+1424,Lázaro,22.0,Right,181.0,67.0,Palmeiras,Série A,1,1,1,0
+1425,Léo Baptistão,32.0,Right,181.0,71.0,Almería,La Liga 2,2,1,1,0
+1426,Léo Leroy,24.0,Right,185.0,78.0,Basel,Super Lg,1,0,1,0
+1427,M'Bala Nzola,28.0,Left,185.0,79.0,Fiorentina,Serie A,1,1,1,0
+1428,M'Baye Niang,,Right,184.0,74.0,Adana Demirspor,Süper Lig,1,1,1,0
+1429,Mackenzie Hunt,22.0,,,,Fleetwood Town,League Two,4,0,0,1
+1430,Mads Juel Andersen,26.0,,194.0,78.0,Luton Town,Premier League,1,0,0,1
+1431,Mads Pedersen,28.0,Left,180.0,73.0,Augsburg,Bundesliga,1,0,1,1
+1432,Mads Roerslev,25.0,Right,184.0,74.0,Brentford,Premier League,1,0,1,1
+1433,Maghnes Akliouche,22.0,Left,175.0,63.0,Monaco,Ligue 1,1,0,1,0
+1434,Mahdi Camara,26.0,Right,178.0,59.0,Brest,Ligue 1,1,0,1,0
+1435,Mahmoud Dahoud,28.0,Right,176.0,67.0,Brighton,Premier League,1,0,1,0
+1436,Mahmut Kücüksahin,20.0,,,,Augsburg,Bundesliga,1,0,0,1
+1437,Malcolm Ebiowei,21.0,Left,185.0,,RWD Molenbeek,Pro League A,1,0,1,0
+1438,Malick Fofana,19.0,Left,,,Lyon,Ligue 1,1,0,1,1
+1439,Malick Thiaw,23.0,Right,185.0,79.0,Milan,Serie A,1,0,1,1
+1440,Malo Gusto,21.0,Right,179.0,66.0,Chelsea,Premier League,1,0,0,1
+1441,Mama Samba Baldé,28.0,Right,176.0,69.0,Lyon,Ligue 1,1,1,1,0
+1442,Mamadou Mbaye,26.0,Left,194.0,88.0,Cádiz,La Liga,1,0,0,1
+1443,Mamadou Sakho,34.0,Left,188.0,83.0,Montpellier,Ligue 1,1,0,0,1
+1444,Mamadou Sylla,30.0,Right,184.0,79.0,Valladolid,La Liga,1,1,0,0
+1445,Mamady Bangré,23.0,,171.0,64.0,Grenoble,Ligue 2,2,0,1,0
+1446,Manor Solomon,25.0,Right,170.0,68.0,Leeds United,Championship,2,1,1,0
+1447,Manu Koné,23.0,Right,181.0,72.0,Roma,Serie A,1,0,1,0
+1448,Manu Morlanes,25.0,Right,178.0,74.0,Mallorca,La Liga,1,0,1,0
+1449,Manu Sánchez,24.0,Left,179.0,71.0,Alavés,La Liga,1,0,0,1
+1450,Manu Trigueros,32.0,Right,178.0,69.0,Granada,La Liga 2,2,0,1,0
+1451,Manu Vallejo,27.0,Right,167.0,63.0,Racing Ferrol,La Liga 2,2,1,1,0
+1452,Manuel Akanji,29.0,Right,187.0,84.0,Manchester City,Premier League,1,0,1,1
+1453,Manuel Gulde,33.0,Right,179.0,74.0,Freiburg,Bundesliga,1,0,0,1
+1454,Manuel Lazzari,30.0,Right,174.0,67.0,Lazio,Serie A,1,0,1,1
+1455,Manuel Locatelli,26.0,Right,186.0,74.0,Juventus,Serie A,1,0,1,0
+1456,Manuel Ugarte Ribeiro,23.0,,182.0,73.0,Paris S-G,Ligue 1,1,0,1,0
+1457,Marash Kumbulla,24.0,Right,191.0,86.0,Espanyol,La Liga,1,0,0,1
+1458,Marc Bartra,33.0,Right,183.0,69.0,Betis,La Liga,1,0,0,1
+1459,Marc Cardona,29.0,Right,,,Las Palmas,La Liga,1,1,0,0
+1460,Marc Cucurella,26.0,Left,175.0,68.0,Chelsea,Premier League,1,0,1,1
+1461,Marc Guéhi,24.0,Right,182.0,82.0,Crystal Palace,Premier League,1,0,0,1
+1462,Marc Roca,27.0,Left,184.0,73.0,Betis,La Liga,1,0,1,0
+1463,Marcel Sabitzer,30.0,Right,176.0,69.0,Dortmund,Bundesliga,1,1,1,0
+1464,Marcin Listkowski,26.0,,178.0,68.0,Jagiellonia,Ekstraklasa,1,1,1,0
+1465,Marco Asensio,28.0,Left,178.0,69.0,Paris S-G,Ligue 1,1,1,1,0
+1466,Marco Brescianini,24.0,Left,,,Atalanta,Serie A,1,0,1,0
+1467,Marco Friedl,26.0,Left,186.0,71.0,Werder Bremen,Bundesliga,1,0,0,1
+1468,Marco Mancosu,,Right,180.0,77.0,Cagliari,Serie A,1,0,1,0
+1469,Marco Reus,35.0,Right,180.0,71.0,LA Galaxy,MLS,1,1,1,0
+1470,Marco Richter,26.0,Right,176.0,73.0,Hamburger SV,2,2,1,1,0
+1471,Marcos Acuña,32.0,Left,172.0,73.0,River Plate,Liga Argentina,1,0,1,1
+1472,Marcos Alonso,33.0,Left,188.0,84.0,Barcelona,La Liga,1,0,1,1
+1473,Marcos Llorente,29.0,Right,182.0,71.0,Atlético Madrid,La Liga,1,1,1,1
+1474,Marcos Senesi,27.0,Left,184.0,78.0,Bournemouth,Premier League,1,0,0,1
+1475,Marcus Coco,28.0,Right,180.0,74.0,Nantes,Ligue 1,1,1,1,1
+1476,Marcus Müller,22.0,,,,Mainz 05,Bundesliga,1,1,0,0
+1477,Marcus Pedersen,24.0,Right,178.0,76.0,Torino,Serie A,1,0,0,1
+1478,Marcus Rashford,26.0,Right,180.0,69.0,Manchester Utd,Premier League,1,1,1,0
+1479,Marcus Tavernier,25.0,Left,176.0,68.0,Bournemouth,Premier League,1,1,1,0
+1480,Marcus Thuram,27.0,Right,189.0,78.0,Inter,Serie A,1,1,1,0
+1481,Mariano,,Right,181.0,73.0,Sevilla,La Liga,1,1,0,0
+1482,Marin Pongračić,27.0,Right,190.0,84.0,Fiorentina,Serie A,1,0,0,1
+1483,Mario Gila,24.0,Right,185.0,73.0,Lazio,Serie A,1,0,0,1
+1484,Mario Götze,32.0,Right,176.0,71.0,Eint Frankfurt,Bundesliga,1,1,1,0
+1485,Mario Hermoso,,Left,181.0,68.0,Atlético Madrid,La Liga,1,0,0,1
+1486,Mario Lemina,31.0,Right,183.0,83.0,Wolves,Premier League,1,0,1,1
+1487,Mario Pašalić,29.0,Right,188.0,82.0,Atalanta,Serie A,1,1,1,0
+1488,Marius Bülter,31.0,Right,188.0,82.0,Hoffenheim,Bundesliga,1,1,1,1
+1489,Marius Wolf,29.0,Right,187.0,81.0,Augsburg,Bundesliga,1,1,1,1
+1490,Mark O'Mahony,19.0,,,,Portsmouth,Championship,2,1,0,0
+1491,Mark Uth,33.0,Left,185.0,68.0,Köln,2,2,1,1,0
+1492,Marko Arnautović,35.0,Right,192.0,83.0,Inter,Serie A,1,1,1,0
+1493,Marko Mladenović,19.0,,,,Eint Frankfurt,Bundesliga,1,0,1,0
+1494,Marley Aké,23.0,Right,170.0,68.0,Yverdon-Sport,Super Lg,1,1,0,0
+1495,Marnon Busch,29.0,Right,182.0,79.0,Heidenheim,Bundesliga,1,0,1,1
+1496,Marquinhos,30.0,Right,183.0,74.0,Paris S-G,Ligue 1,1,0,1,1
+1497,Marshall Munetsi,28.0,Right,187.0,82.0,Reims,Ligue 1,1,0,1,1
+1498,Marten de Roon,33.0,Right,185.0,76.0,Atalanta,Serie A,1,0,1,1
+1499,Martin Erlic,26.0,Right,192.0,78.0,Bologna,Serie A,1,0,0,1
+1500,Martin Hongla,26.0,Right,183.0,78.0,Granada,La Liga 2,2,0,1,1
+1501,Martin Satriano,23.0,Right,187.0,76.0,Lens,Ligue 1,1,1,0,0
+1502,Martin Terrier,27.0,Right,183.0,81.0,Leverkusen,Bundesliga,1,1,1,0
+1503,Martin Valjent,28.0,Right,186.0,78.0,Mallorca,La Liga,1,0,1,1
+1504,Martin Ødegaard,25.0,Left,179.0,68.0,Arsenal,Premier League,1,1,1,0
+1505,Martin Šviderský,21.0,,180.0,73.0,Manchester Utd,PL2 — Div,6,0,1,0
+1506,Martín Pascual,25.0,,,,Ibiza,La Liga 2,2,0,0,1
+1507,Martín Payero,26.0,Right,,,Udinese,Serie A,1,0,1,0
+1508,Martín Zubimendi,25.0,Right,180.0,77.0,Real Sociedad,La Liga,1,0,1,0
+1509,Marvelous Nakamba,30.0,Left,177.0,71.0,Luton Town,Premier League,1,0,1,0
+1510,Marvin,24.0,Right,178.0,63.0,Las Palmas,La Liga,1,1,0,0
+1511,Marvin Cuni,23.0,Right,188.0,79.0,Frosinone,Serie B,2,1,0,0
+1512,Marvin Ducksch,30.0,Right,188.0,72.0,Werder Bremen,Bundesliga,1,1,0,0
+1513,Marvin Friedrich,28.0,Right,193.0,78.0,Gladbach,Bundesliga,1,0,0,1
+1514,Marvin Mehlem,27.0,Right,174.0,68.0,Hull City,Championship,2,1,1,0
+1515,Marvin Pieringer,24.0,Right,189.0,81.0,Heidenheim,Bundesliga,1,1,0,0
+1516,Marvin Senaya,23.0,Right,179.0,68.0,Strasbourg,Ligue 1,1,0,1,1
+1517,Masaya Okugawa,28.0,Right,176.0,66.0,Hamburger SV,2,2,1,1,0
+1518,Mason Burstow,21.0,,,,Hull City,Championship,2,1,0,0
+1519,Mason Greenwood,22.0,Left,181.0,64.0,Marseille,Ligue 1,1,1,1,0
+1520,Mason Holgate,27.0,Right,184.0,73.0,Everton,Premier League,1,0,0,1
+1521,Mason Mount,25.0,Right,175.0,63.0,Manchester Utd,Premier League,1,0,1,0
+1522,Massadio Haïdara,31.0,Left,179.0,69.0,Lens,Ligue 1,1,0,1,1
+1523,Massimo Coda,35.0,Right,184.0,76.0,Sampdoria,Serie B,2,1,0,0
+1524,Matej Maglica,25.0,Left,196.0,,Darmstadt 98,2,2,0,0,1
+1525,Mateo Kovačić,30.0,Right,181.0,74.0,Manchester City,Premier League,1,0,1,0
+1526,Mateo Retegui,25.0,,,,Atalanta,Serie A,1,1,0,0
+1527,Mateu Morey,24.0,Right,173.0,67.0,Dortmund,Bundesliga,1,0,0,1
+1528,Mateusz Wieteska,27.0,Right,187.0,77.0,Cagliari,Serie A,1,0,0,1
+1529,Mateusz Łęgowski,21.0,,,,Salernitana,Serie A,1,0,1,0
+1530,Matheus Cunha,25.0,Right,183.0,76.0,Wolves,Premier League,1,1,1,0
+1531,Matheus França,20.0,,,,Crystal Palace,Premier League,1,1,0,0
+1532,Matheus Henrique,26.0,Right,175.0,71.0,Cruzeiro,Série A,1,0,1,0
+1533,Matheus Nunes,26.0,Right,183.0,78.0,Manchester City,Premier League,1,0,1,0
+1534,Mathias Honsak,27.0,Left,188.0,78.0,Heidenheim,Bundesliga,1,1,1,0
+1535,Mathias Jensen,28.0,Right,173.0,68.0,Brentford,Premier League,1,0,1,0
+1536,Mathias Jørgensen,34.0,Right,191.0,78.0,Anderlecht,Pro League A,1,0,0,1
+1537,Mathias Olesen,23.0,Right,176.0,71.0,Köln,2,2,0,1,0
+1538,Mathias Pereira Lage,27.0,Right,180.0,67.0,Brest,Ligue 1,1,1,1,0
+1539,Mathys Tel,19.0,,183.0,74.0,Bayern Munich,Bundesliga,1,1,0,0
+1540,Mathías Olivera,26.0,Left,184.0,78.0,Napoli,Serie A,1,0,0,1
+1541,Matias Arezo,21.0,,180.0,76.0,Grêmio,Série A,1,0,1,0
+1542,Matija Nastasić,31.0,Left,187.0,79.0,Mallorca,La Liga,1,0,0,1
+1543,Matondo-Merveille Papela,23.0,Right,174.0,69.0,Darmstadt 98,2,2,0,1,0
+1544,Mats Hummels,35.0,Right,192.0,89.0,Dortmund,Bundesliga,1,0,0,1
+1545,Mats Lemmens,22.0,Right,184.0,78.0,Calcio Lecco 1912,Serie B,2,0,0,1
+1546,Matt Dibley-Dias,20.0,,171.0,,Northampton,League One,3,0,1,0
+1547,Matt Doherty,32.0,Right,182.0,76.0,Wolves,Premier League,1,0,1,1
+1548,Matt Ritchie,34.0,Left,173.0,71.0,Portsmouth,Championship,2,0,1,1
+1549,Matt Targett,28.0,Left,178.0,69.0,Newcastle United,PL2,6,0,1,1
+1550,Matteo Cancellieri,22.0,Left,173.0,62.0,Parma,Serie A,1,1,0,0
+1551,Matteo Darmian,34.0,Right,182.0,69.0,Inter,Serie A,1,0,1,1
+1552,Matteo Gabbia,24.0,Right,185.0,81.0,Milan,Serie A,1,0,0,1
+1553,Matteo Lovato,24.0,Right,188.0,78.0,Sassuolo,Serie B,2,0,0,1
+1554,Matteo Perez Vinlöf,18.0,,,,Austria Wien,Bundesliga,1,0,0,1
+1555,Matteo Pessina,27.0,Left,183.0,74.0,Monza,Serie A,1,0,1,0
+1556,Matteo Politano,31.0,Left,170.0,64.0,Napoli,Serie A,1,1,1,0
+1557,Matteo Prati,20.0,,,,Cagliari,Serie A,1,0,1,0
+1558,Matteo Ruggeri,22.0,Left,179.0,69.0,Atalanta,Serie A,1,0,1,1
+1559,Matthew Whittingham,19.0,,,,Wolverhampton Wanderers,PL2,6,0,1,0
+1560,Matthias Bader,27.0,Right,176.0,73.0,Darmstadt 98,2,2,0,1,1
+1561,Matthias Ginter,30.0,Right,189.0,87.0,Freiburg,Bundesliga,1,0,1,1
+1562,Matthieu Udol,28.0,Left,178.0,73.0,Metz,Ligue 2,2,0,0,1
+1563,Matthijs de Ligt,25.0,Right,189.0,88.0,Manchester Utd,Premier League,1,0,0,1
+1564,Matthis Abline,21.0,,176.0,69.0,Nantes,Ligue 1,1,1,0,0
+1565,Mattia Aramu,29.0,Left,180.0,67.0,Mantova,Serie B,2,1,1,0
+1566,Mattia Caldara,30.0,Right,187.0,79.0,Modena,Serie B,2,0,0,1
+1567,Mattia De Sciglio,31.0,Right,183.0,73.0,Juventus,Serie A,1,0,1,1
+1568,Mattia Destro,,Right,181.0,72.0,Empoli,Serie A,1,1,0,0
+1569,Mattia Viti,22.0,Left,193.0,78.0,Empoli,Serie A,1,0,0,1
+1570,Mattia Zaccagni,29.0,Right,176.0,63.0,Lazio,Serie A,1,1,1,0
+1571,Mattias Svanberg,25.0,Right,185.0,74.0,Wolfsburg,Bundesliga,1,0,1,0
+1572,Matty Cash,27.0,Right,185.0,76.0,Aston Villa,Premier League,1,1,1,1
+1573,Mattéo Guendouzi,25.0,Right,185.0,68.0,Lazio,Serie A,1,0,1,0
+1574,Matìas Soulé,21.0,Left,176.0,54.0,Roma,Serie A,1,1,1,0
+1575,Matías Vecino,33.0,Right,187.0,81.0,Lazio,Serie A,1,1,1,0
+1576,Matías Viña,26.0,Left,176.0,71.0,Flamengo,Série A,1,0,1,1
+1577,Matúš Bero,29.0,Right,181.0,81.0,Bochum,Bundesliga,1,1,1,0
+1578,Mauro Arambarri,28.0,Right,174.0,71.0,Getafe,La Liga,1,0,1,0
+1579,Mauro Bandeira,,,,,Colchester Utd,League Two,4,0,1,0
+1580,Max Aarons,24.0,Right,172.0,66.0,Bournemouth,Premier League,1,0,0,1
+1581,Max Finkgräfe,20.0,,,,Köln,Bundesliga,1,0,0,1
+1582,Max Kilman,27.0,Left,192.0,78.0,West Ham,Premier League,1,0,0,1
+1583,Max Lowe,27.0,Left,168.0,69.0,Sheffield Weds,Championship,2,0,1,1
+1584,Max Rosenfelder,21.0,,,,Freiburg,Bundesliga,1,0,0,1
+1585,Max Scholze,19.0,,,,Verl,3,3,1,0,0
+1586,Maxence Caqueret,24.0,Right,174.0,63.0,Lyon,Ligue 1,1,0,1,0
+1587,Maxence Lacroix,24.0,Right,190.0,88.0,Wolfsburg,Bundesliga,1,0,0,1
+1588,Maxi Gómez,28.0,Right,186.0,91.0,Cádiz,La Liga,1,1,0,0
+1589,Maxim Dal,18.0,,188.0,,Mainz U19,U19 Bundesliga,6,0,0,1
+1590,Maxim Leitsch,26.0,Left,186.0,79.0,Mainz 05,Bundesliga,1,0,0,1
+1591,Maxime Busi,24.0,Right,182.0,74.0,Reims,Ligue 1,1,0,0,1
+1592,Maxime Colin,32.0,Right,180.0,74.0,Metz,Ligue 2,2,0,1,1
+1593,Maxime Estève,22.0,Left,192.0,82.0,Burnley,Championship,2,0,0,1
+1594,Maxime Gonalons,,Right,187.0,76.0,Clermont Foot,Ligue 1,1,0,1,0
+1595,Maxime Lopez,26.0,Right,167.0,58.0,Fiorentina,Serie A,1,0,1,0
+1596,Maximilian Bauer,24.0,Right,189.0,83.0,Augsburg,Bundesliga,1,0,0,1
+1597,Maximilian Beier,21.0,Right,183.0,71.0,Dortmund,Bundesliga,1,1,1,0
+1598,Maximilian Breunig,24.0,,,,Heidenheim,Bundesliga,1,1,0,0
+1599,Maximilian Eggestein,27.0,Right,181.0,74.0,Freiburg,Bundesliga,1,0,1,0
+1600,Maximilian Mittelstädt,27.0,Left,178.0,68.0,Stuttgart,Bundesliga,1,0,1,1
+1601,Maximilian Philipp,30.0,Right,184.0,77.0,Freiburg,Bundesliga,1,1,1,0
+1602,Maximilian Wittek,29.0,Left,170.0,72.0,Bochum,Bundesliga,1,0,1,1
+1603,Maximilian Wöber,26.0,Left,188.0,82.0,Gladbach,Bundesliga,1,0,0,1
+1604,Maximiliano Caufriez,27.0,Right,189.0,81.0,Clermont Foot,Ligue 1,1,0,0,1
+1605,Maxwel Cornet,27.0,Left,179.0,68.0,West Ham,Premier League,1,1,1,1
+1606,Mehdi Bourabia,33.0,Right,183.0,73.0,Kayserispor,Süper Lig,1,0,1,0
+1607,Mehdi Zeffane,,Right,174.0,63.0,Clermont Foot,Ligue 1,1,0,1,1
+1608,Melvin Bard,23.0,Left,173.0,68.0,Nice,Ligue 1,1,0,0,1
+1609,Memphis,30.0,Right,176.0,73.0,Atlético Madrid,La Liga,1,1,1,0
+1610,Mergim Berisha,26.0,Right,186.0,78.0,Hoffenheim,Bundesliga,1,1,0,0
+1611,Merlin Röhl,22.0,Both,191.0,73.0,Freiburg,Bundesliga,1,0,1,0
+1612,Mert Kömür,19.0,,,,Augsburg,Bundesliga,1,0,1,0
+1613,Micah Hamilton,20.0,,,,Middlesbrough,Championship,2,0,1,0
+1614,Michael Amir Murillo,28.0,Right,183.0,79.0,Marseille,Ligue 1,1,0,1,1
+1615,Michael Folorunsho,26.0,Right,,,Hellas Verona,Serie A,1,1,1,0
+1616,Michael Gregoritsch,30.0,Left,193.0,74.0,Freiburg,Bundesliga,1,1,1,0
+1617,Michael Kayode,20.0,Right,,,Fiorentina,Serie A,1,0,0,1
+1618,Michael Obafemi,24.0,Right,169.0,69.0,Plymouth Argyle,Championship,2,1,0,0
+1619,Michael Olise,22.0,Left,178.0,68.0,Bayern Munich,Bundesliga,1,1,1,0
+1620,Michail Antonio,34.0,Right,180.0,82.0,West Ham,Premier League,1,1,1,0
+1621,Michel Aebischer,27.0,Right,178.0,69.0,Bologna,Serie A,1,0,1,0
+1622,Micky van de Ven,23.0,Left,193.0,81.0,Tottenham Hotspur,Premier League,1,0,0,1
+1623,Miguel Almirón,30.0,Left,174.0,69.0,Newcastle Utd,Premier League,1,1,1,0
+1624,Miguel Gutiérrez,23.0,Left,180.0,71.0,Girona,La Liga,1,0,0,1
+1625,Miguel Ángel Rubio,26.0,Right,191.0,86.0,Granada,La Liga 2,2,0,0,1
+1626,Mihailo Ristić,28.0,Left,183.0,73.0,Celta Vigo,La Liga,1,0,1,1
+1627,Mihajlo Ilić,21.0,,,,Partizan,SuperLiga,1,0,0,1
+1628,Mika Baur,20.0,,,,SC Freiburg II,3,3,0,1,0
+1629,Mika Màrmol,22.0,,181.0,71.0,Las Palmas,La Liga,1,0,0,1
+1630,Mike Trésor,25.0,Right,173.0,68.0,Burnley,Premier League,1,1,1,0
+1631,Mikel Merino,28.0,Left,188.0,78.0,Real Sociedad,La Liga,1,0,1,0
+1632,Mikel Oyarzabal,27.0,Left,181.0,77.0,Real Sociedad,La Liga,1,1,1,0
+1633,Mikel Vesga,31.0,Left,191.0,86.0,Athletic Club,La Liga,1,0,1,0
+1634,Mikkel Damsgaard,24.0,Right,176.0,68.0,Brentford,Premier League,1,1,1,0
+1635,Mikkel Desler,29.0,Right,187.0,72.0,Austin,MLS,1,0,1,1
+1636,Mikkel Kaufmann,23.0,Right,190.0,81.0,Union Berlin,Bundesliga,1,1,0,0
+1637,Milan Badelj,35.0,Right,186.0,79.0,Genoa,Serie A,1,0,1,0
+1638,Milan Đurić,34.0,Right,199.0,93.0,Monza,Serie A,1,1,0,0
+1639,Milan Škriniar,29.0,Right,187.0,79.0,Paris S-G,Ligue 1,1,0,1,1
+1640,Milos Kerkez,20.0,Left,,,Bournemouth,Premier League,1,0,1,1
+1641,Miloš Pantović,28.0,Right,185.0,67.0,Eupen,Pro League A,1,1,1,0
+1642,Miloš Veljković,28.0,Right,184.0,77.0,Werder Bremen,Bundesliga,1,0,0,1
+1643,Milutin Osmajić,25.0,,,,Preston,Championship,2,1,0,0
+1644,Mirko Marić,29.0,,186.0,77.0,Monza,Serie A,1,1,0,0
+1645,Mitchel Bakker,24.0,Left,185.0,79.0,Atalanta,Serie A,1,0,1,1
+1646,Mitchell Weiser,30.0,Right,176.0,67.0,Werder Bremen,Bundesliga,1,1,1,1
+1647,Modibo Sagnan,25.0,Left,187.0,77.0,Montpellier,Ligue 1,1,0,0,1
+1648,Mohamed Ali Cho,20.0,Left,182.0,66.0,Nice,Ligue 1,1,1,0,0
+1649,Mohamed Bamba,22.0,,,,Lorient,Ligue 1,1,1,0,0
+1650,Mohamed Camara,24.0,Right,168.0,71.0,Monaco,Ligue 1,1,0,1,0
+1651,Mohamed Elneny,32.0,Right,180.0,77.0,Arsenal,Premier League,1,0,1,0
+1652,Mohamed Kaba,22.0,,,,Lecce,Serie A,1,0,1,0
+1653,Mohamed Lamine Bayo,26.0,Right,188.0,83.0,Lille,Ligue 1,1,1,0,0
+1654,Mohamed Salah,32.0,Left,175.0,71.0,Liverpool,Premier League,1,1,1,0
+1655,Mohamed Sankoh,20.0,Right,180.0,68.0,Cosenza,Serie B,2,1,0,0
+1656,Mohamed Simakan,24.0,Right,187.0,82.0,RB Leipzig,Bundesliga,1,0,0,1
+1657,Mohammed Daramy,22.0,,180.0,73.0,Reims,Ligue 1,1,1,1,0
+1658,Mohammed Kudus,24.0,Left,177.0,74.0,West Ham,Premier League,1,1,1,0
+1659,Mohammed Salisu,25.0,Left,191.0,82.0,Monaco,Ligue 1,1,0,0,1
+1660,Moi Gómez,30.0,Right,174.0,64.0,Osasuna,La Liga,1,1,1,0
+1661,Moise Kean,24.0,Right,182.0,77.0,Fiorentina,Serie A,1,1,0,0
+1662,Moisés Caicedo,22.0,Right,178.0,74.0,Chelsea,Premier League,1,0,1,0
+1663,Montassar Talbi,26.0,Right,190.0,83.0,Lorient,Ligue 2,2,0,0,1
+1664,Morgan Gibbs-White,24.0,Right,177.0,67.0,Nott'ham Forest,Premier League,1,1,1,0
+1665,Morgan Guilavogui,26.0,Right,188.0,74.0,St. Pauli,Bundesliga,1,1,1,0
+1666,Morgan Rogers,22.0,Left,189.0,76.0,Aston Villa,Premier League,1,1,1,0
+1667,Morgan Sanson,30.0,Right,182.0,69.0,Nice,Ligue 1,1,0,1,0
+1668,Moritz Broschinski,23.0,,,,Bochum,Bundesliga,1,1,0,0
+1669,Moritz Jenz,25.0,Right,189.0,78.0,Wolfsburg,Bundesliga,1,0,0,1
+1670,Moritz Römling,23.0,,,,Rot-Weiss Essen,3,3,1,0,0
+1671,Moritz-Broni Kwarteng,26.0,Both,176.0,68.0,Bochum,Bundesliga,1,0,1,0
+1672,Morten Frendrup,23.0,Right,178.0,71.0,Genoa,Serie A,1,0,1,0
+1673,Morten Thorsby,28.0,Right,186.0,72.0,Genoa,Serie A,1,0,1,0
+1674,Moses Simon,29.0,Right,168.0,66.0,Nantes,Ligue 1,1,1,1,0
+1675,Mostafa Mohamed,26.0,Right,185.0,78.0,Nantes,Ligue 1,1,1,0,0
+1676,Mouctar Diakhaby,27.0,Right,192.0,73.0,Valencia,La Liga,1,0,0,1
+1677,Moussa Diaby,25.0,Left,170.0,64.0,Al-Ittihad,Saudi Professional League,1,1,1,0
+1678,Moussa Diarra,23.0,Left,183.0,68.0,Alavés,La Liga,1,0,0,1
+1679,Moussa Niakhate,28.0,Left,190.0,82.0,Lyon,Ligue 1,1,1,0,1
+1680,Moussa Sissoko,35.0,Right,187.0,83.0,Watford,Championship,2,0,1,0
+1681,Muhammed Cham,23.0,Left,180.0,67.0,Trabzonspor,Süper Lig,1,0,1,0
+1682,Munir El Haddadi,29.0,Left,173.0,68.0,Leganés,La Liga,1,1,1,0
+1683,Murillo,22.0,,180.0,,Nott'ham Forest,Premier League,1,0,0,1
+1684,Musa Al-Taamari,27.0,Left,178.0,74.0,Montpellier,Ligue 1,1,1,1,1
+1685,Mykhailo Mudryk,23.0,Right,175.0,60.0,Chelsea,Premier League,1,1,1,0
+1686,Myles Lewis-Skelly,17.0,,178.0,,Arsenal,PL2,6,0,1,0
+1687,Myles Peart-Harris,21.0,Right,187.0,69.0,Swansea City,Championship,2,0,1,0
+1688,Myron Boadu,23.0,Right,183.0,74.0,Bochum,Bundesliga,1,1,0,0
+1689,Myrto Uzuni,29.0,Right,183.0,63.0,Granada,La Liga 2,2,1,1,0
+1690,Mário Rui,33.0,Left,170.0,67.0,Napoli,Serie A,1,0,1,1
+1691,Máximo Perrone,21.0,Left,178.0,63.0,Como,Serie A,1,0,1,0
+1692,Mërgim Vojvoda,29.0,Right,187.0,71.0,Torino,Serie A,1,0,1,1
+1693,Naatan Skyttä,22.0,,,,Dunkerque,Ligue 2,2,0,1,0
+1694,Nabil Alioui,25.0,Right,175.0,63.0,Adana Demirspor,Süper Lig,1,1,1,0
+1695,Nabil Bentaleb,29.0,Left,187.0,78.0,Lille,Ligue 1,1,0,1,0
+1696,Naby Keïta,29.0,Right,172.0,71.0,Werder Bremen,Bundesliga,1,0,1,0
+1697,Nacho,34.0,Right,179.0,74.0,Al-Qadsiah,Saudi Professional League,1,0,0,1
+1698,Nacho Ferri,19.0,,192.0,79.0,Kortrijk,Pro League A,1,1,0,0
+1699,Nacho Vidal,29.0,Right,180.0,73.0,Osasuna,La Liga,1,0,0,1
+1700,Nadiem Amiri,27.0,Right,178.0,72.0,Mainz 05,Bundesliga,1,0,1,0
+1701,Nadir Zortea,25.0,Right,175.0,69.0,Frosinone,Serie A,1,0,1,1
+1702,Nahitan Nández,28.0,Right,172.0,69.0,Al-Qadsiah,Saudi Professional League,1,0,1,1
+1703,Nahuel Molina,26.0,Right,175.0,69.0,Atlético Madrid,La Liga,1,0,1,1
+1704,Nahuel Tenaglia,28.0,Right,182.0,71.0,Alavés,La Liga,1,0,0,1
+1705,Nampalys Mendy,32.0,Right,168.0,68.0,Lens,Ligue 1,1,0,1,0
+1706,Naouirou Ahamada,22.0,Right,183.0,76.0,Crystal Palace,Premier League,1,0,1,0
+1707,Nathan Aké,29.0,Left,180.0,74.0,Manchester City,Premier League,1,0,1,1
+1708,Nathan Collins,23.0,Right,193.0,81.0,Brentford,Premier League,1,0,0,1
+1709,Nathan Fraser,19.0,,,,Zulte Waregem,Pro League B,2,1,0,0
+1710,Nathan N'Goumou,24.0,Right,182.0,69.0,Gladbach,Bundesliga,1,1,1,0
+1711,Nathan Redmond,30.0,Right,173.0,74.0,Burnley,Premier League,1,1,1,0
+1712,Nathan Zeze,19.0,,,,Nantes,Ligue 1,1,0,0,1
+1713,Nathanael Mbuku,22.0,Left,170.0,64.0,Saint-Étienne,Ligue 2,2,0,1,0
+1714,Nathaniel Adjei,22.0,,,,Lorient,Ligue 2,2,0,0,1
+1715,Nathaniel Clyne,33.0,Right,175.0,67.0,Crystal Palace,Premier League,1,0,0,1
+1716,Nayef Aguerd,28.0,Left,188.0,76.0,West Ham,Premier League,1,0,0,1
+1717,Neal Maupay,28.0,Right,171.0,68.0,Marseille,Ligue 1,1,1,1,0
+1718,Neco Williams,23.0,Right,183.0,76.0,Nott'ham Forest,Premier League,1,0,1,1
+1719,Nedim Bajrami,25.0,Right,179.0,68.0,Sassuolo,Serie B,2,1,1,0
+1720,Nehuén Pérez,24.0,Right,184.0,78.0,Udinese,Serie A,1,0,0,1
+1721,Neil El Aynaoui,23.0,Right,182.0,78.0,Lens,Ligue 1,1,0,1,0
+1722,Nelson Weiper,19.0,,192.0,81.0,Mainz 05,Bundesliga,1,1,0,0
+1723,Nemanja Gudelj,32.0,Right,187.0,73.0,Sevilla,La Liga,1,0,1,1
+1724,Nemanja Maksimović,29.0,Right,189.0,74.0,Panathinaikos,Super League,1,0,1,0
+1725,Nemanja Matić,36.0,Left,194.0,84.0,Lyon,Ligue 1,1,0,1,0
+1726,Nemanja Radonjić,28.0,Right,178.0,69.0,Mallorca,La Liga,1,1,1,0
+1727,Niccolò Pierozzi,22.0,Left,,,Palermo,Serie B,2,0,0,1
+1728,Nick Woltemade,22.0,Right,187.0,79.0,Stuttgart,Bundesliga,1,1,0,0
+1729,Niclas Füllkrug,31.0,Right,188.0,82.0,West Ham,Premier League,1,1,0,0
+1730,Nico Elvedi,27.0,Right,188.0,73.0,Gladbach,Bundesliga,1,0,0,1
+1731,Nico Schlotterbeck,24.0,Left,191.0,84.0,Dortmund,Bundesliga,1,0,0,1
+1732,Nico Williams,22.0,Right,180.0,67.0,Athletic Club,La Liga,1,1,1,0
+1733,Nicola Sansone,33.0,Right,175.0,73.0,Lecce,Serie A,1,1,1,0
+1734,Nicola Zalewski,22.0,Right,164.0,63.0,Roma,Serie A,1,0,1,1
+1735,Nicolai Rapp,27.0,Right,185.0,74.0,Karlsruher,2,2,0,1,1
+1736,Nicolas Cozza,25.0,Left,178.0,72.0,Nantes,Ligue 1,1,0,0,1
+1737,Nicolas Haas,28.0,Right,178.0,73.0,Empoli,Serie A,1,0,1,0
+1738,Nicolas Höfler,34.0,Right,181.0,78.0,Freiburg,Bundesliga,1,0,1,0
+1739,Nicolas Jackson,23.0,,186.0,78.0,Chelsea,Premier League,1,1,0,0
+1740,Nicolas Pallois,36.0,Left,190.0,84.0,Nantes,Ligue 1,1,0,0,1
+1741,Nicolas Seiwald,23.0,Right,179.0,69.0,RB Leipzig,Bundesliga,1,0,1,0
+1742,Nicolas Viola,34.0,Left,180.0,77.0,Cagliari,Serie A,1,0,1,0
+1743,Nicolás Domínguez,26.0,Right,179.0,73.0,Nott'ham Forest,Premier League,1,0,1,0
+1744,Nicolás González,26.0,Left,180.0,72.0,Juventus,Serie A,1,1,1,0
+1745,Nicolás Tagliafico,32.0,Left,172.0,64.0,Lyon,Ligue 1,1,0,0,1
+1746,Nicolò Barella,27.0,Right,172.0,68.0,Inter,Serie A,1,0,1,0
+1747,Nicolò Cambiaghi,23.0,Both,173.0,64.0,Bologna,Serie A,1,1,1,0
+1748,Nicolò Casale,26.0,Right,191.0,83.0,Lazio,Serie A,1,0,0,1
+1749,Nicolò Fagioli,23.0,Right,178.0,69.0,Juventus,Serie A,1,0,1,0
+1750,Nicolò Rovella,22.0,Right,179.0,68.0,Lazio,Serie A,1,0,1,0
+1751,Nicolò Zaniolo,25.0,Left,190.0,83.0,Atalanta,Serie A,1,1,1,0
+1752,Niels Nkounkou,23.0,Left,182.0,78.0,Eint Frankfurt,Bundesliga,1,0,1,1
+1753,Niklas Dorsch,26.0,Right,175.0,72.0,Augsburg,Bundesliga,1,0,1,0
+1754,Niklas Schmidt,26.0,Right,184.0,74.0,Toulouse,Ligue 1,1,1,1,0
+1755,Niklas Stark,29.0,Right,189.0,73.0,Werder Bremen,Bundesliga,1,0,1,1
+1756,Niklas Süle,29.0,Right,195.0,92.0,Dortmund,Bundesliga,1,0,0,1
+1757,Nikola Dovedan,30.0,Right,179.0,69.0,Heidenheim,Bundesliga,1,1,1,0
+1758,Nikola Krstović,24.0,Both,185.0,79.0,Lecce,Serie A,1,1,0,0
+1759,Nikola Maraš,28.0,Right,188.0,77.0,Levante,La Liga 2,2,0,0,1
+1760,Nikola Milenković,26.0,Right,195.0,92.0,Nott'ham Forest,Premier League,1,0,0,1
+1761,Nikola Moro,26.0,Right,183.0,77.0,Bologna,Serie A,1,0,1,0
+1762,Nikola Vlašić,26.0,Right,178.0,76.0,Torino,Serie A,1,1,1,0
+1763,Njegoš Petrović,25.0,Right,185.0,79.0,Vojvodina,SuperLiga,1,0,1,0
+1764,Nnamdi Collins,20.0,,,,Eint Frankfurt,Bundesliga,1,0,0,1
+1765,Noah Loosli,27.0,,185.0,74.0,Bochum,Bundesliga,1,0,0,1
+1766,Noah Okafor,24.0,Right,185.0,84.0,Milan,Serie A,1,1,1,0
+1767,Noah Weißhaupt,22.0,Right,181.0,73.0,Freiburg,Bundesliga,1,0,1,0
+1768,Noel Nkili,18.0,,,,Bayern U19,U19 Bundesliga,6,0,1,0
+1769,Nolan Mbemba,29.0,Right,181.0,72.0,Grenoble,Ligue 2,2,0,1,0
+1770,Noni Madueke,22.0,Both,176.0,66.0,Chelsea,Premier League,1,1,1,0
+1771,Norbert Gyömbér,32.0,Right,189.0,73.0,Al Kholood Saudi Club,Saudi Professional League,1,0,1,1
+1772,Nordi Mukiele,26.0,Right,185.0,73.0,Paris S-G,Ligue 1,1,0,1,1
+1773,Norman Theuerkauf,37.0,Left,183.0,71.0,Heidenheim,Bundesliga,1,0,1,1
+1774,Noussair Mazraoui,26.0,Right,183.0,73.0,Manchester Utd,Premier League,1,0,1,1
+1775,Nuha Jatta,18.0,,,,RB Leipzig,Bundesliga,1,0,1,0
+1776,Nuno Mendes,22.0,Left,176.0,69.0,Paris S-G,Ligue 1,1,0,1,1
+1777,Nuno Tavares,24.0,Left,184.0,78.0,Lazio,Serie A,1,0,1,1
+1778,Nélson Semedo,30.0,Right,177.0,64.0,Wolverhampton Wanderers,PL2,6,0,1,1
+1779,Obite N'Dicka,25.0,Left,190.0,87.0,Roma,Serie A,1,0,0,1
+1780,Odeluga Offiah,21.0,Right,181.0,77.0,Brighton,PL2,6,0,0,1
+1781,Odilon Kossonou,23.0,Right,188.0,72.0,Leverkusen,Bundesliga,1,0,0,1
+1782,Odsonne Édouard,26.0,Right,187.0,83.0,Crystal Palace,Premier League,1,1,0,0
+1783,Ohis Felix Uduokhai,27.0,Left,188.0,78.0,Beşiktaş,Süper Lig,1,0,0,1
+1784,Oier Zarraga,25.0,Right,175.0,74.0,Udinese,Serie A,1,0,1,0
+1785,Oihan Sancet,24.0,Right,188.0,78.0,Athletic Club,La Liga,1,1,1,0
+1786,Ola Aina,27.0,Right,179.0,66.0,Nott'ham Forest,Premier League,1,0,1,1
+1787,Ola Solbakken,26.0,Left,186.0,77.0,Empoli,Serie A,1,1,0,0
+1788,Olasagasti,24.0,,176.0,73.0,Real Sociedad,La Liga,1,0,1,0
+1789,Ole Pohlmann,23.0,,,,Rio Ave,Primeira Liga,1,1,1,0
+1790,Oleksandr Zinchenko,27.0,Left,175.0,60.0,Arsenal,Premier League,1,0,1,1
+1791,Oliver Arblaster,20.0,,,,Sheffield Utd,Championship,2,0,1,0
+1792,Oliver Burke,27.0,Right,189.0,74.0,Werder Bremen,Bundesliga,1,1,1,0
+1793,Oliver McBurnie,28.0,Right,188.0,66.0,Las Palmas,La Liga,1,1,0,0
+1794,Oliver Norwood,33.0,Right,180.0,74.0,Stockport,League One,3,0,1,0
+1795,Oliver Scarles,18.0,,,,West Ham United,PL2,6,0,0,1
+1796,Oliver Skipp,23.0,Right,177.0,66.0,Leicester City,Premier League,1,0,1,0
+1797,Oliver Zandén,23.0,Both,183.0,74.0,Randers,Danish Superliga,1,0,0,1
+1798,Olivier Deman,24.0,Left,181.0,73.0,Werder Bremen,Bundesliga,1,1,1,1
+1799,Olivier Giroud,37.0,Left,192.0,87.0,LAFC,MLS,1,1,0,0
+1800,Ollie Watkins,28.0,Right,180.0,69.0,Aston Villa,Premier League,1,1,1,0
+1801,Oluwaseun Ogbemudia,18.0,,,,Union U19,U19 Bundesliga,6,0,0,1
+1802,Omar Alderete,27.0,Left,188.0,77.0,Getafe,La Liga,1,0,0,1
+1803,Omar Marmoush,25.0,Right,177.0,73.0,Eint Frankfurt,Bundesliga,1,1,1,0
+1804,Omar Mascarell,31.0,Right,181.0,69.0,Mallorca,La Liga,1,0,1,0
+1805,Omar Traoré,26.0,,184.0,,Heidenheim,Bundesliga,1,0,0,1
+1806,Omari Forson,20.0,,,,Manchester Utd,Premier League,1,0,1,0
+1807,Omari Kellyman,18.0,,,,Chelsea,PL2,6,0,1,0
+1808,Omenuke Mfulu,30.0,Right,182.0,68.0,La Coruña,La Liga 2,2,0,1,1
+1809,Ondrej Duda,29.0,Right,181.0,73.0,Hellas Verona,Serie A,1,1,1,0
+1810,Orel Mangala,26.0,Right,178.0,78.0,Lyon,Ligue 1,1,0,1,0
+1811,Oriol Romeu,32.0,Right,183.0,83.0,Girona,La Liga,1,0,1,0
+1812,Oscar Bobb,21.0,Left,174.0,,Manchester City,Premier League,1,1,1,0
+1813,Oscar Cortés,20.0,,,,Rangers,Premiership,1,0,1,0
+1814,Oscar Estupiñan,27.0,Left,182.0,76.0,FC Juárez,Liga MX,2,1,1,0
+1815,Oscar Vilhelmsson,20.0,Left,188.0,76.0,Darmstadt 98,2,2,1,0,0
+1816,Oualid El Hajjam,33.0,Right,180.0,72.0,Le Havre,Ligue 1,1,0,0,1
+1817,Oumar Diakité,20.0,,178.0,64.0,Reims,Ligue 1,1,1,0,0
+1818,Ousmane Dembélé,27.0,Both,178.0,60.0,Paris S-G,Ligue 1,1,1,1,0
+1819,Oussama El Azzouzi,23.0,Right,,,Bologna,Serie A,1,0,1,0
+1820,Owen Beck,22.0,,177.0,58.0,Blackburn,Championship,2,0,0,1
+1821,Owen Hesketh,21.0,,,,Kidderminster,National League,5,0,1,0
+1822,Pablo Barrios,21.0,,181.0,,Atlético Madrid,La Liga,1,0,1,0
+1823,Pablo Fornals,28.0,Right,178.0,67.0,Betis,La Liga,1,1,1,0
+1824,Pablo Galdames Millán,27.0,Right,172.0,62.0,Vasco da Gama,Série A,1,0,1,0
+1825,Pablo Ibáñez,25.0,,,,Osasuna,La Liga,1,0,1,0
+1826,Pablo Maffeo,27.0,Right,173.0,68.0,Mallorca,La Liga,1,0,1,1
+1827,Pablo Marí,31.0,Left,191.0,77.0,Monza,Serie A,1,0,0,1
+1828,Pablo Pagis,21.0,Right,181.0,69.0,Lorient,Ligue 2,2,0,1,0
+1829,Pablo Rosario,27.0,Right,188.0,73.0,Nice,Ligue 1,1,0,1,1
+1830,Pablo Sarabia,32.0,Left,176.0,69.0,Wolves,Premier League,1,1,1,0
+1831,Panos Katseris,23.0,Right,,,Lorient,Ligue 1,1,0,0,1
+1832,Pantelis Hatzidiakos,27.0,Right,181.0,69.0,Cagliari,Serie A,1,0,1,1
+1833,Pape Gueye,25.0,Left,187.0,64.0,Villarreal,La Liga,1,0,1,0
+1834,Pape Matar Sarr,21.0,Right,180.0,68.0,Tottenham Hotspur,Premier League,1,0,1,0
+1835,Papu Gómez,,Right,165.0,68.0,Monza,Serie A,1,1,1,0
+1836,Pascal Groß,33.0,Right,181.0,72.0,Dortmund,Bundesliga,1,1,1,1
+1837,Pascal Stenzel,28.0,Right,183.0,72.0,Stuttgart,Bundesliga,1,0,1,1
+1838,Pascu,21.0,,,,Eibar,La Liga 2,2,1,0,0
+1839,Patric,31.0,Right,184.0,72.0,Lazio,Serie A,1,0,0,1
+1840,Patric Pfeiffer,25.0,Both,196.0,91.0,Augsburg,Bundesliga,1,0,0,1
+1841,Patrick Ciurria,29.0,Left,178.0,67.0,Monza,Serie A,1,1,1,1
+1842,Patrick Dorgu,19.0,Left,,,Lecce,Serie A,1,0,0,1
+1843,Patrick Herrmann,,Right,177.0,60.0,Gladbach,Bundesliga,1,1,1,0
+1844,Patrick Mainka,29.0,Right,192.0,89.0,Heidenheim,Bundesliga,1,0,1,1
+1845,Patrick Osterhage,24.0,Left,186.0,76.0,Freiburg,Bundesliga,1,0,1,0
+1846,Patrick Wimmer,23.0,Right,182.0,76.0,Wolfsburg,Bundesliga,1,1,1,0
+1847,Patrik Schick,28.0,Left,186.0,73.0,Leverkusen,Bundesliga,1,1,0,0
+1848,Pau Cubarsí,17.0,Right,181.0,,Barcelona,La Liga,1,0,0,1
+1849,Pau Torres,27.0,Left,191.0,84.0,Aston Villa,Premier League,1,0,0,1
+1850,Paul Akouokou,26.0,Right,190.0,83.0,Lyon,Ligue 1,1,0,1,0
+1851,Paul Dummett,,Left,185.0,64.0,Newcastle Utd,Premier League,1,0,0,1
+1852,Paul Jaeckel,26.0,Right,188.0,79.0,Braunschweig,2,2,0,0,1
+1853,Paul Pogba,,Right,191.0,83.0,Juventus,Serie A,1,0,1,0
+1854,Paulo Azzi,30.0,Both,188.0,,Cagliari,Serie A,1,1,0,1
+1855,Paulo Dybala,30.0,Left,175.0,73.0,Roma,Serie A,1,1,1,0
+1856,Pavel Kadeřábek,32.0,Right,182.0,78.0,Hoffenheim,Bundesliga,1,1,1,1
+1857,Paweł Dawidowicz,29.0,Right,188.0,79.0,Hellas Verona,Serie A,1,0,1,1
+1858,Paxten Aaronson,21.0,Right,168.0,63.0,Utrecht,Eredivisie,1,0,1,0
+1859,Pedri,21.0,Right,174.0,63.0,Barcelona,La Liga,1,1,1,0
+1860,Pedro,37.0,Right,167.0,62.0,Lazio,Serie A,1,1,1,0
+1861,Pedro Chirivella,27.0,Right,178.0,66.0,Nantes,Ligue 1,1,0,1,0
+1862,Pedro Neto,24.0,Left,173.0,62.0,Chelsea,Premier League,1,1,1,0
+1863,Pedro Obiang,32.0,Right,185.0,74.0,Sassuolo,Serie B,2,0,1,0
+1864,Pedro Pereira,26.0,Right,174.0,69.0,Monza,Serie A,1,0,1,1
+1865,Pedro Porro,24.0,Right,176.0,68.0,Tottenham Hotspur,Premier League,1,0,1,1
+1866,Pelly Ruddock Mpanzu,31.0,Right,175.0,63.0,Luton Town,Championship,2,0,1,1
+1867,Pep Chavarría,26.0,Left,174.0,72.0,Rayo Vallecano,La Liga,1,0,1,1
+1868,Pepín,28.0,,184.0,76.0,Frosinone,Serie B,2,0,1,0
+1869,Perr Schuurs,24.0,Right,191.0,87.0,Torino,Serie A,1,0,0,1
+1870,Peru Nolaskoain,25.0,Right,185.0,76.0,Eibar,La Liga 2,2,0,1,1
+1871,Pervis Estupiñán,26.0,Left,175.0,78.0,Brighton,Premier League,1,0,1,1
+1872,Petar Stojanović,28.0,Right,178.0,68.0,Salernitana,Serie B,2,0,1,1
+1873,Phil Foden,24.0,Left,169.0,69.0,Manchester City,Premier League,1,1,1,0
+1874,Philip Billing,28.0,Left,192.0,79.0,Bournemouth,Premier League,1,0,1,0
+1875,Philipp Förster,,Left,188.0,82.0,Bochum,Bundesliga,1,1,1,0
+1876,Philipp Hofmann,31.0,Right,194.0,68.0,Bochum,Bundesliga,1,1,0,0
+1877,Philipp Max,30.0,Left,178.0,74.0,Panathinaikos,Super League,1,0,1,1
+1878,Philippe Coutinho,32.0,Right,172.0,68.0,Vasco da Gama,Série A,1,1,1,0
+1879,Phillip Tietz,27.0,Right,190.0,71.0,Augsburg,Bundesliga,1,1,0,0
+1880,Phillipp Mwene,30.0,Right,170.0,68.0,Mainz 05,Bundesliga,1,0,1,1
+1881,Piero Hincapié,22.0,Left,182.0,64.0,Leverkusen,Bundesliga,1,0,0,1
+1882,Pierre Højbjerg,29.0,Right,185.0,81.0,Marseille,Ligue 1,1,0,1,0
+1883,Pierre Kalulu,24.0,Right,179.0,68.0,Juventus,Serie A,1,0,0,1
+1884,Pierre Lees-Melou,31.0,Right,185.0,67.0,Brest,Ligue 1,1,0,1,0
+1885,Pierre-Emerick Aubameyang,35.0,Right,187.0,79.0,Al-Qadsiah,Saudi Professional League,1,1,1,0
+1886,Pietro Pellegri,23.0,Right,196.0,78.0,Empoli,Serie A,1,1,0,0
+1887,Piotr Zieliński,30.0,Right,180.0,74.0,Napoli,Serie A,1,0,1,0
+1888,Pol Lirola,27.0,Right,183.0,78.0,Marseille,Ligue 1,1,0,1,1
+1889,Pontus Almqvist,25.0,Left,178.0,67.0,Parma,Serie A,1,1,1,0
+1890,Portu,32.0,Right,178.0,69.0,Girona,La Liga,1,1,1,0
+1891,Przemysław Frankowski,29.0,Right,175.0,68.0,Lens,Ligue 1,1,1,1,1
+1892,Przemysław Szymiński,30.0,Right,184.0,71.0,Reggiana,Serie B,2,0,0,1
+1893,Pubill,21.0,Right,,,Almería,La Liga 2,2,0,0,1
+1894,Quentin Merlin,22.0,Left,173.0,68.0,Marseille,Ligue 1,1,0,1,1
+1895,Radamel Falcao,38.0,Right,177.0,73.0,Millonarios,Primera A,1,1,0,0
+1896,Rade Krunić,30.0,Right,184.0,73.0,Fenerbahçe,Süper Lig,1,0,1,0
+1897,Radu Drăgușin,22.0,Right,191.0,79.0,Tottenham Hotspur,Premier League,1,0,0,1
+1898,Rafa Marín,22.0,,191.0,73.0,Alavés,La Liga,1,0,0,1
+1899,Rafa Mir,27.0,Right,189.0,74.0,Valencia,La Liga,1,1,0,0
+1900,Rafael Borré,28.0,Right,179.0,69.0,Internacional,Série A,1,1,0,0
+1901,Rafael Leão,25.0,Right,189.0,78.0,Milan,Serie A,1,1,1,0
+1902,Rafael Tolói,33.0,Right,185.0,74.0,Atalanta,Serie A,1,0,0,1
+1903,Ramy Bensebaini,29.0,Left,188.0,74.0,Dortmund,Bundesliga,1,0,1,1
+1904,Ramón Terrats,23.0,,181.0,68.0,Villarreal,La Liga,1,0,1,0
+1905,Randal Kolo Muani,25.0,Right,187.0,73.0,Paris S-G,Ligue 1,1,1,1,0
+1906,Randy Ntekja,26.0,Left,189.0,74.0,Rayo Vallecano,La Liga,1,1,1,0
+1907,Rani Khedira,30.0,Right,185.0,78.0,Union Berlin,Bundesliga,1,0,1,1
+1908,Raoul Bellanova,24.0,Right,185.0,83.0,Atalanta,Serie A,1,0,1,1
+1909,Raphaël Guerreiro,30.0,Left,170.0,67.0,Bayern Munich,Bundesliga,1,0,1,1
+1910,Raphaël Varane,31.0,Both,194.0,83.0,Manchester Utd,Premier League,1,0,1,1
+1911,Raphinha,27.0,Left,176.0,78.0,Barcelona,La Liga,1,1,1,0
+1912,Rasmus Carstensen,23.0,,187.0,76.0,Köln,Bundesliga,1,0,0,1
+1913,Rasmus Højlund,21.0,,192.0,,Manchester Utd,Premier League,1,1,0,0
+1914,Rasmus Kristensen,27.0,Right,176.0,69.0,Eint Frankfurt,Bundesliga,1,0,1,1
+1915,Rasmus Nicolaisen,27.0,Left,190.0,81.0,Toulouse,Ligue 1,1,0,0,1
+1916,Rassoul Ndiaye,22.0,,179.0,69.0,Le Havre,Ligue 1,1,0,1,0
+1917,Raul Paula,20.0,,,,NAC Breda,Eredivisie,1,0,1,0
+1918,Rayan Aït-Nouri,23.0,Left,179.0,69.0,Wolves,Premier League,1,0,1,1
+1919,Rayan Cherki,21.0,Both,176.0,69.0,Lyon,Ligue 1,1,1,1,0
+1920,Raúl,23.0,,,,Osasuna,La Liga,1,1,0,0
+1921,Raúl Albiol,39.0,Right,190.0,82.0,Villarreal,La Liga,1,0,0,1
+1922,Raúl García,,Right,184.0,81.0,Athletic Club,La Liga,1,1,1,0
+1923,Raúl Jiménez,33.0,Right,188.0,79.0,Fulham,Premier League,1,1,0,0
+1924,Raúl Torrente,23.0,Left,193.0,78.0,Dinamo Zagreb,HNL,1,0,0,1
+1925,Raúl de Tomás,29.0,Right,180.0,72.0,Rayo Vallecano,La Liga,1,1,0,0
+1926,Reda Khadra,23.0,Right,174.0,68.0,Reims,Ligue 1,1,1,1,0
+1927,Reece Burke,28.0,Right,188.0,81.0,Luton Town,Championship,2,0,0,1
+1928,Reece James,24.0,Right,172.0,63.0,Chelsea,Premier League,1,0,1,1
+1929,Reinier,22.0,Right,185.0,74.0,Granada,La Liga 2,2,0,1,0
+1930,Reinildo Mandava,30.0,Left,180.0,73.0,Atlético Madrid,La Liga,1,0,0,1
+1931,Reiss Nelson,24.0,Right,175.0,68.0,Arsenal,Premier League,1,1,1,0
+1932,Remi Oudin,27.0,Left,185.0,78.0,Lecce,Serie A,1,1,1,0
+1933,Remo Freuler,32.0,Right,180.0,79.0,Bologna,Serie A,1,0,1,0
+1934,Renan Lodi,26.0,Left,179.0,71.0,Al-Hilal,Saudi Professional League,1,0,1,1
+1935,Renato Sanches,27.0,Right,176.0,74.0,Benfica,Primeira Liga,1,0,1,0
+1936,Renato Tapia,29.0,Right,185.0,78.0,Leganés,La Liga,1,0,1,1
+1937,Reno Münz,18.0,,,,Greuther Fürth,2,2,0,0,1
+1938,Reuell Walters,19.0,,183.0,,Luton Town,Championship,2,0,0,1
+1939,Rhian Brewster,24.0,Right,177.0,73.0,Sheffield Utd,Championship,2,1,0,0
+1940,Rhys Bennett,20.0,,,,Fleetwood Town,League Two,4,0,0,1
+1941,Rhys Norrington-Davies,25.0,Left,170.0,62.0,Sheffield Utd,Premier League,1,0,1,1
+1942,Ricard Sánchez,24.0,Right,175.0,66.0,Granada,La Liga 2,2,0,0,1
+1943,Ricardo Rodríguez,32.0,Left,180.0,78.0,Betis,La Liga,1,0,1,1
+1944,Riccardo Calafiori,22.0,Left,183.0,74.0,Arsenal,Premier League,1,0,0,1
+1945,Riccardo Marchizza,26.0,Left,187.0,79.0,Frosinone,Serie B,2,0,0,1
+1946,Riccardo Orsolini,27.0,Left,183.0,73.0,Bologna,Serie A,1,1,1,0
+1947,Riccardo Saponara,32.0,Right,184.0,73.0,Ankaragücü,Süper Lig,1,1,1,0
+1948,Riccardo Sottil,25.0,Right,180.0,73.0,Fiorentina,Serie A,1,1,1,0
+1949,Rick Karsdorp,,Right,184.0,79.0,Roma,Serie A,1,0,1,1
+1950,Rico Henry,27.0,Left,170.0,68.0,Brentford,Premier League,1,0,1,1
+1951,Rico Lewis,19.0,Right,170.0,64.0,Manchester City,Premier League,1,0,0,1
+1952,Ridgeciano Haps,31.0,Left,175.0,66.0,Venezia,Serie A,1,0,1,1
+1953,Ridle Baku,26.0,Right,176.0,68.0,Wolfsburg,Bundesliga,1,1,1,1
+1954,Ritsu Doan,26.0,Left,172.0,69.0,Freiburg,Bundesliga,1,1,1,0
+1955,Rob Holding,28.0,Right,183.0,74.0,Arsenal,Premier League,1,0,0,1
+1956,Robert Andrich,29.0,Right,185.0,78.0,Leverkusen,Bundesliga,1,0,1,0
+1957,Robert Gumny,26.0,Right,177.0,60.0,Augsburg,Bundesliga,1,0,0,1
+1958,Robert Lewandowski,36.0,Right,185.0,78.0,Barcelona,La Liga,1,1,0,0
+1959,Robert Skov,28.0,Left,183.0,78.0,Hoffenheim,Bundesliga,1,1,1,1
+1960,Roberto Gagliardini,30.0,Right,188.0,77.0,Monza,Serie A,1,0,1,0
+1961,Roberto Massimo,23.0,Right,184.0,74.0,Greuther Fürth,2,2,1,1,1
+1962,Roberto Navarro,22.0,Right,178.0,59.0,Mallorca,La Liga,1,0,1,0
+1963,Roberto Pereyra,33.0,Right,182.0,73.0,AEK Athens,Super League,1,1,1,1
+1964,Roberto Piccoli,23.0,Right,190.0,83.0,Cagliari,Serie A,1,1,0,0
+1965,Robin Gosens,30.0,Left,181.0,76.0,Fiorentina,Serie A,1,0,1,1
+1966,Robin Hack,26.0,Right,176.0,68.0,Gladbach,Bundesliga,1,1,1,0
+1967,Robin Knoche,32.0,Right,190.0,77.0,Nürnberg,2,2,0,0,1
+1968,Robin Koch,28.0,Right,192.0,82.0,Eint Frankfurt,Bundesliga,1,0,1,1
+1969,Robin Le Normand,27.0,Right,187.0,83.0,Atlético Madrid,La Liga,1,0,0,1
+1970,Robson Bambu,26.0,Right,184.0,64.0,Braga,Primeira Liga,1,0,0,1
+1971,Rocco Reitz,22.0,Both,165.0,63.0,Gladbach,Bundesliga,1,0,1,0
+1972,Rodri,28.0,Right,190.0,78.0,Manchester City,Premier League,1,0,1,1
+1973,Rodrigo Bentancur,27.0,Right,185.0,73.0,Tottenham Hotspur,Premier League,1,0,1,0
+1974,Rodrigo De Paul,30.0,Right,178.0,69.0,Atlético Madrid,La Liga,1,1,1,0
+1975,Rodrigo Muniz,23.0,Right,178.0,67.0,Fulham,Premier League,1,1,0,0
+1976,Rodrigo Riquelme,24.0,Right,174.0,64.0,Atlético Madrid,La Liga,1,0,1,0
+1977,Rodrygo,23.0,Right,174.0,68.0,Real Madrid,La Liga,1,1,1,0
+1978,Roger Martí,33.0,Right,179.0,73.0,Cádiz,La Liga 2,2,1,0,0
+1979,Rogério,26.0,Left,178.0,71.0,Wolfsburg,Bundesliga,1,0,1,1
+1980,Roland Sallai,27.0,Right,183.0,77.0,Freiburg,Bundesliga,1,1,1,0
+1981,Rolando Mandragora,27.0,Left,183.0,76.0,Fiorentina,Serie A,1,0,1,0
+1982,Romain Del Castillo,28.0,Left,172.0,55.0,Brest,Ligue 1,1,1,1,0
+1983,Romain Faivre,26.0,Left,180.0,68.0,Brest,Ligue 1,1,1,1,0
+1984,Romain Perraud,26.0,Left,173.0,68.0,Betis,La Liga,1,0,0,1
+1985,Roman Yaremchuk,28.0,Right,186.0,78.0,Olympiacos,Super League,1,1,1,0
+1986,Romano Schmid,24.0,Right,174.0,64.0,Werder Bremen,Bundesliga,1,0,1,0
+1987,Romelu Lukaku,31.0,Left,192.0,91.0,Napoli,Serie A,1,1,0,0
+1988,Rominigue Kouamé,27.0,Left,177.0,68.0,Cádiz,La Liga,1,0,1,0
+1989,Roméo Lavia,20.0,Right,181.0,69.0,Chelsea,Premier League,1,0,1,0
+1990,Ronald Araújo,25.0,Right,188.0,78.0,Barcelona,La Liga,1,0,0,1
+1991,Ronaël Pierre-Gabriel,26.0,Right,177.0,76.0,Dinamo Zagreb,HNL,1,0,0,1
+1992,Ronnie Stutter,19.0,,,,Chelsea,PL2,6,1,0,0
+1993,Roshaun Mathurin,20.0,,,,Hartlepool Utd,National League,5,1,0,0
+1994,Ross Barkley,30.0,Right,189.0,83.0,Aston Villa,Premier League,1,0,1,0
+1995,Ruan,25.0,Right,187.0,73.0,Sassuolo,Serie A,1,0,0,1
+1996,Ruben Aguilar,31.0,Right,172.0,69.0,Lens,Ligue 1,1,0,1,1
+1997,Ruben Loftus-Cheek,28.0,Right,191.0,83.0,Milan,Serie A,1,0,1,0
+1998,Ruben Vargas,26.0,Right,174.0,68.0,Augsburg,Bundesliga,1,1,1,0
+1999,Rubén Alcaraz,33.0,Right,183.0,79.0,Cádiz,La Liga 2,2,0,1,0
+2000,Rubén Duarte,28.0,Left,172.0,68.0,UNAM,Liga MX,1,0,0,1
+2001,Rubén García,31.0,Left,171.0,72.0,Osasuna,La Liga,1,1,1,0
+2002,Rubén Peña,33.0,Right,170.0,64.0,Osasuna,La Liga,1,0,1,1
+2003,Rubén Sobrino,32.0,Right,185.0,72.0,Cádiz,La Liga 2,2,1,1,0
+2004,Ruslan Malinovskyi,31.0,Left,181.0,78.0,Genoa,Serie A,1,1,1,0
+2005,Ryan Gravenberch,22.0,Right,190.0,78.0,Liverpool,Premier League,1,0,1,0
+2006,Ryan Johansson,23.0,Both,180.0,,Wehen,3,3,0,1,0
+2007,Ryan John Giles,24.0,Left,183.0,72.0,Hull City,Championship,2,0,1,1
+2008,Ryan Trevitt,21.0,,170.0,64.0,Exeter City,League One,3,0,1,0
+2009,Ryan Yates,26.0,Right,190.0,77.0,Nott'ham Forest,Premier League,1,0,1,0
+2010,Rémy Cabella,34.0,Right,171.0,66.0,Lille,Ligue 1,1,1,1,0
+2011,Rúben Dias,27.0,Right,186.0,82.0,Manchester City,Premier League,1,0,1,1
+2012,Rúben Vinagre,25.0,Left,173.0,69.0,Legia Warsaw,Ekstraklasa,1,0,1,1
+2013,Răzvan Marin,28.0,Right,177.0,69.0,Cagliari,Serie A,1,0,1,0
+2014,Saba Sazonov,22.0,Right,192.0,82.0,Torino,Serie A,1,0,0,1
+2015,Sacha Boey,23.0,Right,166.0,50.0,Bayern Munich,Bundesliga,1,0,0,1
+2016,Sael Kumbedi,19.0,,175.0,63.0,Lyon,Ligue 1,1,0,0,1
+2017,Saidou Sow,22.0,Right,184.0,72.0,Strasbourg,Ligue 1,1,0,0,1
+2018,Salih Özcan,26.0,Right,180.0,73.0,Wolfsburg,Bundesliga,1,0,1,0
+2019,Salis Abdul Samed,24.0,Right,180.0,60.0,Lens,Ligue 1,1,0,1,0
+2020,Salvi,33.0,Right,170.0,66.0,Espanyol,La Liga 2,2,1,1,0
+2021,Sam Beukema,25.0,,,,Bologna,Serie A,1,0,0,1
+2022,Saman Ghoddos,31.0,Right,176.0,74.0,Brentford,Premier League,1,1,1,0
+2023,Samu Castillejo,,Left,179.0,60.0,Sassuolo,Serie A,1,1,1,0
+2024,Samu Costa,23.0,Left,183.0,74.0,Mallorca,La Liga,1,0,1,0
+2025,Samuel Bamba,20.0,,,,Bochum,Bundesliga,1,1,0,0
+2026,Samuel Chukwueze,25.0,Left,172.0,69.0,Milan,Serie A,1,1,1,0
+2027,Samuel Gigot,30.0,Right,187.0,83.0,Marseille,Ligue 1,1,0,1,1
+2028,Samuel Grandsir,28.0,Right,180.0,69.0,Le Havre,Ligue 1,1,1,1,0
+2029,Samuel Iling-Junior,20.0,,182.0,71.0,Juventus,Serie A,1,0,1,0
+2030,Samuel Lino,24.0,Right,178.0,72.0,Atlético Madrid,La Liga,1,1,1,1
+2031,Samuel Moutoussamy,28.0,Left,174.0,60.0,Sivasspor,Süper Lig,1,0,1,0
+2032,Samuel Umtiti,30.0,Left,181.0,74.0,Lille,Ligue 1,1,0,0,1
+2033,Samuele Birindelli,25.0,Right,176.0,68.0,Monza,Serie A,1,0,1,1
+2034,Samuele Di Benedetto,19.0,,,,Stuttgart II,3,3,0,1,0
+2035,Samuele Mulattieri,23.0,,,,Sassuolo,Serie B,2,1,0,0
+2036,Samuele Ricci,23.0,Right,186.0,58.0,Torino,Serie A,1,0,1,0
+2037,Samy Chouchane,21.0,Right,,,Northampton,League One,3,0,1,0
+2038,Sander Berge,26.0,Right,190.0,87.0,Fulham,Premier League,1,0,1,0
+2039,Sandi Lovrić,26.0,Right,180.0,68.0,Udinese,Serie A,1,0,1,0
+2040,Sandro Ramírez,29.0,Right,175.0,71.0,Las Palmas,La Liga,1,1,1,0
+2041,Sandro Tonali,24.0,Right,181.0,78.0,Newcastle Utd,Premier League,1,0,1,0
+2042,Santi Comesaña,27.0,Right,184.0,74.0,Villarreal,La Liga,1,0,1,0
+2043,Santiago Bueno,25.0,Right,190.0,78.0,Wolves,Premier League,1,0,0,1
+2044,Santiago Castro,19.0,,,,Bologna,Serie A,1,1,0,0
+2045,Santiago Pierotti,23.0,,,,Lecce,Serie A,1,1,1,0
+2046,Sardar Azmoun,29.0,Right,183.0,78.0,Roma,Serie A,1,1,1,0
+2047,Sargis Adamyan,31.0,Right,184.0,76.0,Köln,2,2,1,1,0
+2048,Sasa Kalajdzic,27.0,Right,200.0,79.0,Eint Frankfurt,Bundesliga,1,1,1,0
+2049,Saïd Benrahma,29.0,Right,172.0,67.0,Lyon,Ligue 1,1,1,1,0
+2050,Saúl Coco,25.0,,,,Torino,Serie A,1,0,0,1
+2051,Saúl Ñíguez,29.0,Left,181.0,69.0,Sevilla,La Liga,1,0,1,1
+2052,Saša Lukić,28.0,Right,183.0,73.0,Fulham,Premier League,1,0,1,0
+2053,Scott McKenna,27.0,Left,189.0,78.0,Las Palmas,La Liga,1,0,0,1
+2054,Scott McTominay,27.0,Right,192.0,84.0,Manchester Utd,Premier League,1,0,1,0
+2055,Sean Longstaff,26.0,Right,181.0,77.0,Newcastle Utd,Premier League,1,0,1,0
+2056,Sebastiaan Bornauw,25.0,Right,191.0,81.0,Wolfsburg,Bundesliga,1,0,0,1
+2057,Sebastian Polter,33.0,Right,191.0,83.0,Braunschweig,2,2,1,0,0
+2058,Sebastian Rode,,Right,179.0,73.0,Eint Frankfurt,Bundesliga,1,0,1,0
+2059,Sebastian Walukiewicz,24.0,Right,188.0,82.0,Torino,Serie A,1,0,0,1
+2060,Sebastiano Luperto,28.0,Left,191.0,74.0,Cagliari,Serie A,1,0,0,1
+2061,Seedy Jarju,19.0,,,,Heidenheim U19,U19 Bundesliga,6,0,0,1
+2062,Selim Amallah,27.0,Right,186.0,78.0,Valladolid,La Liga,1,1,1,0
+2063,Senne Lynen,25.0,Right,,,Werder Bremen,Bundesliga,1,0,1,0
+2064,Sepp van den Berg,22.0,Right,189.0,79.0,Brentford,Premier League,1,0,1,1
+2065,Serge Aurier,,Right,176.0,76.0,Galatasaray,Süper Lig,1,0,1,1
+2066,Serge Gnabry,29.0,Right,173.0,73.0,Bayern Munich,Bundesliga,1,1,1,0
+2067,Sergi Canós,27.0,Right,175.0,69.0,Valencia,La Liga,1,1,1,1
+2068,Sergi Cardona,25.0,Left,,,Villarreal,La Liga,1,0,0,1
+2069,Sergi Darder,30.0,Right,180.0,67.0,Mallorca,La Liga,1,0,1,0
+2070,Sergi Guardiola,,Left,187.0,81.0,Cádiz,La Liga,1,1,1,0
+2071,Sergi Roberto,32.0,Right,185.0,69.0,Como,Serie A,1,0,1,1
+2072,Sergio Akieme,26.0,Left,175.0,69.0,Reims,Ligue 1,1,0,0,1
+2073,Sergio Arribas,22.0,Left,174.0,63.0,Almería,La Liga 2,2,0,1,0
+2074,Sergio Camello,23.0,Right,177.0,69.0,Rayo Vallecano,La Liga,1,1,0,0
+2075,Sergio Gómez,24.0,Left,170.0,63.0,Real Sociedad,La Liga,1,0,1,1
+2076,Sergio Ramos,,Right,183.0,74.0,Sevilla,La Liga,1,0,0,1
+2077,Sergio Reguilón,27.0,Left,176.0,63.0,Brentford,Premier League,1,0,1,1
+2078,Sergio Ruiz,29.0,Right,171.0,69.0,Granada,La Liga 2,2,0,1,0
+2079,Serhou Guirassy,28.0,Right,187.0,83.0,Stuttgart,Bundesliga,1,1,0,0
+2080,Shamar Nicholson,27.0,Right,192.0,79.0,Spartak Moscow,Russian Premier League,1,1,0,0
+2081,Shandon Baptiste,26.0,Right,180.0,74.0,Luton Town,Championship,2,0,1,0
+2082,Sheraldo Becker,29.0,Right,180.0,74.0,Real Sociedad,La Liga,1,1,1,0
+2083,Shon Weissman,28.0,Right,174.0,73.0,Granada,La Liga 2,2,1,0,0
+2084,Siebe Van Der Heyden,26.0,Right,185.0,78.0,Mallorca,La Liga,1,0,0,1
+2085,Silas Katompa,25.0,Right,189.0,78.0,Stuttgart,Bundesliga,1,1,1,1
+2086,Silvan Hefti,26.0,Right,182.0,78.0,Hamburger SV,2,2,0,0,1
+2087,Silvan Widmer,31.0,Right,182.0,79.0,Mainz 05,Bundesliga,1,0,1,1
+2088,Simeon Nwankwo,32.0,Right,198.0,83.0,Salernitana,Serie B,2,1,0,0
+2089,Simon Adingra,22.0,Right,175.0,,Brighton,Premier League,1,1,1,0
+2090,Simon Elisor,25.0,,186.0,,Metz,Ligue 1,1,1,0,0
+2091,Simon Kjær,35.0,Right,190.0,86.0,Milan,Serie A,1,0,0,1
+2092,Simon Walde,19.0,,,,Gladbach U19,U19 Bundesliga,6,0,0,1
+2093,Simon Zoller,33.0,Right,179.0,69.0,St. Pauli,2,2,1,1,0
+2094,Simone Pafundi,18.0,,181.0,73.0,Lausanne-Sport,Super Lg,1,1,0,0
+2095,Simone Romagnoli,34.0,Right,193.0,84.0,Sampdoria,Serie B,2,0,0,1
+2096,Simone Verdi,32.0,Both,171.0,60.0,Como,Serie A,1,1,1,0
+2097,Sinaly Diomande,23.0,Right,184.0,78.0,Auxerre,Ligue 1,1,0,0,1
+2098,Siriné Doucouré,22.0,Right,193.0,74.0,Stade Laval,Ligue 2,2,0,0,1
+2099,Skelly Alvero,22.0,Right,198.0,84.0,Werder Bremen,Bundesliga,1,0,1,0
+2100,Sofiane Alakouch,26.0,Right,175.0,66.0,Paris FC,Ligue 2,2,0,1,1
+2101,Sofiane Diop,24.0,Right,165.0,49.0,Nice,Ligue 1,1,1,1,0
+2102,Sofyan Amrabat,28.0,Right,173.0,69.0,Fiorentina,Serie A,1,0,1,0
+2103,Solly March,30.0,Left,180.0,72.0,Brighton,Premier League,1,1,1,1
+2104,Son Heung-min,32.0,Right,183.0,76.0,Tottenham Hotspur,Premier League,1,1,1,0
+2105,Sory Kaba,29.0,,191.0,79.0,Elche,La Liga 2,2,1,0,0
+2106,Soufiane Bidaoui,,Right,176.0,64.0,Frosinone,Serie B,2,1,1,0
+2107,Souleymane Touré,21.0,,206.0,74.0,Lorient,Ligue 1,1,0,0,1
+2108,Soungoutou Magassa,20.0,Right,188.0,69.0,Monaco,Ligue 1,1,0,1,0
+2109,Srđan Babić,28.0,Left,192.0,84.0,Spartak Moscow,Russian Premier League,1,0,0,1
+2110,Stanis Idumbo,19.0,,,,Sevilla,La Liga,1,0,1,0
+2111,Stanislav Lobotka,29.0,Right,170.0,72.0,Napoli,Serie A,1,0,1,0
+2112,Stanley N'Soki,25.0,Left,187.0,82.0,Hoffenheim,Bundesliga,1,0,0,1
+2113,Stefan Bajcetic,19.0,Right,185.0,,Liverpool,Premier League,1,0,1,0
+2114,Stefan Bell,33.0,Right,192.0,86.0,Mainz 05,Bundesliga,1,0,0,1
+2115,Stefan Lainer,32.0,Right,176.0,69.0,Gladbach,Bundesliga,1,0,1,1
+2116,Stefan Lekovic,20.0,,,,Red Star,SuperLiga,1,0,0,1
+2117,Stefan Mitrović,34.0,Both,189.0,76.0,Gent,Pro League A,1,0,0,1
+2118,Stefan Posch,27.0,Right,187.0,83.0,Bologna,Serie A,1,0,0,1
+2119,Stefan Savić,33.0,Right,188.0,82.0,Trabzonspor,Süper Lig,1,0,1,1
+2120,Stefan de Vrij,32.0,Right,189.0,78.0,Inter,Serie A,1,0,0,1
+2121,Stefano Sabelli,31.0,Right,180.0,73.0,Genoa,Serie A,1,0,1,1
+2122,Stefano Sensi,29.0,Right,168.0,62.0,Inter,Serie A,1,0,1,0
+2123,Steffen Tigges,26.0,Left,195.0,82.0,Köln,2,2,1,0,0
+2124,Stephan El Shaarawy,31.0,Right,178.0,72.0,Roma,Serie A,1,1,1,1
+2125,Steve Mounié,29.0,Right,190.0,83.0,Augsburg,Bundesliga,1,1,0,0
+2126,Steven Alzate,,Right,180.0,64.0,Standard Liège,Pro League A,1,0,1,0
+2127,Stijn Spierings,28.0,Right,187.0,72.0,Brøndby,Danish Superliga,1,0,1,0
+2128,Suat Serdar,27.0,Right,183.0,74.0,Hellas Verona,Serie A,1,0,1,0
+2129,Suso,30.0,Left,176.0,69.0,Sevilla,La Liga,1,1,1,0
+2130,Sven Botman,24.0,Left,195.0,86.0,Newcastle Utd,Premier League,1,0,0,1
+2131,Sven Michel,34.0,Left,178.0,74.0,Paderborn 07,2,2,1,1,0
+2132,Sydney van Hooijdonk,24.0,,190.0,81.0,Cesena,Serie B,2,1,0,0
+2133,Szymon Żurkowski,26.0,Right,185.0,77.0,Empoli,Serie A,1,0,1,0
+2134,Sávio,20.0,Left,176.0,71.0,Manchester City,Premier League,1,1,1,0
+2135,Séamus Coleman,35.0,Right,177.0,67.0,Everton,Premier League,1,0,1,1
+2136,Sébastien Haller,30.0,Right,187.0,86.0,Dortmund,Bundesliga,1,1,0,0
+2137,Tadeo Allende,25.0,Right,,,Celta Vigo,La Liga,1,1,1,0
+2138,Tahith Chong,24.0,Left,185.0,77.0,Luton Town,Championship,2,1,1,0
+2139,Taichi Fukui,20.0,,,,Arouca,Primeira Liga,1,0,1,0
+2140,Taiwo Awoniyi,27.0,Right,178.0,73.0,Nott'ham Forest,Premier League,1,1,0,0
+2141,Tajon Buchanan,25.0,Right,182.0,68.0,Inter,Serie A,1,1,1,1
+2142,Takefusa Kubo,23.0,Left,170.0,63.0,Real Sociedad,La Liga,1,1,1,0
+2143,Takehiro Tomiyasu,25.0,Right,185.0,78.0,Arsenal,Premier League,1,0,0,1
+2144,Takuma Asano,29.0,Right,171.0,69.0,Mallorca,La Liga,1,1,1,0
+2145,Takumi Minamino,29.0,Right,174.0,67.0,Monaco,Ligue 1,1,1,1,0
+2146,Tammy Abraham,26.0,Right,190.0,82.0,Milan,Serie A,1,1,0,0
+2147,Tanguy Coulibaly,23.0,Left,175.0,72.0,Montpellier,Ligue 1,1,1,1,0
+2148,Tanguy Nianzou,22.0,Right,187.0,78.0,Sevilla,La Liga,1,0,0,1
+2149,Tariq Lamptey,23.0,Right,175.0,68.0,Brighton,Premier League,1,0,1,1
+2150,Tayo Adaramola,20.0,,177.0,68.0,RWD Molenbeek,Pro League A,1,0,0,1
+2151,Teddy Teuma,30.0,Left,176.0,72.0,Reims,Ligue 1,1,0,1,0
+2152,Teden Mengi,22.0,Right,183.0,81.0,Luton Town,Championship,2,0,0,1
+2153,Terem Moffi,25.0,Left,188.0,82.0,Nice,Ligue 1,1,1,0,0
+2154,Teun Koopmeiners,26.0,Left,186.0,79.0,Juventus,Serie A,1,0,1,1
+2155,Theo Corbeanu,22.0,Right,190.0,79.0,Granada,La Liga 2,2,1,1,0
+2156,Theo Hernández,26.0,Left,184.0,78.0,Milan,Serie A,1,0,0,1
+2157,Therence Koudou,19.0,,,,Pau FC,Ligue 2,2,0,1,0
+2158,Thiago Alcántara,,Right,172.0,59.0,Liverpool,Premier League,1,0,1,0
+2159,Thiago Silva,39.0,Right,183.0,78.0,Fluminense,Série A,1,0,0,1
+2160,Thibault De Smet,26.0,Left,176.0,64.0,Reims,Ligue 1,1,0,1,1
+2161,Thierry Correia,25.0,Right,176.0,72.0,Valencia,La Liga,1,0,0,1
+2162,Thilo Kehrer,27.0,Right,186.0,72.0,Monaco,Ligue 1,1,0,0,1
+2163,Thomas Cannon,21.0,,178.0,63.0,Leicester City,Championship,2,1,0,0
+2164,Thomas Delaine,32.0,Both,180.0,72.0,Strasbourg,Ligue 1,1,0,1,1
+2165,Thomas Foket,29.0,Right,177.0,72.0,Anderlecht,Pro League A,1,0,1,1
+2166,Thomas Henry,29.0,Right,192.0,86.0,Palermo,Serie B,2,1,0,0
+2167,Thomas Isherwood,26.0,,195.0,87.0,Darmstadt 98,Bundesliga,1,0,0,1
+2168,Thomas Kastanaras,21.0,,185.0,73.0,Stuttgart II,3,3,1,0,0
+2169,Thomas Keller,25.0,Right,187.0,74.0,Heidenheim,Bundesliga,1,0,1,1
+2170,Thomas Kristensen,22.0,,,,Udinese,Serie A,1,0,0,1
+2171,Thomas Meunier,32.0,Right,190.0,87.0,Lille,Ligue 1,1,0,1,1
+2172,Thomas Müller,34.0,Right,186.0,74.0,Bayern Munich,Bundesliga,1,1,1,0
+2173,Thomas Partey,31.0,Right,185.0,78.0,Arsenal,Premier League,1,0,1,0
+2174,Thorgan Hazard,31.0,Right,174.0,68.0,Anderlecht,Pro League A,1,1,1,0
+2175,Théo Le Bris,21.0,Right,165.0,52.0,Lorient,Ligue 2,2,0,1,0
+2176,Théo Sainte-Luce,25.0,Left,181.0,72.0,Montpellier,Ligue 1,1,0,0,1
+2177,Tiago Djaló,24.0,Right,190.0,84.0,Juventus,Serie A,1,0,0,1
+2178,Tiago Fonseca Morais,21.0,Both,,,Rio Ave,Primeira Liga,1,1,0,0
+2179,Tiago Tomás,22.0,Right,180.0,76.0,Wolfsburg,Bundesliga,1,1,0,0
+2180,Tiago santos,22.0,Right,175.0,71.0,Lille,Ligue 1,1,0,0,1
+2181,Tiemoué Bakayoko,30.0,Right,185.0,72.0,Lorient,Ligue 1,1,0,1,0
+2182,Tijjani Noslin,25.0,Right,,,Lazio,Serie A,1,1,1,0
+2183,Tijjani Reijnders,26.0,Right,185.0,79.0,Milan,Serie A,1,0,1,0
+2184,Tim Breithaupt,22.0,Right,192.0,78.0,Augsburg,Bundesliga,1,0,1,0
+2185,Tim Drexler,19.0,,,,Hoffenheim,Bundesliga,1,0,1,0
+2186,Tim Iroegbunam,21.0,,,,Everton,Premier League,1,0,1,0
+2187,Tim Kleindienst,29.0,Both,194.0,82.0,Gladbach,Bundesliga,1,1,0,0
+2188,Tim Köhler,19.0,,,,Verl,3,3,0,0,1
+2189,Tim Müller,19.0,,,,Mainz U19,U19 Bundesliga,6,0,0,1
+2190,Tim Oermann,20.0,,187.0,76.0,Bochum,Bundesliga,1,0,0,1
+2191,Tim Ream,36.0,Left,185.0,73.0,Charlotte,MLS,1,0,0,1
+2192,Tim Schleinitz,19.0,,,,Union U19,U19 Bundesliga,6,0,1,0
+2193,Tim Siersleben,24.0,Left,187.0,81.0,Heidenheim,Bundesliga,1,0,0,1
+2194,Tim Skarke,28.0,Right,179.0,69.0,Union Berlin,Bundesliga,1,1,1,0
+2195,Timo Hübers,28.0,Right,190.0,82.0,Köln,2,2,0,0,1
+2196,Timo Werner,28.0,Right,180.0,74.0,Tottenham Hotspur,Premier League,1,1,1,0
+2197,Timothy Castagne,28.0,Right,180.0,79.0,Fulham,Premier League,1,0,1,1
+2198,Timothy Chandler,34.0,Right,186.0,79.0,Eint Frankfurt,Bundesliga,1,0,1,1
+2199,Timothy Fosu-Mensah,,Right,190.0,78.0,Leverkusen,Bundesliga,1,0,0,1
+2200,Timothy Weah,24.0,Right,185.0,67.0,Juventus,Serie A,1,1,1,1
+2201,Tino Kadewere,28.0,Right,190.0,71.0,Nantes,Ligue 1,1,1,0,0
+2202,Tobias Kempe,35.0,Right,184.0,69.0,Darmstadt 98,2,2,1,1,0
+2203,Toby Collyer,20.0,,,,Manchester Utd,Premier League,1,0,1,0
+2204,Tom Bischof,19.0,,176.0,66.0,Hoffenheim,Bundesliga,1,0,1,0
+2205,Tom Cairney,33.0,Left,183.0,72.0,Fulham,Premier League,1,0,1,0
+2206,Tom Davies,26.0,Right,180.0,69.0,Sheffield Utd,Premier League,1,0,1,0
+2207,Tom Krauß,23.0,Right,182.0,72.0,Mainz 05,Bundesliga,1,0,1,0
+2208,Tom Lockyer,29.0,Right,184.0,69.0,Luton Town,Premier League,1,0,1,1
+2209,Toma Bašić,27.0,Left,189.0,79.0,Salernitana,Serie A,1,0,1,0
+2210,Tommaso Augello,30.0,Left,180.0,72.0,Cagliari,Serie A,1,0,1,1
+2211,Tommaso Baldanzi,21.0,,180.0,64.0,Roma,Serie A,1,0,1,0
+2212,Tommaso Pobega,25.0,Left,188.0,78.0,Milan,Serie A,1,0,1,0
+2213,Tommi O'Reilly,20.0,,170.0,63.0,Shrewsbury,League One,3,0,1,0
+2214,Tommy Doyle,22.0,Right,172.0,73.0,Wolves,Premier League,1,0,1,0
+2215,Tomáš Souček,29.0,Right,190.0,83.0,West Ham,Premier League,1,0,1,0
+2216,Tomáš Suslov,22.0,Left,175.0,64.0,Hellas Verona,Serie A,1,1,1,0
+2217,Tomáš Čvančara,24.0,,,,Gladbach,Bundesliga,1,1,0,0
+2218,Toni Kroos,34.0,Right,182.0,78.0,Real Madrid,La Liga,1,0,1,0
+2219,Toni Lato,26.0,Left,173.0,68.0,Mallorca,La Liga,1,0,0,1
+2220,Toni Villa,29.0,Right,172.0,63.0,Eibar,La Liga 2,2,1,1,0
+2221,Tony Jantschke,,Right,177.0,77.0,Gladbach,Bundesliga,1,0,1,1
+2222,Tosin Adarabioyo,26.0,Right,196.0,79.0,Fulham,Premier League,1,0,0,1
+2223,Tosin Aiyegun,26.0,Right,179.0,74.0,Lorient,Ligue 2,2,1,1,0
+2224,Toti Gomes,25.0,Left,188.0,78.0,Wolves,Premier League,1,0,0,1
+2225,Trent Alexander-Arnold,25.0,Right,175.0,68.0,Liverpool,Premier League,1,0,0,1
+2226,Trevoh Chalobah,25.0,Right,190.0,74.0,Chelsea,Premier League,1,0,1,1
+2227,Triantafyllos Pasaridīs,28.0,Right,185.0,77.0,Kallithea,Super League,1,0,0,1
+2228,Trivante Stewart,24.0,,,,Radnički Niš,SuperLiga,1,1,0,0
+2229,Tuta,25.0,Right,184.0,78.0,Eint Frankfurt,Bundesliga,1,0,0,1
+2230,Ty Barnett,19.0,,,,Wolverhampton Wanderers,PL2,6,1,0,0
+2231,Tyler Adams,25.0,Right,180.0,69.0,Bournemouth,Premier League,1,0,1,0
+2232,Tyler Onyango,21.0,Right,190.0,74.0,Stockport,League One,3,0,1,0
+2233,Tyrese Hall,19.0,,,,Tottenham Hotspur,PL2,6,0,1,0
+2234,Tyrick Mitchell,25.0,Left,175.0,66.0,Crystal Palace,Premier League,1,0,1,1
+2235,Tyrone Mings,31.0,Left,195.0,77.0,Aston Villa,Premier League,1,0,0,1
+2236,Tyronne Ebuehi,28.0,Right,187.0,72.0,Empoli,Serie A,1,0,0,1
+2237,Téji Savanier,32.0,Right,171.0,62.0,Montpellier,Ligue 1,1,1,1,0
+2238,Ulisses Garcia,28.0,Left,185.0,78.0,Marseille,Ligue 1,1,0,0,1
+2239,Umar Sadiq,27.0,Right,192.0,74.0,Real Sociedad,La Liga,1,1,0,0
+2240,Umut Tohumcu,20.0,,,,Hoffenheim,Bundesliga,1,0,1,0
+2241,Unai García,32.0,Right,182.0,81.0,Osasuna,La Liga,1,0,0,1
+2242,Unai López,28.0,Right,169.0,63.0,Rayo Vallecano,La Liga,1,0,1,0
+2243,Unai Núñez,27.0,Right,186.0,83.0,Celta Vigo,La Liga,1,0,0,1
+2244,Urko González,23.0,Right,190.0,73.0,Real Sociedad,La Liga,1,0,0,1
+2245,Uroš Kabić,20.0,,183.0,,Čukarički,SuperLiga,1,0,1,0
+2246,Uroš Račić,26.0,Right,192.0,79.0,West Brom,Championship,2,0,1,0
+2247,Valentin Carboni,19.0,,178.0,69.0,Marseille,Ligue 1,1,0,1,0
+2248,Valentin Gendrey,24.0,Right,179.0,74.0,Lecce,Serie A,1,0,0,1
+2249,Valentin Rongier,29.0,Right,172.0,66.0,Marseille,Ligue 1,1,0,1,1
+2250,Valentin Rosier,28.0,Right,175.0,69.0,Leganés,La Liga,1,0,0,1
+2251,Valentino Lazaro,28.0,Right,180.0,73.0,Torino,Serie A,1,1,1,1
+2252,Valentino Livramento,21.0,Right,173.0,63.0,Newcastle Utd,Premier League,1,0,1,1
+2253,Valentín Barco,20.0,Left,168.0,,Sevilla,La Liga,1,0,0,1
+2254,Valentín Castellanos,25.0,Right,179.0,68.0,Lazio,Serie A,1,1,0,0
+2255,Vanderson,23.0,Right,180.0,73.0,Monaco,Ligue 1,1,0,1,1
+2256,Vedat Muriqi,30.0,Left,194.0,76.0,Mallorca,La Liga,1,1,1,0
+2257,Victor Bernth Kristiansen,21.0,Left,,,Leicester City,Premier League,1,0,0,1
+2258,Victor Boniface,23.0,Right,189.0,84.0,Leverkusen,Bundesliga,1,1,0,0
+2259,Victor Lindelöf,30.0,Right,187.0,82.0,Manchester Utd,Premier League,1,0,0,1
+2260,Viktor Kovalenko,28.0,Right,182.0,74.0,Empoli,Serie A,1,0,1,0
+2261,Viktor Tsyhankov,26.0,Left,177.0,68.0,Girona,La Liga,1,1,1,0
+2262,Vincent Le Goff,,Left,177.0,67.0,Lorient,Ligue 1,1,0,0,1
+2263,Vincent Sierro,28.0,Right,184.0,73.0,Toulouse,Ligue 1,1,0,1,0
+2264,Vincenzo Grifo,31.0,Right,181.0,74.0,Freiburg,Bundesliga,1,1,1,0
+2265,Vinicius Júnior,24.0,Right,177.0,62.0,Real Madrid,La Liga,1,1,1,0
+2266,Vinicius Souza,25.0,Right,187.0,79.0,Sheffield Utd,Championship,2,0,1,0
+2267,Virgil van Dijk,33.0,Right,193.0,87.0,Liverpool,Premier League,1,0,0,1
+2268,Vitaliy Mykolenko,25.0,Left,180.0,73.0,Everton,Premier League,1,0,0,1
+2269,Vitaly Janelt,26.0,Left,178.0,78.0,Brentford,Premier League,1,0,1,0
+2270,Vitinha,24.0,Right,172.0,63.0,Paris S-G,Ligue 1,1,0,1,0
+2271,Vitinho,25.0,Right,175.0,72.0,Burnley,Championship,2,0,1,1
+2272,Vitor Roque,19.0,,,,Betis,La Liga,1,1,0,0
+2273,Vladimír Coufal,32.0,Right,174.0,69.0,West Ham,Premier League,1,0,1,1
+2274,Václav Černý,26.0,Left,178.0,68.0,Rangers,Premiership,1,1,1,0
+2275,Víctor Chust,24.0,Right,182.0,77.0,Cádiz,La Liga 2,2,0,0,1
+2276,Víctor Díaz,,Right,183.0,68.0,Granada,La Liga,1,0,0,1
+2277,Wahbi Khazri,33.0,Right,182.0,76.0,Montpellier,Ligue 1,1,1,1,0
+2278,Walace,29.0,Right,188.0,74.0,Cruzeiro,Série A,1,0,1,0
+2279,Waldemar Anton,28.0,Right,182.0,74.0,Dortmund,Bundesliga,1,0,1,1
+2280,Walid Cheddira,26.0,,186.0,78.0,Napoli,Serie A,1,1,0,0
+2281,Waren Kamanzi,23.0,,,,Toulouse,Ligue 1,1,0,1,1
+2282,Warmed Omari,24.0,Right,180.0,58.0,Rennes,Ligue 1,1,0,0,1
+2283,Warren Bondo,20.0,,177.0,63.0,Monza,Serie A,1,0,1,0
+2284,Warren Zaire-Emery,18.0,,178.0,68.0,Paris S-G,Ligue 1,1,0,1,0
+2285,Wataru Endo,31.0,Right,178.0,74.0,Liverpool,Premier League,1,0,1,1
+2286,Wesley Saïd,29.0,Right,171.0,64.0,Lens,Ligue 1,1,1,1,0
+2287,Weston McKennie,26.0,Right,185.0,78.0,Juventus,Serie A,1,0,1,0
+2288,Wilfried Singo,23.0,Right,190.0,81.0,Monaco,Ligue 1,1,0,1,1
+2289,Will Hughes,29.0,Left,185.0,73.0,Crystal Palace,Premier League,1,0,1,0
+2290,Willi Orban,31.0,Right,185.0,83.0,RB Leipzig,Bundesliga,1,0,0,1
+2291,William Osula,21.0,,,,Sheffield Utd,Premier League,1,1,0,0
+2292,William Saliba,23.0,Right,193.0,76.0,Arsenal,Premier League,1,0,0,1
+2293,Willian,,Right,175.0,69.0,Fulham,Premier League,1,1,1,0
+2294,Willian José,32.0,Right,186.0,81.0,Spartak Moscow,Russian Premier League,1,1,0,0
+2295,Williot Swedberg,20.0,Right,185.0,67.0,Celta Vigo,La Liga,1,0,1,0
+2296,Willy Boly,33.0,Right,195.0,81.0,Nott'ham Forest,Premier League,1,0,0,1
+2297,Willy Kambwala,20.0,,,,Villarreal,La Liga,1,0,0,1
+2298,Wilson Manafá,30.0,Right,175.0,69.0,Shanghai Shen,Super League,1,1,1,1
+2299,Wilson Odobert,19.0,,180.0,74.0,Tottenham Hotspur,Premier League,1,0,1,0
+2300,Wissam Ben Yedder,,Both,170.0,68.0,Monaco,Ligue 1,1,1,1,0
+2301,Wout Weghorst,32.0,Right,197.0,83.0,Burnley,Championship,2,1,0,0
+2302,Xaver Schlager,26.0,Left,174.0,69.0,RB Leipzig,Bundesliga,1,0,1,0
+2303,Xavi Simons,21.0,Right,168.0,60.0,RB Leipzig,Bundesliga,1,1,1,0
+2304,Xeber,27.0,,174.0,68.0,Eibar,La Liga 2,2,1,1,0
+2305,Yacine Adli,24.0,Right,186.0,73.0,Fiorentina,Serie A,1,0,1,0
+2306,Yago Santiago,21.0,,,,Elche,La Liga 2,2,1,1,0
+2307,Yan Couto,22.0,Right,169.0,60.0,Girona,La Liga,1,0,1,1
+2308,Yangel Herrera,26.0,Right,182.0,62.0,Girona,La Liga,1,0,1,0
+2309,Yanis Begraoui,23.0,Right,175.0,62.0,Estoril,Primeira Liga,1,1,0,0
+2310,Yann Aurel Bisseck,23.0,Right,194.0,82.0,Inter,Serie A,1,0,0,1
+2311,Yann Gboho,23.0,Right,176.0,69.0,Toulouse,Ligue 1,1,1,1,0
+2312,Yann Karamoh,26.0,Right,185.0,77.0,Torino,Serie A,1,1,1,0
+2313,Yannick Carrasco,31.0,Right,180.0,72.0,Al-Shabab,Saudi Professional League,1,1,1,1
+2314,Yannick Eduardo,18.0,,,,De Graafschap,Eerste Divisie,2,1,0,0
+2315,Yannick Gerhardt,30.0,Left,184.0,81.0,Wolfsburg,Bundesliga,1,0,1,1
+2316,Yannik Keitel,24.0,Right,185.0,82.0,Freiburg,Bundesliga,1,0,1,0
+2317,Yasser Larouci,23.0,Left,176.0,68.0,Watford,Championship,2,0,1,1
+2318,Yassine Kechta,22.0,,,,Le Havre,Ligue 1,1,0,1,0
+2319,Yayah Kallon,23.0,,175.0,69.0,Salernitana,Serie B,2,1,0,0
+2320,Yeferson Paz,22.0,,177.0,68.0,Sassuolo,Serie B,2,0,0,1
+2321,Yehor Yarmoliuk,20.0,Both,180.0,72.0,Brentford,Premier League,1,0,1,0
+2322,Yeray Álvarez,29.0,Right,183.0,78.0,Athletic Club,La Liga,1,0,0,1
+2323,Yeremi Pino,21.0,Right,172.0,63.0,Villarreal,La Liga,1,1,1,0
+2324,Yerry Mina,29.0,Right,195.0,74.0,Cagliari,Serie A,1,0,0,1
+2325,Yerson Mosquera,23.0,Right,188.0,79.0,Wolves,Premier League,1,0,0,1
+2326,Ylber Ramadani,28.0,,183.0,67.0,Lecce,Serie A,1,0,1,0
+2327,Yoane Wissa,28.0,Right,180.0,72.0,Brentford,Premier League,1,1,1,0
+2328,Yoann Salmier,31.0,Right,188.0,84.0,Le Havre,Ligue 1,1,0,0,1
+2329,Yohann Magnin,27.0,Right,183.0,71.0,Clermont Foot,Ligue 2,2,0,1,0
+2330,Yorbe Vertessen,23.0,,176.0,71.0,Union Berlin,Bundesliga,1,1,0,0
+2331,Youcef Atal,28.0,Right,176.0,69.0,Adana Demirspor,Süper Lig,1,0,1,1
+2332,Youri Tielemans,27.0,Right,177.0,72.0,Aston Villa,Premier League,1,0,1,0
+2333,Youssef Chermiti,20.0,,,,Everton,Premier League,1,1,0,0
+2334,Youssef En-Nesyri,27.0,Left,192.0,77.0,Fenerbahçe,Süper Lig,1,1,0,0
+2335,Youssef Maleh,26.0,Left,177.0,69.0,Empoli,Serie A,1,0,1,0
+2336,Youssef Maziz,26.0,Right,177.0,72.0,OH Leuven,Pro League A,1,1,1,0
+2337,Youssouf Ndayishimiye,25.0,Right,183.0,74.0,Nice,Ligue 1,1,0,1,1
+2338,Youssouf Sabaly,31.0,Right,174.0,68.0,Betis,La Liga,1,0,0,1
+2339,Youssoufa Moukoko,19.0,Left,179.0,74.0,Dortmund,Bundesliga,1,1,0,0
+2340,Yoël Armougom,26.0,Left,173.0,71.0,Clermont Foot,Ligue 2,2,0,0,1
+2341,Yunis Abdelhamid,36.0,Left,190.0,83.0,Saint-Étienne,Ligue 1,1,0,0,1
+2342,Yunus Emre Konak,18.0,Right,181.0,,Sivasspor,Süper Lig,1,0,1,0
+2343,Yunus Musah,21.0,Right,178.0,74.0,Milan,Serie A,1,0,1,0
+2344,Yuri Berchiche,34.0,Left,181.0,79.0,Athletic Club,La Liga,1,0,0,1
+2345,Yussuf Poulsen,30.0,Right,193.0,78.0,RB Leipzig,Bundesliga,1,1,1,0
+2346,Yusuf Yazıcı,27.0,Left,183.0,78.0,Lille,Ligue 1,1,1,1,0
+2347,Yvandro Borges Sanches,20.0,,175.0,67.0,NEC Nijmegen,Eredivisie,1,0,1,0
+2348,Yves Bissouma,28.0,Right,181.0,72.0,Tottenham Hotspur,Premier League,1,0,1,0
+2349,Zak Sturge,20.0,,,,P'borough Utd,League One,3,0,0,1
+2350,Zakaria Aboukhlal,24.0,Left,179.0,72.0,Toulouse,Ligue 1,1,1,1,0
+2351,Zeki Amdouni,23.0,,183.0,,Burnley,Championship,2,1,1,0
+2352,Zeki Çelik,27.0,Right,180.0,73.0,Roma,Serie A,1,0,1,1
+2353,Zito Luvumbo,22.0,Left,171.0,64.0,Cagliari,Serie A,1,1,0,0
+2354,Álex Berenguer,29.0,Right,175.0,68.0,Athletic Club,La Liga,1,1,1,0
+2355,Álex Centelles,26.0,Left,190.0,73.0,Almería,La Liga 2,2,0,0,1
+2356,Álex Fernández,31.0,Right,180.0,73.0,Cádiz,La Liga 2,2,0,1,1
+2357,Álex Grimaldo,28.0,Left,170.0,69.0,Leverkusen,Bundesliga,1,0,1,1
+2358,Álex Moreno,31.0,Left,179.0,68.0,Aston Villa,Premier League,1,0,1,1
+2359,Álex Suárez,31.0,Right,179.0,,Las Palmas,La Liga,1,0,0,1
+2360,Álvaro Carreras,21.0,Left,186.0,69.0,Benfica,Primeira Liga,1,0,1,1
+2361,Álvaro Lemos,31.0,Right,175.0,72.0,Oviedo,La Liga 2,2,0,1,1
+2362,Álvaro Morata,31.0,Right,189.0,84.0,Milan,Serie A,1,1,0,0
+2363,Álvaro Negredo,,Left,186.0,87.0,Valladolid,La Liga 2,2,1,0,0
+2364,Álvaro Odriozola,28.0,Right,178.0,73.0,Real Sociedad,La Liga,1,0,0,1
+2365,Ângelo Borges,19.0,Left,173.0,67.0,Strasbourg,Ligue 1,1,1,1,0
+2366,Çağlar Söyüncü,28.0,Right,187.0,79.0,Fenerbahçe,Süper Lig,1,0,0,1
+2367,Éder Militão,26.0,Right,186.0,78.0,Real Madrid,La Liga,1,0,1,1
+2368,Éderson,25.0,Right,185.0,87.0,Atalanta,Serie A,1,0,1,0
+2369,Édgar González,27.0,Right,193.0,78.0,Almería,La Liga 2,2,0,1,1
+2370,Érik Lamela,32.0,Left,184.0,72.0,AEK Athens,Super League,1,1,1,0
+2371,Étienne Capoue,,Right,189.0,79.0,Villarreal,La Liga,1,0,1,0
+2372,Óliver Torres,29.0,Right,178.0,69.0,Monterrey,Liga MX,1,0,1,0
+2373,Óscar Melendo,27.0,Left,167.0,64.0,Granada,La Liga,1,1,1,0
+2374,Óscar Mingueza,25.0,Right,184.0,79.0,Celta Vigo,La Liga,1,0,0,1
+2375,Óscar Rodríguez Arnaiz,26.0,Right,173.0,69.0,Leganés,La Liga,1,0,1,0
+2376,Óscar Trejo,36.0,Right,177.0,78.0,Rayo Vallecano,La Liga,1,1,1,0
+2377,Óscar Valentín,30.0,Right,177.0,63.0,Rayo Vallecano,La Liga,1,0,1,0
+2378,Óscar de Marcos,35.0,Right,180.0,76.0,Athletic Club,La Liga,1,1,1,1
+2379,Þórir Jóhann Helgason,23.0,,187.0,78.0,Braunschweig,2,2,0,1,0
+2380,İlkay Gündoğan,33.0,Right,180.0,78.0,Manchester City,Premier League,1,0,1,0
