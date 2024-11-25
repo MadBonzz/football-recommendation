@@ -4,7 +4,7 @@ import functions
 
 st.title('Similar-Players-Finder')
 
-df = pd.read_csv('percentile.csv')
+df = pd.read_csv('./final-ui/percentile.csv')
 
 columns = [col for col in df.columns if col not in ['Name', 'current_club', 'League', 'Tier', 'FW', 'MF', 'DF', 'Unnamed: 0']]
 options = ["All"] + columns
