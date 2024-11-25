@@ -8,7 +8,7 @@ st.title('Similar-Players-Finder')
 
 #file_path = os.path.join(script_dir, 'percentile.csv')
 
-df = pd.read_csv('./../percentile.csv')
+df = pd.read_csv('./percentile.csv')
 
 columns = [col for col in df.columns if col not in ['Name', 'current_club', 'League', 'Tier', 'FW', 'MF', 'DF', 'Unnamed: 0']]
 options = ["All"] + columns
