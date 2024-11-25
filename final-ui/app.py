@@ -3,13 +3,12 @@ import pandas as pd
 import functions
 import os
 
-script_dir = os.path.dirname(os.path.abspath(__file__))
 
 st.title('Similar-Players-Finder')
 
-file_path = os.path.join(script_dir, 'percentile.csv')
+#file_path = os.path.join(script_dir, 'percentile.csv')
 
-df = pd.read_csv(file_path)
+df = pd.read_csv('./../percentile.csv')
 
 columns = [col for col in df.columns if col not in ['Name', 'current_club', 'League', 'Tier', 'FW', 'MF', 'DF', 'Unnamed: 0']]
 options = ["All"] + columns
