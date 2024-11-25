@@ -1,10 +1,14 @@
 import streamlit as st
 import pandas as pd
 import functions
+import os
 
 st.title('Similar-Players-Finder')
 
-df = pd.read_csv('percentile.csv')
+file_name = 'percentile.csv'
+path = os.getcwd()
+
+df = pd.read_csv(os.path.join(path, file_name))
 
 columns = [col for col in df.columns if col not in ['Name', 'current_club', 'League', 'Tier', 'FW', 'MF', 'DF', 'Unnamed: 0']]
 options = ["All"] + columns
