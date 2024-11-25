@@ -2,9 +2,10 @@ import streamlit as st
 import pandas as pd
 import functions
 import sys
-import path
+from path import Path
+import os
 
-dir = path.Path(__file__).abspath()
+dir = Path(os.getcwd()).resolve()
 sys.append.path(dir.parent.parent)
 
 st.title('Similar-Players-Finder')
