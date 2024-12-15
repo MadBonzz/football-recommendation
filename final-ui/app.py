@@ -4,7 +4,7 @@ import functions
 
 st.title('Similar-Players-Finder')
 
-df = pd.read_csv('percentile.csv')
+df = pd.read_csv('final-ui/percentile.csv')
 
 unique_comparables = ['Att Mid / Wingers', 'Forwards', 'Midfielders', 'Center Backs', 'Fullbacks']
 
