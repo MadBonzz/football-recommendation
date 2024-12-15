@@ -72,7 +72,7 @@ if st.button("Submit"):
 
         null_cols, cols, similar = functions.find_similar(df, selected_name, unique_comparables, final_selection, selected_clubs, selected_leagues, seelcted_tiers)
 
-        similar = similar.sort_values(by='similarity').head(20).reset_index(drop=True)
+        similar = similar.sort_values(by='similarity').head(10).reset_index(drop=True)
         if len(null_cols) > 0:
             st.write(f"The following data was not found for the player")
             st.write(", ".join(map(str, null_cols)))
